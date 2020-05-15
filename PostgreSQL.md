@@ -1,5 +1,15 @@
-# Установка Postgres SQL на Windows
+# How to: Как установить Postgres SQL на Windows
 
+## Introduction
+В данной инструкции информация по скачиванию и установки Postgres SQL.
+
+Postgres SQL - это опенсорсная реляционная СУБД базирующаяся на языке SQL. Postgres имеет преимущество соответствия стандартам (в том числе SQL) и обладает множеством продвинутых возможностей, например, надёжные транзакции (reliable transactions) и параллелизм без блокировки чтения (concurrency without read locks).
+
+## Requariments
+Операционная система: Windows, Mac<br>
+Лицензия: бесплатная, свободное ПО
+
+## Installation
 Перейти по ссылке<br>
 https://www.enterprisedb.com/downloads/postgres-postgresql-downloads<br>
 Выбрать версию 12.2 и ОС Windows x86-64 или	Windows x86-32 и нажать Download
@@ -8,6 +18,10 @@ https://www.enterprisedb.com/downloads/postgres-postgresql-downloads<br>
 <li>Выбрать директорию установки и нажать Next 3 раза.</li><br>
 <li>Выбрать пароль суперпользователя базы данных и нажать Next 3 раза.</li><br>
 <li>После окончания установки снимаем галочку с Launch Stack Builder и нажимаем Finish.</li><br>
+</ol>
+
+## Launch
+<ol>
 <li>Переходим в Меню Пуск — > PostgreSQL 12 -> pgAdmin 4.</li><br>
 <li>Вводим пароль суперпользователя.</li>
 </ol>
