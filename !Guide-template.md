@@ -3,7 +3,7 @@
 ## Introduction
 В данной инструкции информация по скачиванию и установки Tabelau Desktop.
 
-Tableau Desktop - это настольный Business Intelligence инструмент, который моджет подключаться к базе данных, big data системе или текстовым файлов (CSV, TXT и тд). Используется для созданию отчетов, дашбордов и визуализации данных. Desktop это клиент, которые подключается к 
+Tableau Desktop - это настольный Business Intelligence инструмент, который моджет подключаться к базе данных, big data системе или текстовым файлов (CSV, TXT и тд). Используется для созданию отчетов, дашбордов и визуализации данных. Desktop это клиент, который подключается к Tableau Server.
 
 ## Requariments
 Операционная система: Windows, Mac
@@ -17,3 +17,6 @@ Tableau Desktop - это настольный Business Intelligence инстру
 
 ## Launch
 1. Запустите Tabelau Desktop
+
+
+
