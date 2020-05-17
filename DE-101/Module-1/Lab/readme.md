@@ -12,4 +12,4 @@
 Необходимо использовать draw.io, Microsoft Visio Studio, Power Point или инструмент на выбор.
 
 ## Аналитика в Excel
-Используя данные <фалй> сделать:
+Используя данные Sample - Superstore.xls сделать:
