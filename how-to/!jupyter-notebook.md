@@ -5,7 +5,7 @@ Jupyter Notebook - это веб-приложение с открытым исх
 
 ![image](https://jupyter.org/assets/jupyterpreview.png)
 
-## Requariments
+## Requirements
 <ul>
 <li>Операционная система: Windows, Mac, Linux</li>
 <li>Python 3.3 или выше. Или Python 2.7 (но это уже устаревшая версия, просто часть старых программ работает только на ней)</li>
