@@ -9,7 +9,9 @@ DBeaver - это клиент SQL и средство администриров
 Операционная система: Windows, Mac, Linux<br>
 Лицензия: Apache, бесплатное программное обеспечение с открытым исходным кодом.
 
-## Installation
+## Windows 
+
+## Installation 
 Перейти по ссылке<br>
 https://dbeaver.io/files/dbeaver-ce-latest-x86_64-setup.exe<br>
 <ol>
@@ -26,3 +28,21 @@ https://dbeaver.io/files/dbeaver-ce-latest-x86_64-setup.exe<br>
 <li>Выбрать тип нового соединения PostgreSQL, Нажать Далее</li><br>
 <li>В поле аутентификация ввести пароль суперпользователя Базы данных, Нажать Готово</li><br>
 </ol>
+
+## Mac OS X
+
+## Installation
+Перейти по ссылке<br>
+https://dbeaver.io/files/dbeaver-ce-latest-installer.pkg<br>
+<ol>
+<li>Запустить исполняемый файл.</li><br>
+<li>Нажать Продолжить->Принять условия лицензионного соглашения->Установить->Ввести пароль учетной записи Mac OS</li><br>
+</ol>
+
+## Launch
+<ol>
+<li>После запуска отменить создание новой Базы Данных</li><br>
+<li>Выбрать тип нового соединения PostgreSQL Нажать Далее</li><br>
+<li>В поле аутентификация ввести пароль суперпользователя Базы данных Нажать Готово</li><br>
+</ol>
+
