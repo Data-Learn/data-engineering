@@ -1,6 +1,14 @@
 # Задание для модуля 1
 
-## Устанвока GitHub
+```
+Результаты домашней работы загружайте к себе в git репозиторий. Создайте папки
+DE-101/Module1/
+DE-101/Module2/
+...
+И сохраняйте там результат.
+```
+
+## Установка GitHub
 
 1. Прочитать про [Git на русском](http://bi0morph.github.io/hello-world/).
 2. Если вы не работали с командной строкой, то пройдите это курс [introduction into Shell](https://www.datacamp.com/courses/introduction-to-shell-for-data-science). Не обязательно понимать, что такое Shell/bash. Это для нас просто инструмент для навигации и запуска приложений/команд, когда нет GUI (графического интерфейса). Мы будем использовать командную строку для управления Git и для работы с облаком.
@@ -43,3 +51,31 @@
   - Sales and Profit by Customer
   - Customer Ranking
   - Sales per region
+
+
+**Значения атрибутов в Sample - Superstore.xls**
+Название столбца | Значение
+----------------|----------------------
+Row ID       | Идентификатор строки(уникальный)
+Order ID   | Идентификатор заказа
+Order Date   | Дата заказа
+Ship Date      | Дата доставки
+Ship Mode    | Класс доставки
+Customer ID | Идентификатор покупателя
+Customer Name     | Имя и фамилия покупателя
+Segment   | Сегмент покупателя
+Country     | Страна
+City       | Город
+State      | Штат
+Postal Code   | Почтовый индекс
+Region      | Регион
+Product ID    | Идентификатор товара
+Category | Категория
+Sub-Category     | Подкатегория
+Product Name   | Название товара
+Sales     | Продажи (Доход)
+Quantity       | Количество
+Discount    | Скидка в %
+Profit   | Прибыль
+Person     | Региональный менеджер
+Returned   | Возвраты товара 
