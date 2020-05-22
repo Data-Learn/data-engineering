@@ -1,12 +1,12 @@
 # How to: Как установить Postgres SQL на Windows
 
 ## Introduction
-В данной инструкции информация по скачиванию и установки Postgres SQL.
+В данной инструкции информация по скачиванию и установке Postgres SQL.
 
 Postgres SQL - это опенсорсная реляционная СУБД базирующаяся на языке SQL. Postgres имеет преимущество соответствия стандартам (в том числе SQL) и обладает множеством продвинутых возможностей, например, надёжные транзакции (reliable transactions) и параллелизм без блокировки чтения (concurrency without read locks).
 
-## Requariments
-Операционная система: Windows, Mac<br>
+## Requirements
+Операционная система: Windows, Mac, Linux<br>
 Лицензия: бесплатная, свободное ПО
 
 ## Windows
