@@ -24,6 +24,7 @@
 3. [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) (English)
 
 ## BI и визуализация данных
+1. [Создание и использование аналитических отчетов в Power BI](https://docs.microsoft.com/ru-ru/learn/paths/create-use-analytics-reports-power-bi/) (Русский) // Обучение от Microsoft
 
 ## ETL/ELT и интеграция данных 
 
@@ -34,7 +35,7 @@
 
 
 ## Стастика
-
+1. [Курс "Основы статистики"]](https://stepik.org/course/76/syllabus) (Русский)
 
 ## Математика
 
