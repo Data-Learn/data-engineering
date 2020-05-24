@@ -12,7 +12,7 @@
 
 
 ## SQL
-
+1. [Интерактивный онлайн-курс по SQL СУБД PostgreSQL](https://learndb.ru/) (Русский)
 
 ## Python
 
