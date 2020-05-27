@@ -95,17 +95,20 @@
 
 ## 1.1: Введение
 
-Данный модуль направлен на получение теоретической базы знаний для дальнейшей работы с курсом, а также на понимание роли аналитики и дата инженера в организации. Прежде чем научиться работать с инструментами очень важно понять принцип работы бизнеса, как бизнес использует данные и как они могут быть полезны. Будут рассмотрены типовые архитектурные решения и вакансии на роль дата инженера.
+Данный модуль направлен на получение теоретической базы знаний для дальнейшей работы с курсом, а также на понимание роли аналитики и дата инженера в организации. Прежде чем научиться работать с инструментами очень важно понять принцип работы бизнеса, как бизнес использует данные, и как они могут быть полезны. Будут рассмотрены типовые архитектурные решения и вакансии на роль дата инженера.
 
 ## 1.2: Роль аналитики в организации 
 
-Организация существует для того чтобы приносить какую-либо ценность (value). Выделяют 3 ключевых группы, кому именно может быть полезен тот или иной бизнес: 
+Организация существует для того, чтобы приносить какую-либо ценность (value). Выделяют 3 ключевых группы, кому именно может быть полезен тот или иной бизнес: 
 
 1. Владельцы бизнеса (shareholders); 
 
 2. Сотрудники (employees); 
 
 3. Клиенты (customers). 
+
+
+![performance-solutions jpg](https://user-images.githubusercontent.com/65634544/83002470-7345bf00-a050-11ea-8f52-2fe7e3b209de.png)
 
 Самая важная группа это клиенты, так как многие современные компании работают по принципу "customer obsession" (одержимость клиентом).
 
@@ -124,6 +127,8 @@
 ## 1.4: MindMap инжиниринга данных
 
 MindMap - интеллектуальная карта, инструмент визуального отображения информации. 
+
+![Mindmap](https://user-images.githubusercontent.com/65634544/83002336-4a252e80-a050-11ea-884a-aad96a181f74.jpg)
 
 1. Интеграция данных. ETL/ELT- извлечение (extract), трансформирование (transform), загрузка (load); 
 2. Хранилище данных (Data Warehouse)/Платформа данных (Data Platform) - современное хранилище данных/Озеро данных (data lake) - файловое хранилище. Data platform = Data Lake + DW; 
@@ -158,7 +163,7 @@ MindMap - интеллектуальная карта, инструмент ви
 Профильная категория (Data Science, IT):
 
 1. Разработчик программного обеспечения (Software Development Engineer). Хорошее знание алгоритмов, структур данных. Иногда работа связана с Big Data;
-2. Machine Learning Engineer. Хорошее знание математики, программирования и библиотек, каркса для deep learning ;
+2. Machine Learning Engineer. Хорошее знание математики, программирования и библиотек, каркаса для deep learning ;
 3. Visual Engineer. Работа с визуализацией данных с использованием языков программирования.
 
 
@@ -211,15 +216,54 @@ MindMap - интеллектуальная карта, инструмент ви
 Типовые вакансии для инженера данных:
 
 Вакансии на Indeed.com:
-Вакансии на Amazon.job:
+https://www.indeed.nl/vacatures?q=picnic%20&l=Amsterdam&vjk=8614e62e2466a9eb
+https://www.indeed.nl/vacatures?q=Data%20engineer&l=Amsterdam&vjk=ded53e0bcac28690
+
 Вакансии на Linkedin Jobs:
+https://www.linkedin.com/jobs/search/?currentJobId=1870006231&geoId=101174742&keywords=data%20engineering&location=Canada&start=25
+https://www.linkedin.com/jobs/search/?currentJobId=1781885788&geoId=101174742&keywords=data%20engineering%20mckinsey&location=Canada
+https://www.linkedin.com/jobs/search/?currentJobId=1847156714&geoId=101174742&keywords=data%20engineering%20bci&location=Canada
+https://www.linkedin.com/jobs/search/?currentJobId=1786900437&geoId=101174742&keywords=data%20engineering%20scribd&location=Canada
+
+Вакансии на Amazon.job:
+https://www.amazon.jobs/en-gb/jobs/1120124/senior-business-intelligence-engineer
+https://www.amazon.jobs/en-gb/jobs/1056602/data-engineer-predictive-metrics
+https://www.amazon.jobs/en-gb/jobs/991912/data-engineer-music-data-experience
+https://www.amazon.jobs/en-gb/jobs/1077211/sr-data-ml-engineer-nationwide-opportunities
+https://www.amazon.jobs/en-gb/jobs/1028459/sr-data-architect-data-warehouse-mpp-nationwide-opportunities
+https://www.amazon.jobs/en-gb/jobs/945427/data-engineer
+https://www.amazon.jobs/en-gb/jobs/1023836/data-engineer
+https://www.amazon.jobs/en-gb/jobs/997921/data-engineer
+https://www.amazon.jobs/en-gb/jobs/1131878/data-engineer
+https://www.amazon.jobs/en-gb/jobs/1068209/data-engineer-workforce-intelligence
+https://www.amazon.jobs/en-gb/jobs/1074192/data-engineer
+
 Вакансии на HH.RU:
+https://hh.ru/vacancy/37036573?query=DATA%20ENGINEER%20DEUTSCHE%20BANK
+https://hh.ru/vacancy/36991105?query=DATA%20ENGINEER
+https://hh.ru/vacancy/36959070?query=DATA%20ENGINEER%20SCOPIC
+https://hh.ru/vacancy/37098179?query=DATA%20ENGINEER%20NVIDIA
+https://hh.ru/vacancy/36447991?query=DATA%20ENGINEER%20EXNESS
+https://hh.ru/vacancy/36902096
+https://hh.ru/vacancy/36865382
+https://hh.ru/vacancy/37093845
+https://hh.ru/vacancy/36551177
+https://hh.ru/vacancy/36858596?query=Ртс-тендер
+https://hh.ru/vacancy/36557978?query=ozon%20etl
+https://hh.ru/vacancy/36475193?query=алвиса
+https://hh.ru/vacancy/37126867?query=аналитик%20power%20bi
+https://hh.ru/vacancy/37025201?query=Bi-разработчик
+https://hh.ru/vacancy/35192966?query=Bi-разработчик
+https://hh.ru/vacancy/36447272?query=Билайн
+https://hh.ru/vacancy/36841095?query=exness
 
 ## 1.8: Архитектура аналитического решения
 
+![Overall-Architecture](https://user-images.githubusercontent.com/65634544/83002262-2feb5080-a050-11ea-93f1-3fe6196c973a.png)
+
 3 слоя архитектуры:
 
-1. Source Layer - слой систем источников данных OLTP (Online Transactional Processing) - обработка транзакций; системы быстро работают на добавление данных в БД, но не расчитаны на аналитические запросы; как правило данные создаются бизнес процессами; из первого слоя все данные поступают  в хранилище данных;
+1. Source Layer - слой систем источников данных OLTP (Online Transactional Processing) - обработка транзакций; системы быстро работают на добавление данных в БД, но не рассчитаны на аналитические запросы; как правило данные создаются бизнес процессами; из первого слоя все данные поступают  в хранилище данных;
 
 2. Storage Layer - хранение данных для аналитики (DW, Data Lake, Data Platform); в хранилище данных желательно иметь два слоя: Staging - копия всех данных из первого слоя вместе; BL - модель данных;
 
