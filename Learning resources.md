@@ -10,9 +10,12 @@
 
 ## Excel
 
-
 ## SQL
 1. [Интерактивный онлайн-курс по SQL СУБД PostgreSQL](https://learndb.ru/) (Русский)
+
+## Git и GitHub
+1. [Git и GitHub для новичков](https://www.youtube.com/playlist?list=PL3LQJkGQtzc5rDeb7FjACNb6sOW300yA0) (Русский)
+2. [Работа через Git fork](https://webdevkin.ru/posts/raznoe/git-fork) (Русский)
 
 ## Python
 
