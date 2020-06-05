@@ -1,5 +1,7 @@
 # Getting Started with Data Engineering
 
+- [Модуль 01 - Роль Аналитики](https://github.com/Data-Learn/data-engineering/blob/master/DE%20-%20101%20Guide.md#%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C-1-%D1%80%D0%BE%D0%BB%D1%8C-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B8-%D0%B2-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8)
+- [Модуль 02 - Базы данных и SQL](https://github.com/Data-Learn/data-engineering/blob/master/DE%20-%20101%20Guide.md#%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C-2-%D0%B1%D0%B0%D0%B7%D1%8B-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B8-sql)
 
 ## Введение
 Всем привет! Меня зовут Дмитрий Аношин. Спасибо, что нашли время ознакомиться с моим ресурсом. Надеюсь мой опыт поможет вам в достижение ваших целей и вы сможете приобрести новые знания и также помочь другим.
@@ -258,18 +260,42 @@ MindMap - интеллектуальная карта, инструмент ви
 Потренируемся на SQL, установим базу данных и загрузим в нее данные, потом будем использовать Excel/Google Sheets для визуализации данных.
 
 ## 2.1 Введение
-
-**Видео лекция** - Введение
+**Видео лекция** - [Введение](https://youtu.be/GFgKx4XodMU)
 
 ## 2.2: Что такое базы данных и как они помогают при работе с данными
 
-**Видео лекция** - [Что такое база данных](https://youtu.be/Y8kAHcpImNA)
+**Видео лекция часть 1 - теория** - [Что такое база данных](https://youtu.be/Y8kAHcpImNA).
 
-Вам необходимо установить Postgres базу данных к себе на компьютер. Вы можете посмотреть [инструкции по установки Postgres](https://github.com/Data-Learn/data-engineering/blob/master/how-to/%20How%20to%20install%20PostgreSQL.md). 
+**Видео лекция часть 2 - практика** [Установка Postgres](https://www.youtube.com/watch?v=Y8kAHcpImNA&t=507s).
+
+### Дополнительные материалы для изучения
+1. [Введение в Базы Данных](https://stepik.org/course/551/) (Русский)
+2. [Хранилище данных vs Озеро Данных](https://habr.com/ru/post/485180/) (Русский)
+
+### Практика
+1. Вам необходимо установить Postgres базу данных к себе на компьютер. Вы можете посмотреть [инструкции по установки Postgres](https://github.com/Data-Learn/data-engineering/blob/master/how-to/%20How%20to%20install%20PostgreSQL.md). 
 
 ## 2.3: Подключение к Базам Данных и SQL
 
-Вам необходимо установить клиент SQL для подключения базы данных. Вы можете посмотреть [инструкции по установки DBeaver](https://github.com/Data-Learn/data-engineering/blob/master/how-to/%20How%20to%20install%20DBeaver.md). 
+
+**Видео лекция часть 1 - теория** - [Подключение к БД](https://youtu.be/nJsRJ5SytjI). 
+
+**Видео лекция часть 2 - практика** - [Подключение к БД, загрузка данных в БД, SQL запросы ](https://youtu.be/nJsRJ5SytjI?t=657)
+
+### Дополнительные материалы для изучения
+1. [Интерактивный онлайн-курс по SQL СУБД PostgreSQL](https://learndb.ru/) (Русский)
+2. [Интерактивный SQL учебник с упражнениями](https://sql-ex.ru/) (Русский)
+3. [Основные функции SQL](https://khashtamov.com/ru/window-functions-sql/) (Русский)
+4. [Практика SQL](https://towardsdatascience.com/sqlzoo-the-best-way-to-practice-sql-66b7ccb1f17a) (English)
+5. [SQL: Analyzing Business Metrics](https://www.codecademy.com/learn/sql-analyzing-business-metrics) (English)
+6. [Analyze data with SQL](https://www.codecademy.com/learn/paths/analyze-data-with-sql) (English)
+7. [Большой курс SQL и Баз Данных от Stanford](https://www.edx.org/course/databases-5-sql) (English)
+8. [Интерактивный тренажер по SQL](https://stepik.org/course/63054/) (Русский)
+
+### Практика
+1. Вам необходимо установить клиент SQL для подключения базы данных. Вы можете посмотреть [инструкции по установки DBeaver](https://github.com/Data-Learn/data-engineering/blob/master/how-to/%20How%20to%20install%20DBeaver.md). Так же вы можете использовать любой другой клиент для подключения к ваше БД.
+2. Создайте 3 таблицы и загрузите данные из [Superstore Excel файл](https://github.com/Data-Learn/data-engineering/blob/master/DE-101/Module-01/Lab/Sample%20-%20Superstore.xls) в вашу базу данных. Сохраните в вашем GitHub скрипт загрузки данных и создания таблиц. Вы можете использовать готовый [пример sql файлов](https://github.com/Data-Learn/data-engineering/tree/master/DE-101/Module-02/Lab).
+3. Напишите запросы, чтобы ответить на вопросы из [Модуля 01](https://github.com/Data-Learn/data-engineering/tree/master/DE-101/Module-01/Lab#%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0-%D0%B2-excel). Сохраните в вашем GitHub скрипт загрузки данных и создания таблиц. 
 
 ## 2.4: Модели Данных 
 
