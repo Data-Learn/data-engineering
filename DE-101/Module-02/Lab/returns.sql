@@ -1,7 +1,8 @@
 DROP TABLE IF EXISTS returns;
 CREATE TABLE returns(
-   Person   VARCHAR(17) NOT NULL PRIMARY KEY
-  ,Region   VARCHAR(7) NOT NULL
+	id SERIAL PRIMARY KEY,
+   Person   VARCHAR(7) NOT NULL
+  ,Region   VARCHAR(17) NOT NULL
 );
 INSERT INTO returns(Person,Region) VALUES ('Yes','CA-2016-100762');
 INSERT INTO returns(Person,Region) VALUES ('Yes','CA-2016-100762');
