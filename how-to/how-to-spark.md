@@ -2,7 +2,7 @@
 
 ## Windows
 
-####1. Устанавливаем Java
+#### 1. Устанавливаем Java
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Скачиваем отсюда:
   
@@ -25,7 +25,7 @@ java -version
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://s438sas.storage.yandex.net/rdisk/41d2d5df9be692eaad548e965750850840f259ae738b4c57216c162fc25c96a8/5eebdf5c/GqH3a1ee2zemXlYuVGmUv_sthCtOe1O_2j8E5FHlZlhNNamC4enmBRE4vrDenaqaLZ7ltfKIhj9amcXybWH3XQ==?uid=86236828&filename=1.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&owner_uid=86236828&etag=fcc9e65a4e1e05373ec3042332248af4&fsize=18743&media_type=image&hid=2ece86542ff3afe3f94760cb6e682c75&rtoken=aUY0ZQVEV4Bk&force_default=yes&ycrid=na-51b6eff0d32b5c5b3bf14501cf1d4ebe-downloader10h&ts=5a862a0e24cc0&s=337dfc4144022d8eebc4d9f77221a6d58e2077e635276fed722358afb5847ac3&pb=U2FsdGVkX1_t40f3VBfvEMrFDXIMAwKvd6dW3QpdSs0NP3UYNw-yO1n12Ve0bA81Eq5ssuw34LRdmWsdKvIiNZioq7OJy9MU_DS0lIaMeYE)
 
-####2. Устанавливаем переменную JAVA_HOME
+#### 2. Устанавливаем переменную JAVA_HOME
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Этот компьютер -> Правая кнопка -> Свойства -> Дополнительные параметры системы (слева) -> Переменные среды (внизу)
 
@@ -54,7 +54,7 @@ C:\Program Files\Java\jdk1.8.0_172
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Должно выглядеть вот так:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://s663sas.storage.yandex.net/rdisk/295e4984d4af0698f274c1a93bc9e7edb5334624dea071a266265f31bf780e3c/5eebe206/GqH3a1ee2zemXlYuVGmUv3ntYN3qOJKYrzNlOIzYgKYDSgIIwMVAZ_l6VoCljGx_zsxHdBG9vu4yrpeySvj06g==?uid=86236828&filename=4.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&owner_uid=86236828&media_type=image&hid=2d52e4142fb7173f223d71b1c86fca84&fsize=24920&etag=4cb6baee2e2ed27ab068416757883d1f&rtoken=7EZxKBru6vUF&force_default=yes&ycrid=na-a892eda84446688ded08f68232ef28c3-downloader12h&ts=5a862c988cb40&s=3762390e9c074c20dcffd4bc6bc6a87232117a20c00a49c30bbcb04ab4e6a965&pb=U2FsdGVkX19U5sULXwh4I5btcnTVclJWMOXFFuvHNV3BL6KCWOFDjGejgDBeE0qqYw0w4Bvs3BAnRGvs8lFLM5sR9ZfZXubmjqJc_j7F9BM)
 
-####3. Устанавливаем Python
+#### 3. Устанавливаем Python
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ВАЖНО!**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Не скачивайте самый новый релиз Python, у него есть проблемы с совместимостью со Spark (проверено лично).
@@ -112,7 +112,7 @@ pyspark
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://s259vla.storage.yandex.net/rdisk/ccdf136efb9370ce58922b18d9d3a97b1bdbf9388008f14d2f722edcdb74bb76/5eebe675/GqH3a1ee2zemXlYuVGmUv6GsOqhvE-LWBRaw_hvWXbqz6hKX56DhV5aKWG3QT-sGexRTWoT6M-ZNPEHrOnEm_w==?uid=86236828&filename=9.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&owner_uid=86236828&media_type=image&fsize=20149&hid=9800e6036de244342989ebf07952ccf1&etag=ba038fad001d7cd3f6eaf7677d9027d8&rtoken=sjN9RVNo2uBM&force_default=yes&ycrid=na-df00ad590ac528d3de68c962018d7d09-downloader11h&ts=5a8630d3ec740&s=f195164f328c4f62d70ae994ce8085e68b52cb12c580c3de76392ca7625db4ff&pb=U2FsdGVkX19ja7sJ_N-XxOkmraE8ssPDakQVtbPJ5xsT1cMOoLdIaXTutTuHb055lKZS9kmrkAm5LXEd_-WuggELU2h_ghlW3hQpxe1YkgI)
 
 
-####4. Устанавливаем winutils
+#### 4. Устанавливаем winutils
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Обязательная для Windows штука, без которой ничего не заработает!
 
@@ -124,7 +124,7 @@ pyspark
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Скопируйте winutils.exe в папку *hadoop\bin* внутри вашей папки со Spark
 
-####5. Настраиваем Spark
+#### 5. Настраиваем Spark
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Нам нужно создать ещё несколько переменных окружения.
 
