@@ -47,8 +47,17 @@
 2. [Хранилище данных vs Озеро Данных](https://habr.com/ru/post/485180/) (Русский)
 ## Big Data
 
+1. [Hadoop. Система для обработки больших объемов данных](https://stepik.org/course/150) (Русский)
 
-## Стастика
+Отличный бесплатный курс на русском для новичков в Big Data. Начинается с самых основ (Hadoop, HDFS, MapReduce), и
+охватывает большое количество технологий (Hive, Spark, NoSQL и т.д.)
+
+1. [Learning Spark](https://www.oreilly.com/library/view/learning-spark-2nd/9781492050032/) (Книга, English)
+
+Хорошая книга про Spark. Я дал ссылку на второе издание. Оно ещё не вышло, но выходит очень скоро (июль-август 2020).
+Первое издание было очень хорошим для своего времени, но уже слишком устарело (оно вышло в 2015 году).
+
+## Статистика
 1. [Курс "Основы статистики"](https://stepik.org/course/76/syllabus) (Русский)
 
 ## Математика
@@ -61,8 +70,18 @@
 
 
 ## Облачные вычисления
+1. [AWS Certified Solutions Architect - Associate](https://www.udemy.com/course/aws-certified-solutions-architect-associate-exam/) (English)
 
+Великолепный курс для тех, кто хочет пройти сертификацию AWS. Он огромный, но исчерпывающий. Если будете использовать его - никаких дополнительных ресурсов
+не нужно (никаких других курсов, чтения документации). Я учился по нему, сдал экзамен с первого раза на 87/100. 
 
+2. [AWS Certified Solutions Architect Associate Practice Exams](https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02/) (English)
+Набор пробных тестов для экзамена AWS Solutions Architect Associate. Рекомендую, мне сильно помогли.
+Среди вопросов иногда попадается дичь, но в целом очень хороший набор. Вопросы чуть посложнее чем на реальном экзамене.
+
+3. [AWS Certified Solutions Architect Associate Practice Exams](https://www.udemy.com/course/aws-certified-solutions-architect-associate-practice-tests-k/) (English)
+Ещё один хороший набор пробных тестов для экзамена AWS Solutions Architect Associate.
+Я прорешал оба набора по 2 раза перед экзаменом.
 
 
 # Для продвинутых
