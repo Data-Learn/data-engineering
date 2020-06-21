@@ -83,4 +83,4 @@ Returned   | Возвраты товара
 <br><br>
 [Пример отчета](https://github.com/Data-Learn/data-engineering/blob/master/DE-101/Module-01/Lab/Sample%20-%20Superstore%20-%20Dashboard.xlsx)
 <br>
-[Пошаговая инструкция](https://docs.google.com/document/d/1Ky8Zj0Ys_uN81ekil-WTyG9qzWAY7lkM28guhZ16vu4/edit) (в процессе написания)
+[Пошаговая инструкция](https://github.com/Data-Learn/data-engineering/blob/master/DE-101/Module-01/Lab/build_steps_dashboard.md)
