@@ -308,15 +308,34 @@ MindMap - интеллектуальная карта, инструмент ви
 2. Статья про Data Vault [Основы Data Vault](https://habr.com/ru/post/502968/)
 ### Практика
 1. Вам необходимо нарисовать модель данных для нашего файлика [Superstore](https://github.com/Data-Learn/data-engineering/blob/master/DE-101/Module-01/Lab/Sample%20-%20Superstore.xls):
-- Концептуальную
-- Логическую
-- Физическую
-
+  - Концептуальную
+  - Логическую
+  - Физическую
 Вы можете использовать бесплатную версию [SqlDBM](https://sqldbm.com/Home/) или любой другой софт для создания моделей данных баз данных.
+
 2. Когда вы нарисуете модель данных, вам нужно скопировать DDL и выполнить его в SQL клиенте.
 3. Вам немобходимо сделать `INSERT INTO SQL`, чтобы заполнить **Dimensions** таблицы и **Sales Fact** таблицу. Сначало мы заполняем **Dimensions** таблицы, где в качесте **id** мы генерим последовательность чисел, а зачем **Sales Fact** таблицу, в которую вставляем **id** из **Dimensions** таблиц. Такой пример я рассматривал в видео.
 
 ## 2.5: База данных в облаке
+
+**Видео лекция часть 1 - теория** - [БД в облаке](https://youtu.be/UzILBlOAQ9s). 
+
+**Видео лекция часть 2 - практика** - [Создание Аналитической БД в облаке AWS](https://youtu.be/UzILBlOAQ9s?t=627)
+
+### Дополнительные материалы для изучения
+Мы посвятим целый модуль облачным вычислениям. Но к сожалению, очень мало информации по сетевому администрированию, которую легко и быстро усвоить. Цель простая - нам необходимо, чтобы 2 и более сервера могли эффективно и безопасно коммуницировать между собой через сеть. Для этого нужно открыть/закрыть порты, настроить firewall и возможны другие действия. Вы можете поискать информацию.
+
+1. Лекции на Coursera [Google IT Support Professional](https://www.coursera.org/professional-certificates/google-it-support) (English)
+2. [Шпаргалка системного администратора по сетевым инструментам Linux](https://habr.com/ru/company/ruvds/blog/417485/) (Русский)
+
+### Практика
+1. Вам необходимо [создать учетную запись в AWS](https://github.com/Data-Learn/data-engineering/blob/master/how-to/How%20to%20create%20AWS%20Account.md). Это бесплатно. 
+2. Используя сервис AWS Lightsail создайте БД Postgres и активируйте **Public access**
+3. Подключитесь к новой БД через SQL клиент (например Dbeaver)
+4. Загрузите данные из модуля 2.3 (Superstore dataset) в staging (схема БД `stg`) и загрузите dimensional model (схема `dw`). Вы можете использовать мой пример SQL для этого упражнения:
+  - Staging [stg.orders.sql](https://github.com/Data-Learn/data-engineering/blob/master/DE-101/Module-02/Lab/stg.orders.sql)
+  - Business Layer [from_stg_to_dw.sql](https://github.com/Data-Learn/data-engineering/blob/master/DE-101/Module-02/Lab/from_stg_to_dw.sql)
+5. Попробуйте выполнить свои запросы из предыдущих упражнений. Не забдуть указать схему перед название таблицы. Например, `public.orders` или `stg.orders`.
 
 ## 2.6: Как донести данные до бизнес-пользователя (Пример решений на Klip Folio, Google Sheets и тп)
 
