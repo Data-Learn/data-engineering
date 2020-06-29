@@ -25,7 +25,7 @@ DE-101/Module2/
 
 Необходимо использовать draw.io, Microsoft Visio Studio, Power Point или инструмент на выбор. 
 
-Здесь вы можете найти [иснтрукции по установки draw.io](https://github.com/Data-Learn/data-engineering/blob/master/drawio.md).
+Здесь вы можете найти [иснтрукции по установки draw.io](https://github.com/Data-Learn/data-engineering/blob/master/how-to/How%20to%20install%20drawio.md).
 
 ## Аналитика в Excel
 Используя данные Sample - Superstore.xls сделать:
