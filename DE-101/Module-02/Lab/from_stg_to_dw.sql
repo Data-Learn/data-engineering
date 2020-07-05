@@ -16,10 +16,10 @@ create schema dw;
 --SHIPPING
 
 --creating a table
-drop table if exists dw.shipping_dim ;
+drop table if exists dw.shipping_dim cascade;
 CREATE TABLE dw.shipping_dim
 (
- ship_id       serial NOT NULL,
+ ship_id       INT GENERATED ALWAYS AS IDENTITY (START WITH 100 INCREMENT BY 1),
  shipping_mode varchar(14) NOT NULL,
  CONSTRAINT PK_shipping_dim PRIMARY KEY ( ship_id )
 );
@@ -28,8 +28,8 @@ CREATE TABLE dw.shipping_dim
 truncate table dw.shipping_dim;
 
 --generating ship_id and inserting ship_mode from orders
-insert into dw.shipping_dim 
-select 100+row_number() over(), ship_mode from (select distinct ship_mode from stg.orders ) a;
+insert into dw.shipping_dim (shipping_mode)
+select distinct ship_mode from stg.orders;
 --checking
 select * from dw.shipping_dim sd; 
 
@@ -38,10 +38,10 @@ select * from dw.shipping_dim sd;
 
 --CUSTOMER
 
-drop table if exists dw.customer_dim ;
+drop table if exists dw.customer_dim cascade;
 CREATE TABLE dw.customer_dim
 (
-cust_id serial NOT NULL,
+cust_id INT GENERATED ALWAYS AS IDENTITY (START WITH 100 INCREMENT BY 1),
 customer_id   varchar(8) NOT NULL, --id can't be NULL
  customer_name varchar(22) NOT NULL,
  CONSTRAINT PK_customer_dim PRIMARY KEY ( cust_id )
@@ -50,8 +50,8 @@ customer_id   varchar(8) NOT NULL, --id can't be NULL
 --deleting rows
 truncate table dw.customer_dim;
 --inserting
-insert into dw.customer_dim 
-select 100+row_number() over(), customer_id, customer_name from (select distinct customer_id, customer_name from stg.orders ) a;
+insert into dw.customer_dim (customer_id, customer_name)
+select distinct customer_id, customer_name from stg.orders;
 --checking
 select * from dw.customer_dim cd;  
 
@@ -60,10 +60,10 @@ select * from dw.customer_dim cd;
 
 --GEOGRAPHY
 
-drop table if exists dw.geo_dim ;
+drop table if exists dw.geo_dim cascade;
 CREATE TABLE dw.geo_dim
 (
- geo_id      serial NOT NULL,
+ geo_id      INT GENERATED ALWAYS AS IDENTITY (START WITH 100 INCREMENT BY 1),
  country     varchar(13) NOT NULL,
  city        varchar(17) NOT NULL,
  state       varchar(20) NOT NULL,
@@ -74,8 +74,8 @@ CREATE TABLE dw.geo_dim
 --deleting rows
 truncate table dw.geo_dim;
 --generating geo_id and inserting rows from orders
-insert into dw.geo_dim 
-select 100+row_number() over(), country, city, state, postal_code from (select distinct country, city, state, postal_code from stg.orders ) a;
+insert into dw.geo_dim (country, city, state, postal_code)
+select distinct country, city, state, postal_code from stg.orders ;
 --data quality check
 select distinct country, city, state, postal_code from dw.geo_dim
 where country is null or city is null or postal_code is null;
@@ -92,7 +92,7 @@ where city = 'Burlington'  and postal_code is null;
 
 
 select * from dw.geo_dim
-where city = 'Burlington'
+where city = 'Burlington';
 
 
 
@@ -100,10 +100,10 @@ where city = 'Burlington'
 --PRODUCT
 
 --creating a table
-drop table if exists dw.product_dim ;
+drop table if exists dw.product_dim cascade;
 CREATE TABLE dw.product_dim
 (
- prod_id   serial NOT NULL, --we created surrogated key
+ prod_id      INT GENERATED ALWAYS AS IDENTITY (START WITH 100 INCREMENT BY 1), --we created surrogated key
  product_id   varchar(50) NOT NULL,  --exist in ORDERS table
  product_name varchar(127) NOT NULL,
  category     varchar(15) NOT NULL,
@@ -115,8 +115,8 @@ CREATE TABLE dw.product_dim
 --deleting rows
 truncate table dw.product_dim ;
 --
-insert into dw.product_dim 
-select 100+row_number() over () as prod_id ,product_id, product_name, category, subcategory, segment from (select distinct product_id, product_name, category, subcategory, segment from stg.orders ) a;
+insert into dw.product_dim (product_id, product_name, category, sub_category, segment)
+select distinct product_id, product_name, category, subcategory, segment from stg.orders;
 --checking
 select * from dw.product_dim cd; 
 
@@ -126,7 +126,7 @@ select * from dw.product_dim cd;
 -- examplehttps://tapoueh.org/blog/2017/06/postgresql-and-the-calendar/
 
 --creating a table
-drop table if exists dw.calendar_dim ;
+drop table if exists dw.calendar_dim cascade;
 CREATE TABLE dw.calendar_dim
 (
 dateid serial  NOT NULL,
@@ -143,7 +143,7 @@ CONSTRAINT PK_calendar_dim PRIMARY KEY ( dateid )
 --deleting rows
 truncate table dw.calendar_dim;
 --
-insert into dw.calendar_dim 
+insert into dw.calendar_dim (dateid,"year",quarter,"month",week,"date",week_day,leap)
 select 
 to_char(date,'yyyymmdd')::int as date_id,  
        extract('year' from date)::int as year,
@@ -170,14 +170,14 @@ select * from dw.calendar_dim;
 --METRICS
 
 --creating a table
-drop table if exists dw.sales_fact ;
+drop table if exists dw.sales_fact cascade;
 CREATE TABLE dw.sales_fact
 (
- sales_id      serial NOT NULL,
- cust_id integer NOT NULL,
- order_date_id integer NOT NULL,
- ship_date_id integer NOT NULL,
- prod_id  integer NOT NULL,
+ sales_id            integer GENERATED ALWAYS AS IDENTITY (START WITH 100 INCREMENT BY 1),
+ cust_id             integer NOT NULL,
+ order_date_id       integer NOT NULL,
+ ship_date_id        integer NOT NULL,
+ prod_id     integer NOT NULL,
  ship_id     integer NOT NULL,
  geo_id      integer NOT NULL,
  order_id    varchar(25) NOT NULL,
@@ -188,10 +188,10 @@ CREATE TABLE dw.sales_fact
  CONSTRAINT PK_sales_fact PRIMARY KEY ( sales_id ));
 
 
-insert into dw.sales_fact 
+insert into dw.sales_fact (cust_id, order_date_id, ship_date_id, prod_id,
+		ship_id, geo_id,order_id, sales,profit, quantity, discount)
 select
-	 100+row_number() over() as sales_id
-	 ,cust_id
+	 cust_id
 	 ,to_char(order_date,'yyyymmdd')::int as  order_date_id
 	 ,to_char(ship_date,'yyyymmdd')::int as  ship_date_id
 	 ,p.prod_id
@@ -203,18 +203,18 @@ select
      ,quantity
 	 ,discount
 from stg.orders o 
-inner join dw.shipping_dim s on o.ship_mode = s.shipping_mode
-inner join dw.geo_dim g on o.postal_code = g.postal_code and g.country=o.country and g.city = o.city and o.state = g.state --City Burlington doesn't have postal code
-inner join dw.product_dim p on o.product_name = p.product_name and o.segment=p.segment and o.subcategory=p.sub_category and o.category=p.category and o.product_id=p.product_id 
-inner join dw.customer_dim cd on cd.customer_id=o.customer_id and cd.customer_name=o.customer_name 
+inner join dw.shipping_dim s	on o.ship_mode = s.shipping_mode
+inner join dw.geo_dim g			on o.postal_code = g.postal_code and g.country=o.country and g.city = o.city and o.state = g.state --City Burlington doesn't have postal code
+inner join dw.product_dim p		on o.product_name = p.product_name and o.segment=p.segment and o.subcategory=p.sub_category and o.category=p.category and o.product_id=p.product_id 
+inner join dw.customer_dim cd	on cd.customer_id=o.customer_id and cd.customer_name=o.customer_name;
 
 
 --do you get 9994rows?
 select count(*) from dw.sales_fact sf
-inner join dw.shipping_dim s on sf.ship_id=s.ship_id
-inner join dw.geo_dim g on sf.geo_id=g.geo_id
-inner join dw.product_dim p on sf.prod_id=p.prod_id
-inner join dw.customer_dim cd on sf.cust_id=cd.cust_id;
+inner join dw.shipping_dim s	on sf.ship_id=s.ship_id
+inner join dw.geo_dim g		on sf.geo_id=g.geo_id
+inner join dw.product_dim p		on sf.prod_id=p.prod_id
+inner join dw.customer_dim cd	on sf.cust_id=cd.cust_id;
 
 
 
