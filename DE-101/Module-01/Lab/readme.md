@@ -44,7 +44,7 @@ DE-101/Module2/
   - Sales per Customer
   - Avg. Discount
   - Monthly Sales by Segment ( табличка и график)
-  - Montly Sales by Product Category (табличка и график
+  - Monthly Sales by Product Category (табличка и график)
  2. Product Dashboard (Продуктовые метрики)
   - Sales by Product Category over time (Продажи по категориям)
  3. Customer Analysis
@@ -56,7 +56,7 @@ DE-101/Module2/
 **Значения атрибутов в Sample - Superstore.xls**
 Название столбца | Значение
 ----------------|----------------------
-Row ID       | Идентификатор строки(уникальный)
+Row ID       | Идентификатор строки (уникальный)
 Order ID   | Идентификатор заказа
 Order Date   | Дата заказа
 Ship Date      | Дата доставки
