@@ -372,12 +372,13 @@ MindMap - интеллектуальная карта, инструмент ви
 
 ### Дополнительные материалы для изучения
 
-1. [Business Intelligence: принципы, технологии, обучение](https://habr.com/ru/post/134031/) (Русский)
-2. [Что такое BI?](https://habr.com/ru/company/navicon/blog/250875/) (Русский)
-3. [What is business intelligence? Transforming data into business insights](https://www.cio.com/article/2439504/business-intelligence-definition-and-solutions.html) (English)
-4. [What is business intelligence? Your guide to BI and why it matters](https://www.tableau.com/learn/articles/business-intelligence) (English)
-5. [Курс Data Warehousing for Business Intelligence Specialization](https://www.coursera.org/specializations/data-warehousing) (English)
-6. [Книга Hyper: Changing the way you think about, plan, and execute business intelligence for real results, real fast!](https://www.amazon.ca/Hyper-Changing-execute-business-intelligence-ebook/dp/B011MXBW96/ref=sr_1_17?crid=LHAXKU4X0H3Y&dchild=1&keywords=business+intelligence&qid=1594192470&sprefix=business+intel%2Caps%2C208&sr=8-17) (English)
+1. [Короткое видео - что такое BI на примере Lamoda BI Academy и SAP Business Objects](https://youtu.be/xYExt37a9Qg) (Русский)
+2. [Business Intelligence: принципы, технологии, обучение](https://habr.com/ru/post/134031/) (Русский)
+3. [Что такое BI?](https://habr.com/ru/company/navicon/blog/250875/) (Русский)
+4. [What is business intelligence? Transforming data into business insights](https://www.cio.com/article/2439504/business-intelligence-definition-and-solutions.html) (English)
+5. [What is business intelligence? Your guide to BI and why it matters](https://www.tableau.com/learn/articles/business-intelligence) (English)
+6. [Курс Data Warehousing for Business Intelligence Specialization](https://www.coursera.org/specializations/data-warehousing) (English)
+7. [Книга Hyper: Changing the way you think about, plan, and execute business intelligence for real results, real fast!](https://www.amazon.ca/Hyper-Changing-execute-business-intelligence-ebook/dp/B011MXBW96/ref=sr_1_17?crid=LHAXKU4X0H3Y&dchild=1&keywords=business+intelligence&qid=1594192470&sprefix=business+intel%2Caps%2C208&sr=8-17) (English)
 
 
 ## 3.3 Обзор рынка решений BI
