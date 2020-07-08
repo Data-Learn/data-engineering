@@ -299,7 +299,7 @@ MindMap - интеллектуальная карта, инструмент ви
 
 ## 2.4: Модели Данных 
 
-**Видео лекция часть 1 - теория** - [Модели Данных](https://youtu.be/Jwefn9G2I_g). 
+**Видео лекция часть 1 - теория** - [Модели Данных](https://youtu.be/Jwefn9G2I_g) 
 
 **Видео лекция часть 2 - практика** - [Создание модели данных в SQLdbm](https://youtu.be/Jwefn9G2I_g?t=1903)
 
@@ -318,7 +318,7 @@ MindMap - интеллектуальная карта, инструмент ви
 
 ## 2.5: База данных в облаке
 
-**Видео лекция часть 1 - теория** - [БД в облаке](https://youtu.be/UzILBlOAQ9s). 
+**Видео лекция часть 1 - теория** - [БД в облаке](https://youtu.be/UzILBlOAQ9s) 
 
 **Видео лекция часть 2 - практика** - [Создание Аналитической БД в облаке AWS](https://youtu.be/UzILBlOAQ9s?t=627)
 
@@ -339,7 +339,7 @@ MindMap - интеллектуальная карта, инструмент ви
 
 ## 2.6: Как донести данные до бизнес-пользователя (Пример решений на Klip Folio, Google Sheets и тп)
 
-**Видео лекция часть 1 - теория** - [Сервисы визуализации для базы данных](https://youtu.be/bqUtv1y3D7A). 
+**Видео лекция часть 1 - теория** - [Сервисы визуализации для базы данных](https://youtu.be/bqUtv1y3D7A) 
 
 **Видео лекция часть 2 - практика** - [Пример поделючения к облачным сервисам](https://youtu.be/bqUtv1y3D7A?t=825)
 
@@ -363,7 +363,22 @@ MindMap - интеллектуальная карта, инструмент ви
 
 ## 3.1 Введение 
 
+**Видео лекция** - [Введение](https://youtu.be/sj2qRK7NRMQ) 
+
 ## 3.2 Что такое Business Intelligence (BI)
+
+**Видео лекция - теория** - [Что такое BI?](https://youtu.be/8dcISZnrlcw) 
+
+
+### Дополнительные материалы для изучения
+
+1. [Business Intelligence: принципы, технологии, обучение](https://habr.com/ru/post/134031/) (Русский)
+2. [Что такое BI?](https://habr.com/ru/company/navicon/blog/250875/) (Русский)
+3. [What is business intelligence? Transforming data into business insights](https://www.cio.com/article/2439504/business-intelligence-definition-and-solutions.html) (English)
+4. [What is business intelligence? Your guide to BI and why it matters](https://www.tableau.com/learn/articles/business-intelligence) (English)
+5. [Курс Data Warehousing for Business Intelligence Specialization](https://www.coursera.org/specializations/data-warehousing) (English)
+6. [Книга Hyper: Changing the way you think about, plan, and execute business intelligence for real results, real fast!](https://www.amazon.ca/Hyper-Changing-execute-business-intelligence-ebook/dp/B011MXBW96/ref=sr_1_17?crid=LHAXKU4X0H3Y&dchild=1&keywords=business+intelligence&qid=1594192470&sprefix=business+intel%2Caps%2C208&sr=8-17) (English)
+
 
 ## 3.3 Обзор рынка решений BI
 
