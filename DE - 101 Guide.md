@@ -44,7 +44,7 @@
 Прежде всего нужно определиться с требованиями для комфортной работы с данными и похождении курса. Я могу выявить несколько ключевых компонетов:
 - доступ в интернет;)
 - желательно экран 15" и больше;
-- желательно 16 Gb оперативки, иначе будет тормозить; (Можно и 8, н
+- желательно 16 Gb оперативки (мин 8 Gb), иначе будет тормозить;
 - операционные системы Windows и Maс. Linux тоже подойдет;
 - чтобы получить доступ к AWS, возможно, понадобится ввести номер банковской карты при регистрации (не раньше 4го модуля).
 - slack - это месенджер, вы можете скачаеть его [тут](https://slack.com/intl/en-ca/downloads/);
@@ -56,7 +56,7 @@
 Например, если вы не знаете Английский, но хотите работать в этой области, то вам следует начать его изучать и активно практиковать! 
 
 # Подготовка к курсу по Data Engineering
-Теперь давайте посмотрим на функцилнальные требования к инструментам и навыкам. Вы может не значни ничего из списка, а можете быть экспертам по всем указанным инструментам.
+Теперь давайте посмотрим на функциональные требования к инструментам и навыкам. Вы можете не знать ничего из списка, а можете быть экспертами по всем указанным инструментам.
 
 Есть некоторые вещи, которые важно (или как минимум желательно) знать для успешного прохождения курса. 
 Во время курса мы будем их разбирать, но будет хорошо, если вы уже владеете начальными навыками:
@@ -115,7 +115,7 @@
 4. Соблюдение требований 
 5. Избежание рисков
 
-**Видео лекция** - [Модуль 1.3 Роль Аналитики в Организации](https://youtu.be/UjvN8IE77Cs)
+**Видео лекция** - [Модуль 1.3 Роль Аналитики в Организации](https://youtu.be/80zFSlm9w0w)
 
 ## 1.4: MindMap инжиниринга данных
 
@@ -299,7 +299,7 @@ MindMap - интеллектуальная карта, инструмент ви
 
 ## 2.4: Модели Данных 
 
-**Видео лекция часть 1 - теория** - [Модели Данных](https://youtu.be/Jwefn9G2I_g). 
+**Видео лекция часть 1 - теория** - [Модели Данных](https://youtu.be/Jwefn9G2I_g) 
 
 **Видео лекция часть 2 - практика** - [Создание модели данных в SQLdbm](https://youtu.be/Jwefn9G2I_g?t=1903)
 
@@ -308,25 +308,78 @@ MindMap - интеллектуальная карта, инструмент ви
 2. Статья про Data Vault [Основы Data Vault](https://habr.com/ru/post/502968/)
 ### Практика
 1. Вам необходимо нарисовать модель данных для нашего файлика [Superstore](https://github.com/Data-Learn/data-engineering/blob/master/DE-101/Module-01/Lab/Sample%20-%20Superstore.xls):
-- Концептуальную
-- Логическую
-- Физическую
-
+  - Концептуальную
+  - Логическую
+  - Физическую
 Вы можете использовать бесплатную версию [SqlDBM](https://sqldbm.com/Home/) или любой другой софт для создания моделей данных баз данных.
+
 2. Когда вы нарисуете модель данных, вам нужно скопировать DDL и выполнить его в SQL клиенте.
 3. Вам немобходимо сделать `INSERT INTO SQL`, чтобы заполнить **Dimensions** таблицы и **Sales Fact** таблицу. Сначало мы заполняем **Dimensions** таблицы, где в качесте **id** мы генерим последовательность чисел, а зачем **Sales Fact** таблицу, в которую вставляем **id** из **Dimensions** таблиц. Такой пример я рассматривал в видео.
 
 ## 2.5: База данных в облаке
 
+**Видео лекция часть 1 - теория** - [БД в облаке](https://youtu.be/UzILBlOAQ9s) 
+
+**Видео лекция часть 2 - практика** - [Создание Аналитической БД в облаке AWS](https://youtu.be/UzILBlOAQ9s?t=627)
+
+### Дополнительные материалы для изучения
+Мы посвятим целый модуль облачным вычислениям. Но к сожалению, очень мало информации по сетевому администрированию, которую легко и быстро усвоить. Цель простая - нам необходимо, чтобы 2 и более сервера могли эффективно и безопасно коммуницировать между собой через сеть. Для этого нужно открыть/закрыть порты, настроить firewall и возможны другие действия. Вы можете поискать информацию.
+
+1. Лекции на Coursera [Google IT Support Professional](https://www.coursera.org/professional-certificates/google-it-support) (English)
+2. [Шпаргалка системного администратора по сетевым инструментам Linux](https://habr.com/ru/company/ruvds/blog/417485/) (Русский)
+
+### Практика
+1. Вам необходимо [создать учетную запись в AWS](https://github.com/Data-Learn/data-engineering/blob/master/how-to/How%20to%20create%20AWS%20Account.md). Это бесплатно. 
+2. Используя сервис AWS Lightsail создайте БД Postgres и активируйте **Public access**
+3. Подключитесь к новой БД через SQL клиент (например Dbeaver)
+4. Загрузите данные из модуля 2.3 (Superstore dataset) в staging (схема БД `stg`) и загрузите dimensional model (схема `dw`). Вы можете использовать мой пример SQL для этого упражнения:
+  - Staging [stg.orders.sql](https://github.com/Data-Learn/data-engineering/blob/master/DE-101/Module-02/Lab/stg.orders.sql)
+  - Business Layer [from_stg_to_dw.sql](https://github.com/Data-Learn/data-engineering/blob/master/DE-101/Module-02/Lab/from_stg_to_dw.sql)
+5. Попробуйте выполнить свои запросы из предыдущих упражнений. Не забдуть указать схему перед название таблицы. Например, `public.orders` или `stg.orders`.
+
 ## 2.6: Как донести данные до бизнес-пользователя (Пример решений на Klip Folio, Google Sheets и тп)
 
-## Домашнее задание 
+**Видео лекция часть 1 - теория** - [Сервисы визуализации для базы данных](https://youtu.be/bqUtv1y3D7A) 
+
+**Видео лекция часть 2 - практика** - [Пример поделючения к облачным сервисам](https://youtu.be/bqUtv1y3D7A?t=825)
+
+### Дополнительные материалы для изучения
+Данная лекция знакомит вас с популярными сервисам для визуализации данных. Посути мы с вами создаем BI решение. Более детально мы рассмотрим про BI в модуле 3. 
+
+1. [Введение в Google Data Studio](https://analytics.google.com/analytics/academy/course/10) (English)
+2. [AWS QuickSight практика](https://docs.aws.amazon.com/quicksight/latest/user/getting-started.html) (English)
+3. [Klipfolio практика](https://www.klipfolio.com/blogs-and-tutorials) (English)
+4. [Пиратские метрики](https://vc.ru/trade/53154-piratskie-metriki-dlya-internet-magazina) (Русский)
+5. [AARRR воронка — модель «Пиратские метрики» + фреймворк AAARRR](https://leadstartup.ru/db/aarrr) (Русский)
+6. [Обзор книги «Lean Analytics»](https://gopractice.ru/lean_analytics/) Русский)
+
+### Практика
+В качестве домашнего задания вам необходимо создать дашборд в одном из решений, которые мы рассмотрели. ДЛя идей можно использовать задание из 1го модуля. Данные должны быть в Postgres в AWS и вы сможете подключиться сервисом к БД и создать несколько отчетов. Для практики можно и во всех 3х создать.
+
+## Опрос Модуль 2
+Пожалуйста пройдите [опрос по заврешению Модуля 2](https://forms.gle/GX2jPuvBxDNXa5dU9). Так я смогу посмотреть, сколько человек закончило модуль, что было хорошо, а что можно улучшить.
 
 # Модуль 3: Визуализация данных, дашборды и отчетность - Business Intelligence.
 
 ## 3.1 Введение 
 
+**Видео лекция** - [Введение](https://youtu.be/sj2qRK7NRMQ) 
+
 ## 3.2 Что такое Business Intelligence (BI)
+
+**Видео лекция - теория** - [Что такое BI?](https://youtu.be/8dcISZnrlcw) 
+
+
+### Дополнительные материалы для изучения
+
+1. [Короткое видео - что такое BI на примере Lamoda BI Academy и SAP Business Objects](https://youtu.be/xYExt37a9Qg) (Русский)
+2. [Business Intelligence: принципы, технологии, обучение](https://habr.com/ru/post/134031/) (Русский)
+3. [Что такое BI?](https://habr.com/ru/company/navicon/blog/250875/) (Русский)
+4. [What is business intelligence? Transforming data into business insights](https://www.cio.com/article/2439504/business-intelligence-definition-and-solutions.html) (English)
+5. [What is business intelligence? Your guide to BI and why it matters](https://www.tableau.com/learn/articles/business-intelligence) (English)
+6. [Курс Data Warehousing for Business Intelligence Specialization](https://www.coursera.org/specializations/data-warehousing) (English)
+7. [Книга Hyper: Changing the way you think about, plan, and execute business intelligence for real results, real fast!](https://www.amazon.ca/Hyper-Changing-execute-business-intelligence-ebook/dp/B011MXBW96/ref=sr_1_17?crid=LHAXKU4X0H3Y&dchild=1&keywords=business+intelligence&qid=1594192470&sprefix=business+intel%2Caps%2C208&sr=8-17) (English)
+
 
 ## 3.3 Обзор рынка решений BI
 

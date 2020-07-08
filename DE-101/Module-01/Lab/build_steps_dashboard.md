@@ -32,25 +32,39 @@
 
 ![image](https://i.ibb.co/WKd3V7L/4.png)
 
-Чтобы подтянуть данные из вкладки People можно воспользоваться функцией [Если](https://support.office.com/ru-ru/article/%D0%B5%D1%81%D0%BB%D0%B8-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F-%D0%B5%D1%81%D0%BB%D0%B8-69aed7c9-4e8a-4755-a9bc-aa8bbff73be2). Я не буду на ней подробно останавливаться, т.к лучше [официальной справки](https://support.office.com/ru-ru/article/%D0%B5%D1%81%D0%BB%D0%B8-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F-%D0%B5%D1%81%D0%BB%D0%B8-69aed7c9-4e8a-4755-a9bc-aa8bbff73be2) с этим вряд ли кто справится. Там все на русском с видео и примерами.
-```
-=ЕСЛИ(M2=People!$B$5;People!$A$5;
-```
+Чтобы подтянуть данные из вкладки People можно воспользоваться функцией [Если](https://support.office.com/ru-ru/article/%D0%B5%D1%81%D0%BB%D0%B8-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F-%D0%B5%D1%81%D0%BB%D0%B8-69aed7c9-4e8a-4755-a9bc-aa8bbff73be2). Я не буду на ней подробно останавливаться, т.к лучше [официальной справки](https://support.office.com/ru-ru/article/%D0%B5%D1%81%D0%BB%D0%B8-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F-%D0%B5%D1%81%D0%BB%D0%B8-69aed7c9-4e8a-4755-a9bc-aa8bbff73be2) с этим вряд ли кто справится. Там все на русском с видео и примерами.<br>
+`
+=ЕСЛИ(M2=People!$B$5;People!$A$5;)
+`
+<br>
 ![image](https://i.ibb.co/KXfWVgn/5.png)
 
 Только у нас не одно, а четыре условия. В Excel без проблем можно использовать [вложенные функции](https://support.office.com/ru-ru/article/%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B2%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B9-%D0%B2-%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B5-9d7c966d-6030-4cd6-a052-478d7d844166), этим и воспользуемся.
-```
+`
 =ЕСЛИ(M2=People!$B$5;People!$A$5;ЕСЛИ(M2=People!$B$4;People!$A$4;ЕСЛИ(M2=People!$B$3;People!$A$3;ЕСЛИ(M2=People!$B$2;People!$A$2;0))))
-```
+`
 В итоге получаем таблицу, где для каждого региона указан его менеджер
 
 ![image](https://i.ibb.co/dg2fS7G/6.png)
 
-Чтобы подтянуть данные по возвратам из вкладки Returns можно воспользоваться сразу несколькими функциями [ИНДЕКС](https://support.office.com/ru-ru/article/%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F-%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81-a5dcf0dd-996d-40a4-a822-b56b061328bd)+ [ПОИСКПОЗ](https://support.office.com/ru-ru/article/%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%BF%D0%BE%D0%B7-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F-%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%BF%D0%BE%D0%B7-e8dffd45-c762-47d6-bf89-533f4a37673a) и [ЕСЛИОШИБКА](https://support.office.com/ru-ru/article/%D0%B5%D1%81%D0%BB%D0%B8%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F-%D0%B5%D1%81%D0%BB%D0%B8%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0-c526fd07-caeb-47b8-8bb6-63f3e417f611)
-```
-=ЕСЛИОШИБКА(ИНДЕКС(Returns!A:A;ПОИСКПОЗ(B2;Returns!B:B;0));&quot;No&quot;)
-```
-Наверняка есть и более оптимальные решения, добавляйте ;)
+Чтобы подтянуть данные по возвратам из вкладки Returns можно воспользоваться сразу несколькими функциями [ИНДЕКС](https://support.office.com/ru-ru/article/%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F-%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81-a5dcf0dd-996d-40a4-a822-b56b061328bd)+ [ПОИСКПОЗ](https://support.office.com/ru-ru/article/%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%BF%D0%BE%D0%B7-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F-%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%BF%D0%BE%D0%B7-e8dffd45-c762-47d6-bf89-533f4a37673a) и [ЕСЛИОШИБКА](https://support.office.com/ru-ru/article/%D0%B5%D1%81%D0%BB%D0%B8%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F-%D0%B5%D1%81%D0%BB%D0%B8%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0-c526fd07-caeb-47b8-8bb6-63f3e417f611)<br>
+`
+=ЕСЛИОШИБКА(ИНДЕКС(Returns!A:A;ПОИСКПОЗ(B2;Returns!B:B;0));"No")
+`
+<br><br>В качестве альтернативы можно использовать функцию ВПР (VKLOOKUP). 
+<br><br>
+`
+=ЕСЛИОШИБКА(ВПР([@[Order ID]];Returns!$A:$B;2;0);"No")`
+<br><br>
+Но у нее есть жесткие ограничения. В частности, искомые данные должны находиться справа от столбца с критерием. Когда данные раположены слева от критерия, то приходится переставлять столбцы местами.<br>
+<br>
+  ![image](https://i.ibb.co/87q8MhZ/vpr.jpg)
+  ![image](https://i.ibb.co/WxHJ1K7/vpr2.jpg)
+<br><br>
+
+[Ролик на youtube по ВПР](https://youtu.be/nNUx72wmLjs)<br>
+[Ролик на youtube по ИНДЕКС И ПОИСКПОЗ](https://youtu.be/nbwj6LEx6cQ)<br>
+<br>Наверняка есть и другие решения, добавляйте ;)
 
 Итак данные сведены на одном листе и можем приступать к отчетам
 

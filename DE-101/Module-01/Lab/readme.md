@@ -25,7 +25,7 @@ DE-101/Module2/
 
 Необходимо использовать draw.io, Microsoft Visio Studio, Power Point или инструмент на выбор. 
 
-Здесь вы можете найти [иснтрукции по установки draw.io](https://github.com/Data-Learn/data-engineering/blob/master/drawio.md).
+Здесь вы можете найти [иснтрукции по установки draw.io](https://github.com/Data-Learn/data-engineering/blob/master/how-to/How%20to%20install%20drawio.md).
 
 ## Аналитика в Excel
 Используя данные Sample - Superstore.xls сделать:
@@ -44,7 +44,7 @@ DE-101/Module2/
   - Sales per Customer
   - Avg. Discount
   - Monthly Sales by Segment ( табличка и график)
-  - Montly Sales by Product Category (табличка и график
+  - Monthly Sales by Product Category (табличка и график)
  2. Product Dashboard (Продуктовые метрики)
   - Sales by Product Category over time (Продажи по категориям)
  3. Customer Analysis
@@ -56,7 +56,7 @@ DE-101/Module2/
 **Значения атрибутов в Sample - Superstore.xls**
 Название столбца | Значение
 ----------------|----------------------
-Row ID       | Идентификатор строки(уникальный)
+Row ID       | Идентификатор строки (уникальный)
 Order ID   | Идентификатор заказа
 Order Date   | Дата заказа
 Ship Date      | Дата доставки
