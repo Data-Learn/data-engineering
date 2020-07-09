@@ -383,6 +383,18 @@ MindMap - интеллектуальная карта, инструмент ви
 
 ## 3.3 Обзор рынка решений BI
 
+**Видео лекция - теория** - [Рынок BI?](https://youtu.be/CKDGGOzYg9w) 
+
+
+### Дополнительные материалы для изучения
+
+1. [Куда движется рынок BI-аналитики в 2019 году](https://habr.com/ru/post/475470/) (Русский)
+2. [Топ-10 технологических трендов в обработке данных и аналитике в 2019 году по мнению Gartner](https://habr.com/ru/company/otus/blog/457450/) (Русский)
+3. [Технические отличия BI систем (Power BI, Qlik Sense, Tableau)](https://habr.com/ru/post/444758/) (Русский)
+4. [Gartner BI отчет 2020 оригинал](https://www.tableau.com/reports/gartner) (English)
+5. [Forrester 2019 Enterprise BI Platform Wave™ Evaluations — Research Update](https://go.forrester.com/blogs/enterprise-bi-platform-waves/) (English)
+
+
 ## 3.4 Основы Визуализации данных
 
 ## 3.5 Что такое Self-Service Analytics
