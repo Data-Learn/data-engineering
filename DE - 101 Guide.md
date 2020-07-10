@@ -2,6 +2,7 @@
 
 - [Модуль 01 - Роль Аналитики](https://github.com/Data-Learn/data-engineering/blob/master/DE%20-%20101%20Guide.md#%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C-1-%D1%80%D0%BE%D0%BB%D1%8C-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B8-%D0%B2-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8)
 - [Модуль 02 - Базы данных и SQL](https://github.com/Data-Learn/data-engineering/blob/master/DE%20-%20101%20Guide.md#%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C-2-%D0%B1%D0%B0%D0%B7%D1%8B-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B8-sql)
+- [Модуль 03 - Business Intelligence](https://github.com/Data-Learn/data-engineering/blob/master/DE%20-%20101%20Guide.md#%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C-3-%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B4%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%D1%8B-%D0%B8-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C---business-intelligence)
 
 ## Введение
 Всем привет! Меня зовут Дмитрий Аношин. Спасибо, что нашли время ознакомиться с моим ресурсом. Надеюсь мой опыт поможет вам в достижение ваших целей и вы сможете приобрести новые знания и также помочь другим.
@@ -395,17 +396,30 @@ MindMap - интеллектуальная карта, инструмент ви
 5. [Forrester 2019 Enterprise BI Platform Wave™ Evaluations — Research Update](https://go.forrester.com/blogs/enterprise-bi-platform-waves/) (English)
 
 
-## 3.4 Основы Визуализации данных
+## 3.4 2 Типа решений BI
 
-## 3.5 Что такое Self-Service Analytics
+**Видео лекция - теория** - [2 типа решений BI?](https://youtu.be/VklEzWpFZIk) 
 
-## 3.6 Знакомимся с основными понятиями BI на примере Tableau Desktop (dimension, measure, filter, semantic layer и тд)
 
-## 3.7 Знакомимся с с основными понятиями BI на примере Power BI
+### Дополнительные материалы для изучения
 
-## 3.8 Зачем нужен BI Server и как он работает на пример Tableau Server
+1. [Traditional vs. Self-Service BI: Analytics Alternatives Explained](https://www.softwareadvice.com/resources/traditional-bi-vs-self-service/) (English)
+2. [Презентация Tool Comparison: Enterprise BI vs Self-Service Analytics: Choosing the Best Tool for the Job](https://www.slideshare.net/senturus/tool-comparison-enterprise-bi-vs-selfservice-analytics-choosing-the-best-tool-for-the-job) (English)
+3. [Семь раз отмерь, один раз внедри BI инструмент](https://habr.com/ru/company/ods/blog/460807/) (Русский)
 
-## 3.9 Основные задачи BI разработчика
+## 3.5 Molap vs Rolap
+
+## 3.6 Анатомия BI продукта
+
+## 3.7 Основы визуализации данных
+
+## 3.8 Знакомство с клиентов BI (обзор Tableau Desktop и Power BI)
+
+## 3.9 Знакомство с клиентов BI Сервером (обзор Tableau Server)
+
+## 3.10 Обзор популярных решений для визуализации и отчетности
+
+## 3.11 Основные требования для BI разработчика
 
 # Модуль 4:  Интеграция данных и создание потоков данных (data piplelines)
 
