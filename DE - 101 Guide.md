@@ -444,7 +444,22 @@ MindMap - интеллектуальная карта, инструмент ви
 2. [Презентация Tool Comparison: Enterprise BI vs Self-Service Analytics: Choosing the Best Tool for the Job](https://www.slideshare.net/senturus/tool-comparison-enterprise-bi-vs-selfservice-analytics-choosing-the-best-tool-for-the-job) (English)
 3. [Семь раз отмерь, один раз внедри BI инструмент](https://habr.com/ru/company/ods/blog/460807/) (Русский)
 
-## 3.5 Molap vs Rolap
+## 3.5 Ох уж эти кубы (Molap vs Rolap)
+
+Когда мы работаем с аналитикой мы часто слышим про кубы. Если честно, кубами и OLAP называют все в подряд без разбора, включая BI и хранилище данных. Давайте решим, что для нас OLAP куб это MOLAP, закэшированные данные в файле или in-memory, где мы используем язык MDX для работы с ними по средством Excel или BI инструмента. А все остальное пусть будет ROLAP или просто классический BI. Чем я и пользуюсь, например в Tableau. MDX я тоже не знаю и не собираюсь его использовать.
+
+**Так как я не использую MOLAP c 2011 года и стараюсь вообще его избегать, то я не являюсь экспертом. Если есть неточности, смело добавляйте сюда.**
+
+**Видео лекция - теория** - [Ох уж эти кубы (Molap vs Rolap)](https://youtu.be/FWEQYomEbqw) 
+
+
+### Дополнительные материалы для изучения
+
+1. [Введение в многомерный анализ](https://habr.com/ru/post/126810/) (Русский)
+2. [Многомерные кубы, OLAP и MDX](https://habr.com/ru/post/66356/) (Русский)
+3. [Курс на Edx: Developing a Tabular Data Model](https://www.edx.org/course/developing-a-tabular-data-model) (English)
+4. [Курс на Edx: Developing a Multidimensional Data Model](https://www.edx.org/course/developing-a-multidimensional-data-model) (English)
+5. [Запуск OLAP-сервера на базе Pentaho по шагам](https://habr.com/ru/post/187782/) (Русский)
 
 ## 3.6 Анатомия BI продукта
 
