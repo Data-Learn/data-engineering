@@ -475,6 +475,25 @@ MindMap - интеллектуальная карта, инструмент ви
 Есть ли у вас доступ к BI решению? Если есть, то попробуйте отыскать все элементы, про которые я рассказывал. Если нет, то попробуйте найти любой продукт BI и посмотреть, что внутри.
 
 ## 3.7 Основы визуализации данных
+Визуализация данных это неотъемлемая часть любого BI решения. Эксперты пишут книги, университеты готовят специалистов и все для того, чтобы научить нас эффективно коммуницировать данные с конечным пользователем. Каждый раз когда вы будет создавать дашборд или строить отчет, вы должны задуматься о том, как лучше рассказать историю на основе данных и какой метод визуализации использовать.
+
+**Видео лекция - теория** - [Основы визуализации данных](https://youtu.be/oOB4FkGqKxY) 
+
+### Дополнительные материалы для изучения
+
+1. [Вебинар Datalearn: Алгоритм Проектирования Дашборда с Романом Буниным](https://youtu.be/xSp5ykKcQho) (Русский)
+2. [10 примеров визуализации из истории](https://www.tableau.com/learn/articles/best-beautiful-data-visualization-examples) (English)
+3. [Влияние цвета на качество визуализации](https://hbr.org/2014/04/the-right-colors-make-data-easier-to-read) (English)
+4. [Хорошая визуализация должна быть скучной](https://everydayanalytics.ca/2015/10/good-data-visualization-should-be-boring.html) (English)
+5. [Курс ВШЭ - Основы анализа и визуализация данных для медиа 2019/2020](http://wiki.cs.hse.ru/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0_%D0%B8_%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%B4%D0%BB%D1%8F_%D0%BC%D0%B5%D0%B4%D0%B8%D0%B0_2019/2020#.D0.9C.D0.B0.D1.82.D0.B5.D1.80.D0.B8.D0.B0.D0.BB.D1.8B_.D0.BA.D1.83.D1.80.D1.81.D0.B0) (Русский)
+6. [Специализация на Coursera - Information Visualization Specialization](https://www.coursera.org/specializations/information-visualization) (English)
+7. [Курс на Coursera - Data Analysis and Presentation Skills: the PwC Approach Specialization](https://www.coursera.org/specializations/pwc-analytics) (English)
+8. [Курс на Coursera - Data Visualization with Advanced Excel](https://www.coursera.org/learn/advanced-excel) (English)
+9. [Курс на Coursera - Data Visualization and Communication with Tableau](https://www.coursera.org/learn/analytics-tableau) (English)
+10. [https://habr.com/ru/company/pixonic/blog/453828/](https://habr.com/ru/company/pixonic/blog/453828/) (Русский)
+
+### Практика
+Посмотрите на ваши дашборды на работе или в модуле 1 и 2. Что вы могли бы улучшить?
 
 ## 3.8 Знакомство с клиентов BI (обзор Tableau Desktop и Power BI)
 
