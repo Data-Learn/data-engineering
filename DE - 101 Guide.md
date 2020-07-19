@@ -490,7 +490,7 @@ MindMap - интеллектуальная карта, инструмент ви
 7. [Курс на Coursera - Data Analysis and Presentation Skills: the PwC Approach Specialization](https://www.coursera.org/specializations/pwc-analytics) (English)
 8. [Курс на Coursera - Data Visualization with Advanced Excel](https://www.coursera.org/learn/advanced-excel) (English)
 9. [Курс на Coursera - Data Visualization and Communication with Tableau](https://www.coursera.org/learn/analytics-tableau) (English)
-10. [https://habr.com/ru/company/pixonic/blog/453828/](https://habr.com/ru/company/pixonic/blog/453828/) (Русский)
+10. [Как не врать с помощью статистики: основы визуализации данных](https://habr.com/ru/company/pixonic/blog/453828/) (Русский)
 
 ### Практика
 Посмотрите на ваши дашборды на работе или в модуле 1 и 2. Что вы могли бы улучшить?
