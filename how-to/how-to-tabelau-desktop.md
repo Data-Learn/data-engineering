@@ -12,8 +12,8 @@ Tableau Desktop - это настольный Business Intelligence инстру
 2. На бесплатном курсе coursera [Data Visualization and Communication with Tableau](https://www.coursera.org/learn/analytics-tableau/) дают лицензию после прохождения 1ой недели.
 
 ## Installation
-1. Скачать Tabelau Desktop
+Скачать Tabelau Desktop [тут](https://www.tableau.com/products/desktop/download)
 
 
 ## Launch
-1. Запустите Tabelau Desktop
+Запустите Tabelau Desktop
