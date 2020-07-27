@@ -38,6 +38,10 @@
 
 ## BI и визуализация данных
 1. [Создание и использование аналитических отчетов в Power BI](https://docs.microsoft.com/ru-ru/learn/paths/create-use-analytics-reports-power-bi/) (Русский) // Обучение от Microsoft
+2. [Qlik Sense: Базовый марафон](https://datayoga.ru/q00) (Русский) // Обучение от Datayoga
+3. [Qlik Sense: Внедрение за 13 шагов](https://datayoga.ru/qq00) (Русский) // Обучение от Datayoga
+4. [Tableau desktop: Базовый марафон](https://tableau.pro/bookofmarathon42) (Русский) // Обучение от Datayoga
+5. [Tableau desktop: Продвинутый марафон](https://tableau.pro/bookof8steps) (Русский) // Обучение от Datayoga
 
 ## ETL/ELT и интеграция данных 
 
