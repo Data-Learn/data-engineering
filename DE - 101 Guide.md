@@ -495,14 +495,51 @@ MindMap - интеллектуальная карта, инструмент ви
 ### Практика
 Посмотрите на ваши дашборды на работе или в модуле 1 и 2. Что вы могли бы улучшить?
 
-## 3.8 Знакомство с клиентов BI (обзор Tableau Desktop и Power BI)
+Tabelau один из самых популярных продуктов среди BI. На западе Tableau очень популярен. Среди отечественных компаний он широко известен, но часто его считают дорогим. Хотя всем и так известно, что покупка BI - это инвестиция, если его правильно внедрить и хорошо настроить, обучить пользователей и дать им возможность самостоятельно ковыряться в данных (self-service BI). В этом уроке мы рассмотрим Tableau Desktop - клиент решения Tableau, который позволяет работать с большими и маленькими данными, подключаться ко множеству систем и сервисов и создавать офигительные дашборды.
+
+**Видео лекция - теория** - [Знакомство с Tableau Desktop](https://youtu.be/QY1FYMnxElw) 
+
+**Видео лекция - парктика** - [Демонстрация Tableau Dekstop](https://youtu.be/QY1FYMnxElw?t=2710) 
+
+### Дополнительные материалы для изучения
+
+1. [Tableau Tutorial](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm) (English)
+2. [Как создать Sparkline в Tableau](https://www.vizwiz.com/2015/09/kpisandsparklines.html) (English)
+3. [Обзор 43 графика за 50 минут](https://www.vizwiz.com/2017/10/43-charts-in-50-minutes.html) (English)
+4. [Шаблон 5 дашбордов](http://duelingdata.blogspot.com/2019/01/5-types-of-dashboards.html) (English)
+5. [Курс на Coursera - Data Visualization and Communication with Tableau](https://www.coursera.org/learn/analytics-tableau) (English)
+6. [Примеры работ в Tableau - Tableau Zen Мастером](https://photos.google.com/share/AF1QipPtbvxIRuoBESlPztSPTsryjD0ehd8SmpLBHp4aKdpUu0vcVqLZZP81DH1uzoRzKA?key=THpkYTRRT2JKU1ZVQzJBdTh4UDF6T3FoWVB0MUVn) (english)
+7. [Соревнования по Tableau - Iron Viz](https://www.tableau.com/iron-viz) (English)
+8. [Как создать Sankey график](https://www.flerlagetwins.com/2018/04/sankey-template.html) (English)
+
+### Практика
+Вы уже хорошо знакомы с SuperStore Dataset. Оказалось, что это самый популярны датасет в мире Табло. И вы даже увидете sampla dashboard в вашем новеньком Tableau Desktop. 
+
+1. Если еще нет Tabeau Desktop и лицензии, то следуйте [инструкции](https://github.com/Data-Learn/data-engineering/blob/master/how-to/how-to-tabelau-desktop.md).
+2. Подключитесь к БД Postgres и нарисуйте дашборд, который вы уже делали раньше. Вы можете использовать Табло пример для своего, главное понять как работает:
+- Tableau Data Sources
+- Live/Extract
+- Dimensions/Measures/Filters
+- Calculation Fields
+- Parameters
+- Table Calculations
+- LOD
+- Blending
+- Federated Data Source
+- Dashboard/View/Story
+- Forecast/Trend/Clustering
+
+Вы можете просто разобрать на части дашборд из примера и создать свой на этой базе. Главное понять принципы работы.
+
+В качестве результата вы должны создать дашборд и создать себе аккаунт на [Tableau Public](https://public.tableau.com/s/), куда вы сможете его загрузать. Постарайстесь использовать как можно больше Tableau функциональности, но не забываейте о красоте и простате.
 
 ## 3.9 Знакомство с клиентов BI Сервером (обзор Tableau Server)
 
-## 3.10 Обзор "модных" решений для визуализации и отчетности
+## 3.10 Знакомство с клиентов Power BI
 
-## 3.11 Основные требования для BI разработчика
+## 3.11 Обзор "модных" решений для визуализации и отчетности
 
+## 3.12 BI опросы или как управлять клиентским опытом BI пользователей
 # Модуль 4:  Интеграция данных и создание потоков данных (data piplelines)
 
 ## Модуль 4.1 Введение
