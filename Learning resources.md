@@ -2,8 +2,6 @@
 
 Мы хотим собрать самые крутые ресурсы (бесплатные) в области аналитики, которые помогут всем получить необходимые знания.
 
-
-
 # Для начинающих
 
 ## Английский язык
@@ -22,9 +20,13 @@
 7. [Большой курс SQL и Баз Данных от Stanford](https://www.edx.org/course/databases-5-sql) (English)
 8. [Интерактивный тренажер по SQL](https://stepik.org/course/63054/) (Русский)
 
+## Работа с командной строкой
+1. [Основы командной строки](https://ru.hexlet.io/courses/cli-basics) (Русский)
+
 ## Git и GitHub
 1. [Git и GitHub для новичков](https://www.youtube.com/playlist?list=PL3LQJkGQtzc5rDeb7FjACNb6sOW300yA0) (Русский)
-2. [Работа через Git fork](https://webdevkin.ru/posts/raznoe/git-fork) (Русский)
+2. [Системы контроля версий (GIT)](https://ru.hexlet.io/courses/intro_to_git) (Русский)
+3. [Работа через Git fork](https://webdevkin.ru/posts/raznoe/git-fork) (Русский)
 
 ## Python
 1. Книга Think Python (вы можете ее найти онлайн) (English)
@@ -37,7 +39,14 @@
 3. [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) (English)
 
 ## BI и визуализация данных
+1. [Навыки для визуализации данных](https://revealthedata.com/blog/all/navyki-dlya-vizualizacii-dannyh-i-dataviz-inzhenerov/) (Русский)
+### Инструменты
+#### Power BI
 1. [Создание и использование аналитических отчетов в Power BI](https://docs.microsoft.com/ru-ru/learn/paths/create-use-analytics-reports-power-bi/) (Русский) // Обучение от Microsoft
+#### Tableau
+1. [Официальное руководство](https://www.tableau.com/learn/training/20203) (English)
+2. [Марафон DataYoga](https://tableau.pro/marathon42) (Русский)
+3. [BI разработчик. Основы работы в Tableau](https://stepik.org/course/56280/promo) (Русский)
 
 ## ETL/ELT и интеграция данных 
 
