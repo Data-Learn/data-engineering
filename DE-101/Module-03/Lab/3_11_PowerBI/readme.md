@@ -1,8 +1,25 @@
 # Задание для Power BI
-Эдгар Лакшин приготовил для вас задание, которое поможет закрепить Power BI навыкие.
+Эдгар Лакшин приготовил для вас задание, которое поможет закрепить Power BI навыки. В этой папке находятся:
+
+- Power BI дашборд, который Эдгар показывал в лекции `DataLearn.pbix`
+- Excel файл с данными `DataLearnDatasetHW.xlsx`
+
+Вот так выглядит дашборд:
+
+![Power BI Dashboard](https://github.com/Data-Learn/data-engineering/blob/master/DE-101/Module-03/Lab/3_11_PowerBI/img/3_11_3.png)
+
+На базе существующего дашборда вам необходимо:
 
 # Задание 1
-Преобразовать данные из словаря DIM Clients в Power Query из вида
+Преобразовать данные из словаря DIM Clients в Power Query из вида.
+
+Из такого:
+
+![1](https://github.com/Data-Learn/data-engineering/blob/master/DE-101/Module-03/Lab/3_11_PowerBI/img/3_11_1.png)
+
+В такое:
+
+![2](https://github.com/Data-Learn/data-engineering/blob/master/DE-101/Module-03/Lab/3_11_PowerBI/img/3_11_2.png)
 
 
 # Задание 2
