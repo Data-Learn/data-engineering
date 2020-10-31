@@ -618,7 +618,7 @@ Tabelau один из самых популярных продуктов сре�
 Вы может посмотреть примеры решений и даже попробовать скачать и подключиться к существующей базе даннах Postgres или файлику с данными.
 
 1. [Looker](https://looker.com/)
-2. [Sygma BI](https://www.sigmacomputing.com/)
+2. [Sigma BI](https://www.sigmacomputing.com/)
 3. [Mode](https://mode.com/)
 4. [Plotly and Dash](https://plotly.com/)
 5. [Redash](https://redash.io/)
