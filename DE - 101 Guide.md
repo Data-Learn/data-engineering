@@ -2,6 +2,10 @@
 
 # Getting Started with Analytics (Data) Engineering
 
+
+> **_Примечание:_** Курс изначально назывался **Getting Started with Analytics and Data Engineering**, что значит Введение в аналитику и инжиниринг данных. Синоним этого словосочетания - **Analytics Engineering**, что переводится как Инжиниринг Аналитики, то есть полный цикл создания аналитического решения с 0. 
+
+
 - [Введение](https://github.com/Data-Learn/data-engineering/blob/master/DE%20-%20101%20Guide.md#%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5)
 - [Требования](https://github.com/Data-Learn/data-engineering/blob/master/DE%20-%20101%20Guide.md#%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
 - [Подготовка к курсу по Analytics Engineering](https://github.com/Data-Learn/data-engineering/blob/master/DE%20-%20101%20Guide.md#%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BA-%D0%BA%D1%83%D1%80%D1%81%D1%83-%D0%BF%D0%BE-data-engineering)
@@ -60,7 +64,7 @@
 
 Например, если вы не знаете Английский, но хотите работать в этой области, то вам следует начать его изучать и активно практиковать! 
 
-## Подготовка к курсу по Data Engineering
+## Подготовка к курсу по Analytics (Data) Engineering
 Теперь давайте посмотрим на функциональные требования к инструментам и навыкам. Вы можете не знать ничего из списка, а можете быть экспертами по всем указанным инструментам.
 
 Есть некоторые вещи, которые важно (или как минимум желательно) знать для успешного прохождения курса. 
