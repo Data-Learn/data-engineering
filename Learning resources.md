@@ -92,7 +92,7 @@
 Ещё один хороший набор пробных тестов для экзамена AWS Solutions Architect Associate.
 Я прорешал оба набора по 2 раза перед экзаменом.
 
-4. [AWS Video Tutorials] (https://www.youtube.com/watch?v=8jbx8O3wuLg&list=PLg5SS_4L6LYsxrZ_4xE_U95AtGsIB96k9) (Russian)
+4. [AWS Video Tutorials](https://www.youtube.com/watch?v=8jbx8O3wuLg&list=PLg5SS_4L6LYsxrZ_4xE_U95AtGsIB96k9) (Russian)
 Довольно неплохой плейлист обучалок по AWS. Рассмотрено на конкретных примерах все, что нужно в работе. Например, VPC сервисам посвящено сразу несколько видео, от А до Я.
 
 
