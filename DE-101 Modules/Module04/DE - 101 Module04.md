@@ -54,8 +54,8 @@
 
 ### Практика
 В качестве практики вам необходимо:
-1. Скачать и запустить Pentaho DI
-2. Скачать мои примеры Pentaho jobs для `Staging` и `Dimension Tables` и доделать их, чтобы получить такойже результат, как в модуле 2.
+1. Скачать и запустить Pentaho DI, [отсюда](https://sourceforge.net/projects/pentaho/).
+2. [Скачать мои примеры Pentaho jobs](https://github.com/Data-Learn/data-engineering/tree/master/DE-101%20Modules/Module04/DE%20-%20101%20Lab%204.4) для `Staging` и `Dimension Tables` и доделать их, чтобы получить такойже результат, как в модуле 2.
 3. Создайте еще одну трансформацию, в которой вы создатите `sales_fact` таблицу
 
 ## Модуль 4.5 34 ETL Подсистемы и Техники хранилищ данных в Pentaho DI
