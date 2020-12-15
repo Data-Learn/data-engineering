@@ -63,9 +63,7 @@
 
 1. [Введение в многомерный анализ](https://habr.com/ru/post/126810/) (Русский)
 2. [Многомерные кубы, OLAP и MDX](https://habr.com/ru/post/66356/) (Русский)
-3. [Курс на Edx: Developing a Tabular Data Model](https://www.edx.org/course/developing-a-tabular-data-model) (English)
-4. [Курс на Edx: Developing a Multidimensional Data Model](https://www.edx.org/course/developing-a-multidimensional-data-model) (English)
-5. [Запуск OLAP-сервера на базе Pentaho по шагам](https://habr.com/ru/post/187782/) (Русский)
+3. [Запуск OLAP-сервера на базе Pentaho по шагам](https://habr.com/ru/post/187782/) (Русский)
 
 ## 3.6 Из чего состоит любой BI инструмент?
 
