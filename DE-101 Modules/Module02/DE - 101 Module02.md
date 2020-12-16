@@ -115,7 +115,7 @@
 
 ### Практика
 1. Вам необходимо [создать учетную запись в AWS](https://github.com/Data-Learn/data-engineering/blob/master/how-to/How%20to%20create%20AWS%20Account.md). Это бесплатно. 
-2. Используя сервис AWS Lightsail создайте БД Postgres и активируйте **Public access**
+2. Используя сервис AWS Lightsail или [AWS RDS (смотрите инструкцию)](https://github.com/Data-Learn/data-engineering/blob/master/how-to/how_to_amazon_rds.md) создайте БД Postgres и активируйте **Public access**
 3. Подключитесь к новой БД через SQL клиент (например Dbeaver)
 4. Загрузите данные из модуля 2.3 (Superstore dataset) в staging (схема БД `stg`) и загрузите dimensional model (схема `dw`). Вы можете использовать мой пример SQL для этого упражнения:
   - Staging [stg.orders.sql](https://github.com/Data-Learn/data-engineering/blob/master/DE-101/Module-02/Lab/stg.orders.sql)
