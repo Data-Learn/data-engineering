@@ -1,0 +1,214 @@
+prop_code;feature;description
+MCX-001;bedrooms;7
+MCX-001;baths;4
+MCX-001;style;Colonial
+MCX-001;Living room;Yes
+MCX-001;Dining room;Yes
+MCX-001;Kitchen;Yes
+MCX-001;Basement;Yes
+MCX-002;bedrooms;5
+MCX-002;baths;5
+MCX-002;style;Colonial
+MCX-002;Living room;Yes
+MCX-002;Dining room;Yes
+MCX-002;Family room;Yes
+MCX-002;Kitchen;Yes
+MCX-002;Office;Yes
+MCX-002;Basement;Yes
+MCX-002;Fireplace;Yes
+MCX-002;exterior construction;Brick
+MCX-003;bedrooms;4
+MCX-003;baths;5
+MCX-003;style;Colonial
+MCX-003;Living room;Yes
+MCX-003;Dining room;Yes
+MCX-003;Kitchen;Yes
+MCX-003;Basement;Yes
+MCX-003;Fireplace;Yes
+MCX-003;Swimming pool;Yes
+MCX-003;cooling features;air conditioning
+MCX-003;exterior construction;All Brick
+MCX-004;bedrooms;4
+MCX-004;baths;3
+MCX-004;Living room;Yes
+MCX-004;Dining room;Yes
+MCX-004;Family room;Yes
+MCX-004;Kitchen;Yes
+MCX-004;Office;Yes
+MCX-004;Basement;Yes
+MCX-004;heating features;Hot Water Heater
+MCX-004;cooling features;air conditioning
+MCX-004;exterior construction;Brick
+MCX-005;bedrooms;4
+MCX-005;baths;4
+MCX-005;Living room;Yes
+MCX-005;Dining room;Yes
+MCX-005;Family room;Yes
+MCX-005;Kitchen;Yes
+MCX-005;Basement;Yes
+MCX-005;cooling features;air conditioning
+MCX-005;exterior construction;Brick
+MCX-006;bedrooms;4
+MCX-006;baths;6
+MCX-006;style;Colonial
+MCX-006;Living room;Yes
+MCX-006;Dining room;Yes
+MCX-006;Kitchen;Yes
+MCX-006;Basement;Yes
+MCX-006;Fireplace;Yes
+MCX-006;Swimming pool;Yes
+MCX-006;parking features;Garage Door Opener, Built-In
+MCX-006;heating features;Hot Water, Radiant, Heat Source: Gas
+MCX-006;cooling features;air conditioning
+MCX-006;exterior construction;Stone, Stucco
+MCX-007;bedrooms;3
+MCX-007;baths;5
+MCX-007;style;Colonial
+MCX-007;Living room;Yes
+MCX-007;Dining room;Yes
+MCX-007;Kitchen;Yes
+MCX-007;Basement;Yes
+MCX-007;Fireplace;Yes
+MCX-007;cooling features;air conditioning
+MCX-007;exterior construction;Stone, Stucco
+MCX-008;bedrooms;5
+MCX-008;baths;4
+MCX-008;style;Colonial
+MCX-008;Dining room;Yes
+MCX-008;Kitchen;Yes
+MCX-008;Basement;Yes
+MCX-008;Fireplace;Yes
+MCX-008;cooling features;air conditioning
+MCX-008;exterior construction;Stone, Stucco
+MCX-009;bedrooms;5
+MCX-009;baths;5
+MCX-009;style;Colonial
+MCX-009;Living room;Yes
+MCX-009;Dining room;Yes
+MCX-009;Kitchen;Yes
+MCX-009;Basement;Yes
+MCX-009;Fireplace;Yes
+MCX-009;cooling features;air conditioning
+MCX-009;exterior construction;Stone, Stucco
+MCX-010;bedrooms;5
+MCX-010;baths;5
+MCX-010;Fireplace;Yes
+MCX-011;bedrooms;5
+MCX-011;baths;5
+MCX-011;style;Contemporary
+MCX-011;Basement;Yes
+MCX-011;Laundry room;Yes
+MCX-011;Fireplace;Yes
+MCX-011;cooling features;air conditioning
+MCX-012;bedrooms;4
+MCX-012;baths;3
+MCX-012;Fireplace;Yes
+MCX-013;bedrooms;3
+MCX-013;baths;4
+MCX-013;style;Contemporary
+MCX-013;Living room;Yes
+MCX-013;Dining room;Yes
+MCX-013;Kitchen;Yes
+MCX-013;Basement;Yes
+MCX-013;Fireplace;Yes
+MCX-013;parking features;Garage Door Opener, Built-In
+MCX-013;heating features;Hot Water, Radiant, Heat Source: Gas
+MCX-013;cooling features;air conditioning
+MCX-013;exterior construction;Stone, Wood
+MCX-014;bedrooms;4
+MCX-014;baths;5
+MCX-014;Living room;Yes
+MCX-014;Dining room;Yes
+MCX-014;Kitchen;Yes
+MCX-014;Basement;Yes
+MCX-014;Fireplace;Yes
+MCX-014;cooling features;air conditioning
+MCX-014;exterior construction;Stone
+MCX-015;bedrooms;5
+MCX-015;baths;3
+MCX-015;style;Tudor
+MCX-015;Living room;Yes
+MCX-015;Dining room;Yes
+MCX-015;Kitchen;Yes
+MCX-015;Basement;Yes
+MCX-015;Fireplace;Yes
+MCX-015;parking features;Detached
+MCX-015;heating features;Hot Water, Heat Source: Gas
+MCX-015;exterior construction;Part Brick, Stucco, Wood
+MCX-016;bedrooms;5
+MCX-016;baths;4
+MCX-016;style;Colonial
+MCX-016;Living room;Yes
+MCX-016;Dining room;Yes
+MCX-016;Family room;Yes
+MCX-016;Kitchen;Yes
+MCX-016;Office;Yes
+MCX-016;Basement;Yes
+MCX-016;Swimming pool;Yes
+MCX-016;cooling features;air conditioning
+MCX-016;exterior construction;Stuco
+MCX-017;bedrooms;4
+MCX-017;baths;3
+MCX-017;style;Tudor
+MCX-017;Living room;Yes
+MCX-017;Dining room;Yes
+MCX-017;Kitchen;Yes
+MCX-017;Basement;Yes
+MCX-017;Fireplace;Yes
+MCX-017;Swimming pool;Yes
+MCX-017;parking features;Garage Door Opener, Detached
+MCX-017;heating features;Hot Water, Steam, Heat Source: Gas
+MCX-017;cooling features;air conditioning
+MCX-017;exterior construction;All Brick
+MCX-018;bedrooms;3
+MCX-018;baths;2
+MCX-018;style;Ranch
+MCX-018;Living room;Yes
+MCX-018;Dining room;Yes
+MCX-018;Kitchen;Yes
+MCX-018;Basement;Yes
+MCX-018;heating features;Heat Source: Electric
+MCX-018;cooling features;air conditioning
+MCX-018;exterior construction;All Brick
+MCX-019;bedrooms;4
+MCX-019;baths;3
+MCX-019;Basement;Yes
+MCX-019;Laundry room;Yes
+MCX-019;heating features;Electric
+MCX-019;cooling features;air conditioning
+MCX-020;bedrooms;6
+MCX-020;baths;4
+MCX-020;style;Contemporary
+MCX-020;Living room;Yes
+MCX-020;Dining room;Yes
+MCX-020;Kitchen;Yes
+MCX-020;Fireplace;Yes
+MCX-020;Swimming pool;Yes
+MCX-020;parking features;Garage Door Opener, Built-In
+MCX-020;heating features;Hot Water, Heat Source: Gas
+MCX-020;cooling features;air conditioning
+MCX-020;exterior construction;Part Brick, Wood
+MCX-021;bedrooms;7
+MCX-021;baths;5
+MCX-021;Basement;Yes
+MCX-022;bedrooms;4
+MCX-022;baths;4
+MCX-022;style;Colonial
+MCX-022;Living room;Yes
+MCX-022;Dining room;Yes
+MCX-022;Kitchen;Yes
+MCX-022;Basement;Yes
+MCX-022;Fireplace;Yes
+MCX-022;cooling features;air conditioning
+MCX-022;exterior construction;Stucco
+MCX-023;bedrooms;4
+MCX-023;baths;4
+MCX-023;style;Colonial
+MCX-023;Living room;Yes
+MCX-023;Family room;Yes
+MCX-023;Kitchen;Yes
+MCX-023;Basement;Yes
+MCX-023;Fireplace;Yes
+MCX-023;heating features;Hot Water Heater
+MCX-023;cooling features;air conditioning
+MCX-023;exterior construction;Stucco

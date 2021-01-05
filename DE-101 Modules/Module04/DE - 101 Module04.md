@@ -58,8 +58,45 @@
 2. [Скачать мои примеры Pentaho jobs](https://github.com/Data-Learn/data-engineering/tree/master/DE-101%20Modules/Module04/DE%20-%20101%20Lab%204.4) для `Staging` и `Dimension Tables` и доделать их, чтобы получить такойже результат, как в модуле 2.
 3. Создайте еще одну трансформацию, в которой вы создатите `sales_fact` таблицу
 
-## Модуль 4.5 34 ETL Подсистемы и Техники хранилищ данных в Pentaho DI
+## Модуль 4.5 34 ETL Подсистемы
 
-## Модуль 4.6 Другие ETL инструменты
+Согласно Ральфу Кимбаллу (тот самый, который изобрел Dimensional Modelling), существует 34 ETL подсистемы, которые делятся на 4 основных категории:
+- **Data Extracting** (получить данные из систем - E в ETL)
+- **Cleaning and Conforming Data** (интеграция данных и подготовка к загрузке в DW - T в ETL)
+- **Delivering Data for Presentation** (обработка данных в DW - L в ETL)
+- **Managing the ETL environment** (yправление и мониторинг компонентов ETL)
 
-## Проект по ETL
+Само по себе понятие ETL подсистема - это некая абстракция. Не нужно копать глубоко. Как правило - это либо компонент ETL решения, например готовый компонент в Pentaho DI для создания SCD Type 2 (подсистема 9) или компонент для создания последовательности чисел, в случае необходимости генерации суррогатных ключей (подсистема 10). Это может буть функциональность ETL инструмента для обработки ошибок (подсистема 5) или возможность мониторинга выполнения ETL job (подсистема 27). 
+
+В этом уроке мы рассмотрим все 34 ETL подсистемы и при необходимости вы можете изучить их более детально.
+
+**Видео лекция - теория** - [ETL Подсистемы](https://youtu.be/iiFHHbajrdE). 
+
+В качестве практики мы с вами рассмотрим упражнения из книги [Pentaho Data Integration Beginner's Guide - Second Edition](https://github.com/happyapple668/gavin-repo/blob/master/books/BI/Kettle/Pentaho%20Data%20Integration%20Beginner's%20Guide%2C%20Second%20Edition.pdf) глава 8 и 9 - работа с базой данных. Мы планируем записать отдельное видео и инструкцию. Если вы хотите самостоятельно решить упражнение, то вы можете найти данную книгу и приступить к упражнениям. Если вы хотите более детально разобраться, то можете приступать к прочтению этой книги. Я сохранил все материалы для лабораторных работ в нашем [git](https://github.com/Data-Learn/data-engineering/tree/master/DE-101%20Modules/Module04/DE%20-%20101%20Lab%204.5).
+
+### Дополнительные материалы для изучения
+
+1. [Pentaho Kettle Solutions](https://github.com/kyosuke1018/tips/blob/master/Wiley%20Pentaho%20Kettle%20Solutions%2C%20Building%20Open%20Source%20ETL%20Solutions%20with%20Pentaho%20Data%20Integration%20(2010).pdf) (English) `отсюда я брал описание ETL подсистем`
+2. [Pentaho Data Integration Beginner's Guide - Second Edition](https://github.com/happyapple668/gavin-repo/blob/master/books/BI/Kettle/Pentaho%20Data%20Integration%20Beginner's%20Guide%2C%20Second%20Edition.pdf) (English) `практика основ ETL на примере Pentaho DI`
+3. [Архитектура хранилищ данных: традиционная и облачная](https://habr.com/ru/post/441538/) (Русский)
+4. [Subsystems of ETL Revisited](https://www.kimballgroup.com/2007/10/subsystems-of-etl-revisited/) (English)
+5. [What are Slowly Changing Dimensions?](https://www.datawarehouse4u.info/SCD-Slowly-Changing-Dimensions.html) (Русский)
+6. [Медленно меняющиеся измерения](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B4%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE_%D0%BC%D0%B5%D0%BD%D1%8F%D1%8E%D1%89%D0%B8%D0%B5%D1%81%D1%8F_%D0%B8%D0%B7%D0%BC%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D1%8F) (Русский)
+7. [Версионность и история данных](https://habr.com/ru/post/101544/) (Русский)
+
+### Практика
+1. В качестве практики вам необходимо выявить 8-10 подсистем в ETL Pentaho DI и написать небольшой отчет, в котором вы приложите print screen компонента (ETL подсистемы) и напишите про его свойства. Результат сохраните в вашем Git.
+2. Самостоятельно попробовать сделать упражнения из главы 9 книги `Pentaho Data Integration Beginner's Guide - Second Edition`. В книги вы найдете необходиму информацию по установки тестовой базы данных. Я сохранил все материалы для лабораторных работ в нашем [git](https://github.com/Data-Learn/data-engineering/tree/master/DE-101%20Modules/Module04/DE%20-%20101%20Lab%204.5).
+Это достойная задача для будущего ETL разработчика или Инженера Данных.
+
+## Модуль 4.6 Data Prep на примере Tabelau Prep и Alteryx
+
+
+## Модуль 4.7 Fancy ETL инструменты
+
+
+
+## Модуль 4.8 Обзор вакансии ETL разработчика
+
+
+## Заключительный Проект по ETL

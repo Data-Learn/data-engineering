@@ -1,0 +1,374 @@
+Property Code: MCX-001
+7 bedrooms
+Master Bedroom with Dressing Room, Jacuzzi, Private Bath, Suite, Walk-In-Closet
+4 baths
+Main Bathroom with Full Bath, Jacuzzi, Separate Shower
+Style: Colonial
+Living room
+Dining room
+Kitchen
+Basement
+Bathroom on main floor
+2 car garage
+Attached parking
+More Features: Eat-In Kitchen Area, Kitchen Pantry, Deck, Fence
+
+Property Code: MCX-002
+5 bedrooms
+5 baths
+Style: Colonial
+Living room
+Dining room
+Family room
+Kitchen
+Office
+Basement
+Fireplace
+2 car garage
+Exterior construction: Brick
+More Features: Attic, Formal Dining Room, Eat-In-Kitchen
+
+Property Code: MCX-003
+4 bedrooms
+Master Bedroom with Jacuzzi, Private Bath, Suite, Walk-In-Closet
+5 baths
+Main Bathroom with Full Bath
+Style: Colonial
+Living room
+Dining room
+Kitchen
+Basement
+Bathroom on main floor
+Fireplace
+Swimming pool
+3 car garage
+Attached parking, Garage Door Opener
+Hot Water, Radiant
+Central air conditioning
+Exterior construction: All Brick
+More Features: Central Vacuum, Intercom, Security System, Walk-In-Closet, Wet Bar, Eat-In Kitchen Area, Kitchen Pantry, Fence, Patio, Sprinkler System
+
+Property Code: MCX-004
+4 bedrooms
+3 baths
+Living room
+Dining room
+Family room
+Kitchen
+Office
+Basement
+Hardwood floors
+2 fireplaces
+2 car garage
+Heating features: Hot Water Heater
+Cooling features: Air Conditioning
+Exterior construction: Brick
+More Features: Attic, Formal Dining Room, Eat-In-Kitchen, In-ground Sprinklers
+
+Property Code: MCX-005
+4 bedrooms
+4 baths
+Living room
+Dining room
+Family room
+Kitchen
+Basement
+2 car garage
+Central air conditioning
+Exterior construction: Brick
+Waterview
+More Features: Formal Dining Room, Deck, Porch
+
+Property Code: MCX-006
+4 bedrooms
+Master Bedroom with Dressing Room, Jacuzzi, Private Bath, Suite, Walk-In-Closet
+6 baths
+Main Bathroom with Full Bath
+Style: Colonial
+Living room
+Dining room
+Kitchen
+Basement
+Bathroom on main floor
+Fireplace
+Swimming pool
+4 or more car garage
+Attached parking
+Parking features: Garage Door Opener, Built-In
+Heating features: Hot Water, Radiant, Heat Source: Gas
+Central air conditioning
+Inclusions: Dishwasher, Freezer, Microwave, Refrigerator
+Exterior construction: Stone, Stucco
+More Features: Central Vacuum, Intercom, Security System, Walk-In-Closet, Eat-In Kitchen Area, Kitchen Pantry, Balcony, Fence, Grill, Patio, Shed, Sprinkler System
+
+Property Code: MCX-007
+3 bedrooms
+Master Bedroom with Dressing Room, Jacuzzi, Private Bath, Suite, Walk-In-Closet
+5 baths
+Main Bathroom with Full Bath
+Style: Colonial
+Living room
+Dining room
+Kitchen
+Basement
+Bathroom on main floor
+Fireplace
+2 car garage
+Attached parking, Garage Door Opener
+Central air conditioning
+Inclusions: Dishwasher, Dryer, Gasgrill, Microwave, Refrigerator, Washer
+Exterior construction: Stone, Stucco
+More Features: Ceiling Fan, Central Vacuum, Intercom, Security System, Walk-In-Closet, Wet Bar, Eat-In Kitchen Area, Kitchen Pantry, Fence, Grill, Sprinkler System
+
+Property Code: MCX-008
+5 bedrooms
+Master Bedroom with Dressing Room, Jacuzzi, Private Bath, Suite, Walk-In-Closet
+4 baths
+Main Bathroom with Full Bath
+Style: Colonial
+Dining room
+Kitchen
+Basement
+Bathroom on main floor
+Fireplace
+2 car garage
+Attached parking
+Central air conditioning
+Inclusions: Dishwasher, Dryer, Freezer, Microwave, Refrigerator, Washer
+Exterior construction: Stone, Stucco
+More Features: Ceiling Fan, Central Vacuum, Intercom, Security System, Walk-In-Closet, Wet Bar, Eat-In Kitchen Area, Sunken Living, Fence, Patio, Sprinkler System
+
+Property Code: MCX-009
+5 bedrooms
+Master Bedroom with Jacuzzi, Private Bath, Suite, Walk-In-Closet
+5 baths
+Main Bathroom with Full Bath, Half Bath, Jacuzzi, Separate Shower
+Style: Colonial
+Living room
+Dining room
+Kitchen
+Basement
+Bathroom on main floor
+Fireplace
+3 car garage
+Attached parking
+Central air conditioning
+Inclusions: Dishwasher, Gasgrill
+Exterior construction: Stone, Stucco
+More Features: Hot Tub, Walk-In-Closet, Wet Bar, Eat-In Kitchen Area, Balcony
+
+Property Code: MCX-010
+5 bedrooms
+5 baths
+Fireplace
+More Features: Alarm System, Exercise Room, Powder Room, Private Laundry, Walk-In-Closets, Walkout Basement, Wet Bar
+
+Property Code: MCX-011
+Status: Active
+5 bedrooms
+5 baths
+Style: Contemporary
+Basement
+Laundry room
+Fireplace
+2 car garage
+Central air conditioning
+More Features: Attic, Clothes dryer, Clothes washer, Dishwasher, Fireplace, Laundry area, Microwave, Range and oven, Refrigerator, Wood floors, Deck
+
+Property Code: MCX-012
+4 bedrooms
+3 baths
+Fireplace
+Attached parking
+More Features: Alarm System, Eat in Kitchen, Powder Room
+
+Property Code: MCX-013
+3 bedrooms
+Master Bedroom with Dressing Room, Jacuzzi, Private Bath, Suite, Walk-In-Closet
+4 baths
+Main Bathroom with Full Bath
+Style: Contemporary
+Living room
+Dining room
+Kitchen
+Basement
+Bathroom on main floor
+Fireplace
+Swimming pool (indoor)
+2 car garage
+Attached parking
+Parking features: Garage Door Opener, Built-In
+Heating features: Hot Water, Radiant, Heat Source: Gas
+Central air conditioning
+Inclusions: Dishwasher, Dryer, Microwave, Refrigerator, Washer
+Exterior construction: Stone, Wood
+More Features: Ceiling Fan, Central Vacuum, Intercom, Security System, Walk-In-Closet, Eat-In Kitchen Area, Kitchen Pantry
+Exterior Features: Balcony, Fence, Grill, Patio, Satellite Dish, Shed, Sprinkler System
+
+Property Code: MCX-014
+4 bedrooms
+Master Bedroom with Dressing Room, Jacuzzi, Private Bath, Suite, Walk-In-Closet
+5 baths
+Main Bathroom with Full Bath
+Living room
+Dining room
+Kitchen
+Basement
+Bathroom on main floor
+Fireplace
+2 car garage
+Central air conditioning
+Inclusions: Dishwasher, Dryer, Microwave, Refrigerator, Washer
+Exterior construction: Stone
+More Features: Central Vacuum, Intercom, Security System, Walk-In-Closet, Wet Bar, Eat-In Kitchen Area, Deck Access, Fence
+
+Property Code: MCX-015
+5 bedrooms
+Master Bedroom with Private Bath
+3 baths
+Main Bathroom with Full Bath
+Style: Tudor
+Living room
+Dining room
+Kitchen
+Basement
+Bathroom on main floor
+Fireplace
+1 car garage
+Attached parking
+Parking features: Detached
+Heating features: Hot Water, Heat Source: Gas
+Exterior construction: Part Brick, Stucco, Wood
+More Features: Eat-In Kitchen Area, Shed
+
+Property Code: MCX-016
+5 bedrooms
+4 baths
+Style: Colonial
+Living room
+Dining room
+Family room
+Kitchen
+Office
+Basement
+Hardwood floors
+3 fireplaces
+Swimming pool
+1 car garage
+Attached parking
+Central air conditioning
+Exterior construction: Stuco
+More Features: Attic, Formal Dining Room, Eat-In-Kitchen
+
+Property Code: MCX-017
+4 bedrooms
+Master Bedroom with Dressing Room, Private Bath, Suite, Walk-In-Closet
+3 baths
+Main Bathroom with Full Bath
+Style: Tudor
+Living room
+Dining room
+Kitchen
+Basement
+Bathroom on main floor
+Fireplace
+Pool features: In-Ground
+Swimming pool
+2 car garage
+Attached parking
+Parking features: Garage Door Opener, Detached
+Heating features: Hot Water, Steam, Heat Source: Gas
+Central air conditioning
+Inclusions: Dishwasher, Dryer, Microwave, Refrigerator, Washer
+Exterior construction: All Brick
+More Features: Security System, Walk-In-Closet, Eat-In Kitchen Area, Patio, Sprinkler System
+
+Property Code: MCX-018
+3 bedrooms
+Master Bedroom with Private Bath
+2 baths
+Main Bathroom with Full Bath
+Style: Ranch
+Living room
+Dining room
+Kitchen
+Basement
+Bathroom on main floor
+Attached parking
+Heating features: Heat Source: Electric
+Central air conditioning
+Inclusions: Dishwasher, Dryer, Microwave, Refrigerator, Washer
+Exterior construction: All Brick
+More Features: Ceiling Fan, Central Vacuum, Intercom, Security System, Eat-In Kitchen Area, Deck, Fence, Patio, Shed
+
+Property Code: MCX-019
+4 bedrooms
+3 baths
+Basement
+Laundry room
+Garage
+Heating features: Electric
+Central air conditioning
+More Features: Dishwasher, Laundry area, Microwave, Refrigerator, Security feats, Stove, Wood floors, Deck, Guest house, Porch
+
+Property Code: MCX-020
+6 bedrooms
+Master Bedroom with Dressing Room, Jacuzzi, Suite, Walk-In-Closet
+4 baths
+Main Bathroom with Bidet, Full Bath, Jacuzzi
+Style: Contemporary
+Living room
+Dining room
+Kitchen
+Bathroom on main floor
+Fireplace
+Pool features: In-Ground
+Swimming pool
+3 car garage
+Attached parking
+Parking features: Garage Door Opener, Built-In
+Heating features: Hot Water, Heat Source: Gas
+Central air conditioning
+Inclusions: Dishwasher, Dryer, Freezer, Gasgrill, Microwave, Refrigerator, Washer
+Exterior construction: Part Brick, Wood
+More Features: Ceiling Fan, Central Vacuum, Hot Tub, Intercom, Security System, Walk-In-Closet, Wet Bar, Eat-In Kitchen Area, Deck Access, Deck, Fence, Grill, Patio, Shed, Sprinkler System
+
+Property Code: MCX-021
+7 bedrooms
+5 baths
+Basement
+Garage
+	
+Property Code: MCX-022
+4 bedrooms
+Master Bedroom with Jacuzzi, Private Bath, Suite, Walk-In-Closet
+4 baths
+Main Bathroom with Full Bath, Jacuzzi, Separate Shower
+Style: Colonial
+Living room
+Dining room
+Kitchen
+Basement
+Bathroom on main floor
+Fireplace
+2 car garage
+Attached parking, Garage Door Opener, Built-In
+Central air conditioning
+Inclusions: Dishwasher, Microwave, Refrigerator
+Exterior construction: Stucco
+More Features: Central Vacuum, Security System, Wet Bar, Eat-In Kitchen Area, Kitchen Pantry 
+
+Property Code: MCX-023
+4 bedrooms
+4 baths
+Style: Colonial
+Living room
+Family room
+Kitchen
+Basement
+Fireplace
+Heating features: Hot Water Heater
+Central air conditioning
+Exterior construction: Stucco
+Waterview
+More Features: Attic, Living/Dining Room, Eat-In-Kitchen
