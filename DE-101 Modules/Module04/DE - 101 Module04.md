@@ -83,6 +83,7 @@
 5. [What are Slowly Changing Dimensions?](https://www.datawarehouse4u.info/SCD-Slowly-Changing-Dimensions.html) (Русский)
 6. [Медленно меняющиеся измерения](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B4%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE_%D0%BC%D0%B5%D0%BD%D1%8F%D1%8E%D1%89%D0%B8%D0%B5%D1%81%D1%8F_%D0%B8%D0%B7%D0%BC%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D1%8F) (Русский)
 7. [Версионность и история данных](https://habr.com/ru/post/101544/) (Русский)
+8. [Data Warehousing - 34 Kimball Subsytems](https://datacadamia.com/data/warehouse/subsystem) (English)
 
 ### Практика
 1. В качестве практики вам необходимо выявить 8-10 подсистем в ETL Pentaho DI и написать небольшой отчет, в котором вы приложите print screen компонента (ETL подсистемы) и напишите про его свойства. Результат сохраните в вашем Git.
