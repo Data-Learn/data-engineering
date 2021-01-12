@@ -50,7 +50,7 @@
 
 **Видео лекция - теория** - [ETL Компоненты](https://youtu.be/-oCBttnefMQ). 
 
-**Видео лекция - практика** - `Начало работы с Pentaho DI`
+**Видео лекция - практика** - [Начало работы с Pentaho DI](https://youtu.be/-oCBttnefMQ?t=2087)
 
 ### Практика
 В качестве практики вам необходимо:
@@ -90,7 +90,18 @@
 2. Самостоятельно попробовать сделать упражнения из главы 9 книги `Pentaho Data Integration Beginner's Guide - Second Edition`. В книги вы найдете необходиму информацию по установки тестовой базы данных. Я сохранил все материалы для лабораторных работ в нашем [git](https://github.com/Data-Learn/data-engineering/tree/master/DE-101%20Modules/Module04/DE%20-%20101%20Lab%204.5).
 Это достойная задача для будущего ETL разработчика или Инженера Данных.
 
-## Модуль 4.6 Data Prep на примере Tabelau Prep и Alteryx
+## Модуль 4.6 Data Prep на примере Tableau Prep и Alteryx
+С ETL/ELT мы более-менее разобрались. К счастью или к сожалению, на сегодняшний день существует огромное количество программ для интеграции и трансформации данных. Некоторые программы относятся к классу Data Prep. Я их называю настольными ETL инструментами для бизнес пользователей. Если BI инструмент нам позволяет с помощью drag and drop создать красивый дашборд, то data prep позволит нам подготовить данные для BI. 
+
+**Видео лекция - теория** - [Data Prep на примере Tableau Prep и Alteryx](https://youtu.be/KfuY2J9h5B0). 
+
+**Видео лекция - практика** - [Установка и Обзор Tableau Prep и Alteryx](https://youtu.be/KfuY2J9h5B0?t=900)
+
+### Дополнительные материалы для изучения
+1. [Начало работы с Tableau prep](https://help.tableau.com/current/prep/en-us/prep_get_started.htm) (English)
+2. [Начало работы с Alteryx Designer](https://help.alteryx.com/learn/learningguide.html) (English)
+### Практика
+Вам необходимо построить `Tableau Prep Flow` или `Alteryx Workflow` и сохранить результат в своем `git`. Вы можете использовать данные `Sales Superstore` из модуля 1 и 2 или подключиться к БД Postgres (из 2го и 3го модуля), в которую мы загружали данные. Альтернативно вы можете просто повторить существующие задания из Alterx/Tableau tutorial, чтобы понять как работает инструмент.
 
 
 ## Модуль 4.7 Fancy ETL инструменты
