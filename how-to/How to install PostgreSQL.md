@@ -6,7 +6,7 @@
 PostgreSQL - это реляционная СУБД с открытым кодом базирующаяся на языке SQL. PostgreSQL имеет преимущество соответствия стандартам (в том числе SQL) и обладает множеством продвинутых возможностей, например, надёжные транзакции (reliable transactions) и параллелизм без блокировки чтения (concurrency without read locks).
 
 ### Requirements
-Операционная система: [Windows](./%20How%20to%20install%20PostgreSQL.md#windows), [Mac](./%20How%20to%20install%20PostgreSQL.md#mac-os-x), [Linux](./%20How%20to%20install%20PostgreSQL.md#linux-ubuntu)<br>
+Операционная система: [Windows](./How%20to%20install%20PostgreSQL.md#windows), [Mac](./How%20to%20install%20PostgreSQL.md#mac-os-x), [Linux](./How%20to%20install%20PostgreSQL.md#linux-ubuntu)<br>
 Лицензия: бесплатная, свободное ПО
 
 ## Windows
