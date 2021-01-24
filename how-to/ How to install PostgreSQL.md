@@ -1,11 +1,11 @@
-# How to: Как установить Postgres SQL на Windows
+# How to: Как установить Postgres SQL 
 
 ## Introduction
 В данной инструкции информация по скачиванию и установке Postgres SQL.
 
 Postgres SQL - это опенсорсная реляционная СУБД базирующаяся на языке SQL. Postgres имеет преимущество соответствия стандартам (в том числе SQL) и обладает множеством продвинутых возможностей, например, надёжные транзакции (reliable transactions) и параллелизм без блокировки чтения (concurrency without read locks).
 
-## Requirements
+### Requirements
 Операционная система: Windows, Mac, Linux<br>
 Лицензия: бесплатная, свободное ПО
 
@@ -48,3 +48,31 @@ https://www.enterprisedb.com/downloads/postgres-postgresql-downloads<br>
 <li>Переходим в Launchpad -> pgAdmin 4.</li><br>
 <li>Вводим пароль суперпользователя.</li>
 </ol>
+
+## Linux (Ubuntu)
+
+## Installation
+Открыть терминал  
+Обновить локальный список пакетов
+```
+sudo apt-get update
+```
+Устанавливаем приложение
+```
+sudo apt-get install postgresql-12
+```
+
+## Launch
+После установки проверим, что служба запущена
+```
+sudo systemctl status postgresql
+```
+В строке `Active:` вы должны увидеть статус `active (exited)` зеленого цвета. Это значит служба активна, все в порядке.  
+Отключить службу можно:
+```
+sudo systemctl stop postgresql
+```
+Включить заново:
+```
+sudo systemctl start postgresql
+```
