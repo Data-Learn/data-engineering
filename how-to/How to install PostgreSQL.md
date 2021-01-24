@@ -3,7 +3,7 @@
 ## Introduction
 В данной инструкции информация по скачиванию и установке PostgreSQL.
 
-PostgreSQL - это реляционная СУБД с открытым кодом базирующаяся на языке SQL. PostgreSQL имеет преимущество соответствия стандартам (в том числе SQL) и обладает множеством продвинутых возможностей, например, надёжные транзакции (reliable transactions) и параллелизм без блокировки чтения (concurrency without read locks).
+PostgreSQL - это реляционная СУБД с открытым исходным кодом, базирующаяся на языке SQL. PostgreSQL имеет преимущество соответствия стандартам (в том числе SQL) и обладает множеством продвинутых возможностей, например, надёжные транзакции (reliable transactions) и параллелизм без блокировки чтения (concurrency without read locks).
 
 ### Requirements
 Операционная система: [Windows](./How%20to%20install%20PostgreSQL.md#windows), [Mac](./How%20to%20install%20PostgreSQL.md#mac-os-x), [Linux](./How%20to%20install%20PostgreSQL.md#linux-ubuntu)<br>
