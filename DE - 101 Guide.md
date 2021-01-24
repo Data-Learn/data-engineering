@@ -108,7 +108,3 @@
 
 ## Поддержка Курса
 Возможно в будущем вы захотите поддержать автора курса `DE-101`, вы можете это сделать с помощью:
-- [Patreon](https://www.patreon.com/dmitryanoshin)
-- [Paypal](https://paypal.me/dmitryanoshin)
-
-Всем спасибо и до встречи на курсе и в нашем сообществе `Datal Learn` в Slack.
