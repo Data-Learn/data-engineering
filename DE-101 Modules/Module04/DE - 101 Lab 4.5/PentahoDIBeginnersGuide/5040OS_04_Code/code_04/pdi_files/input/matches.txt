@@ -1,0 +1,243 @@
+region;match_date;type;team;goals
+europe;07-09;home;Iceland;2
+europe;07-09;away;Norway;0
+europe;07-09;home;Russia;2
+europe;07-09;away;Northern Ireland;0
+europe;07-09;home;Liechtenstein;1
+europe;07-09;away;Bosnia-Herzegovina;8
+europe;07-09;home;Wales;0
+europe;07-09;away;Belgium;2
+europe;07-09;home;Malta;0
+europe;07-09;away;Armenia;1
+europe;07-09;home;Croatia;1
+europe;07-09;away;FYR Macedonia;0
+europe;07-09;home;Andorra;0
+europe;07-09;away;Hungary;5
+europe;07-09;home;Netherlands;2
+europe;07-09;away;Turkey;0
+europe;07-09;home;Slovenia;0
+europe;07-09;away;Switzerland;2
+europe;07-09;home;Albania;3
+europe;07-09;away;Cyprus;1
+europe;07-09;home;Montenegro;2
+europe;07-09;away;Poland;2
+europe;07-09;home;Germany;3
+europe;07-09;away;Faroe Islands;0
+europe;07-09;home;Luxembourg;1
+europe;07-09;away;Portugal;2
+europe;07-09;home;Estonia;0
+europe;07-09;away;Romania;2
+europe;07-09;home;Azerbaijan;1
+europe;07-09;away;Israel;1
+europe;07-09;home;Georgia;1
+europe;07-09;away;Belarus;0
+europe;07-09;home;Lithuania;1
+europe;07-09;away;Slovakia;1
+europe;07-09;home;Latvia;1
+europe;07-09;away;Greece;2
+europe;07-09;home;Finland;0
+europe;07-09;away;France;1
+europe;07-09;home;Bulgaria;2
+europe;07-09;away;Italy;2
+europe;07-09;home;Moldova;0
+europe;07-09;away;England;5
+europe;07-09;home;Kazakhstan;1
+europe;07-09;away;Republic of Ireland;2
+europe;08-09;home;Scotland;0
+europe;08-09;away;Serbia;0
+europe;08-09;home;Denmark;0
+europe;08-09;away;Czech Republic;0
+europe;11-09;home;Northern Ireland;1
+europe;11-09;away;Luxembourg;1
+europe;11-09;home;Scotland;1
+europe;11-09;away;FYR Macedonia;1
+europe;11-09;home;Cyprus;1
+europe;11-09;away;Iceland;0
+europe;11-09;home;Norway;2
+europe;11-09;away;Slovenia;1
+europe;11-09;home;Israel;0
+europe;11-09;away;Russia;4
+europe;11-09;home;Bosnia-Herzegovina;4
+europe;11-09;away;Latvia;1
+europe;11-09;home;England;1
+europe;11-09;away;Ukraine;1
+europe;11-09;home;Portugal;3
+europe;11-09;away;Azerbaijan;0
+europe;11-09;home;Slovakia;2
+europe;11-09;away;Liechtenstein;0
+europe;11-09;home;Serbia;6
+europe;11-09;away;Wales;1
+europe;11-09;home;Sweden;2
+europe;11-09;away;Kazakhstan;0
+europe;11-09;home;Hungary;1
+europe;11-09;away;Netherlands;4
+europe;11-09;home;Romania;4
+europe;11-09;away;Andorra;0
+europe;11-09;home;Switzerland;2
+europe;11-09;away;Albania;0
+europe;11-09;home;San Marino;0
+europe;11-09;away;Montenegro;6
+europe;11-09;home;Austria;1
+europe;11-09;away;Germany;2
+europe;11-09;home;Belgium;1
+europe;11-09;away;Croatia;1
+europe;11-09;home;Italy;2
+europe;11-09;away;Malta;0
+europe;11-09;home;Poland;2
+europe;11-09;away;Moldova;0
+europe;11-09;home;Bulgaria;1
+europe;11-09;away;Armenia;0
+europe;11-09;home;Turkey;3
+europe;11-09;away;Estonia;0
+europe;11-09;home;France;3
+europe;11-09;away;Belarus;1
+europe;11-09;home;Georgia;0
+europe;11-09;away;Spain;1
+europe;11-09;home;Greece;2
+europe;11-09;away;Lithuania;0
+europe;12-10;home;Faroe Islands;1
+europe;12-10;away;Sweden;2
+europe;12-10;home;Czech Republic;3
+europe;12-10;away;Malta;1
+europe;12-10;home;Finland;1
+europe;12-10;away;Georgia;1
+europe;12-10;home;Albania;1
+europe;12-10;away;Iceland;2
+europe;12-10;home;Russia;1
+europe;12-10;away;Portugal;0
+europe;12-10;home;Liechtenstein;0
+europe;12-10;away;Lithuania;2
+europe;12-10;home;Wales;2
+europe;12-10;away;Scotland;1
+europe;12-10;home;Republic of Ireland;1
+europe;12-10;away;Germany;6
+europe;12-10;home;England;5
+europe;12-10;away;San Marino;0
+europe;12-10;home;Slovakia;2
+europe;12-10;away;Latvia;1
+europe;12-10;home;FYR Macedonia;1
+europe;12-10;away;Croatia;2
+europe;12-10;home;Serbia;0
+europe;12-10;away;Belgium;3
+europe;12-10;home;Netherlands;3
+europe;12-10;away;Andorra;0
+europe;12-10;home;Turkey;0
+europe;12-10;away;Romania;1
+europe;12-10;home;Switzerland;1
+europe;12-10;away;Norway;1
+europe;12-10;home;Slovenia;2
+europe;12-10;away;Cyprus;1
+europe;12-10;home;Armenia;1
+europe;12-10;away;Italy;3
+europe;12-10;home;Bulgaria;1
+europe;12-10;away;Denmark;1
+europe;12-10;home;Luxembourg;0
+europe;12-10;away;Israel;6
+europe;12-10;home;Moldova;0
+europe;12-10;away;Ukraine;0
+europe;12-10;home;Belarus;0
+europe;12-10;away;Spain;4
+europe;12-10;home;Estonia;0
+europe;12-10;away;Hungary;1
+europe;12-10;home;Greece;0
+europe;12-10;away;Bosnia-Herzegovina;0
+europe;12-10;home;Kazakhstan;0
+europe;12-10;away;Austria;0
+europe;16-10;home;Israel;3
+europe;16-10;away;Luxembourg;0
+europe;16-10;home;Iceland;0
+europe;16-10;away;Switzerland;2
+europe;16-10;home;Faroe Islands;1
+europe;16-10;away;Republic of Ireland;4
+europe;16-10;home;Andorra;0
+europe;16-10;away;Estonia;1
+europe;16-10;home;Russia;1
+europe;16-10;away;Azerbaijan;0
+europe;16-10;home;Belarus;2
+europe;16-10;away;Georgia;0
+europe;16-10;home;Croatia;2
+europe;16-10;away;Wales;0
+europe;16-10;home;Czech Republic;0
+europe;16-10;away;Bulgaria;0
+europe;16-10;home;Bosnia-Herzegovina;3
+europe;16-10;away;Lithuania;0
+europe;16-10;home;Latvia;2
+europe;16-10;away;Liechtenstein;0
+europe;16-10;home;FYR Macedonia;1
+europe;16-10;away;Serbia;0
+europe;16-10;home;Hungary;3
+europe;16-10;away;Turkey;1
+europe;16-10;home;Slovakia;0
+europe;16-10;away;Greece;1
+europe;16-10;home;San Marino;0
+europe;16-10;away;Moldova;2
+europe;16-10;home;Austria;4
+europe;16-10;away;Kazakhstan;0
+europe;16-10;home;Belgium;2
+europe;16-10;away;Scotland;0
+europe;16-10;home;Italy;3
+europe;16-10;away;Denmark;1
+europe;16-10;home;Germany;4
+europe;16-10;away;Sweden;4
+europe;16-10;home;Albania;1
+europe;16-10;away;Slovenia;0
+europe;16-10;home;Portugal;1
+europe;16-10;away;Northern Ireland;1
+europe;16-10;home;Romania;1
+europe;16-10;away;Netherlands;4
+europe;16-10;home;Cyprus;1
+europe;16-10;away;Norway;3
+europe;16-10;home;Ukraine;0
+europe;16-10;away;Montenegro;1
+europe;16-10;home;Spain;1
+europe;16-10;away;France;1
+europe;17-10;home;Poland;1
+europe;17-10;away;England;1
+usa;07-09;home;Cuba;0
+usa;07-09;away;Honduras;3
+usa;07-09;home;Jamaica;2
+usa;07-09;away;USA;1
+usa;07-09;home;El Salvador;2
+usa;07-09;away;Guyana;2
+usa;07-09;home;Canada;1
+usa;07-09;away;Panama;0
+usa;07-09;home;Guatemala;3
+usa;07-09;away;Antigua and Barbuda;1
+usa;07-09;home;Costa Rica;0
+usa;07-09;away;Mexico;2
+usa;11-09;home;Antigua and Barbuda;0
+usa;11-09;away;Guatemala;1
+usa;11-09;home;Honduras;1
+usa;11-09;away;Cuba;0
+usa;11-09;home;Mexico;1
+usa;11-09;away;Costa Rica;0
+usa;11-09;home;Guyana;2
+usa;11-09;away;El Salvador;3
+usa;11-09;home;Panama;2
+usa;11-09;away;Canada;0
+usa;11-09;home;USA;1
+usa;11-09;away;Jamaica;0
+usa;12-10;home;Antigua and Barbuda;1
+usa;12-10;away;USA;2
+usa;12-10;home;El Salvador;0
+usa;12-10;away;Costa Rica;1
+usa;12-10;home;Canada;3
+usa;12-10;away;Cuba;0
+usa;12-10;home;Guatemala;2
+usa;12-10;away;Jamaica;1
+usa;12-10;home;Guyana;0
+usa;12-10;away;Mexico;5
+usa;12-10;home;Panama;0
+usa;12-10;away;Honduras;0
+usa;16-10;home;Honduras;8
+usa;16-10;away;Canada;1
+usa;16-10;home;Cuba;1
+usa;16-10;away;Panama;1
+usa;16-10;home;Jamaica;4
+usa;16-10;away;Antigua and Barbuda;1
+usa;16-10;home;USA;3
+usa;16-10;away;Guatemala;1
+usa;16-10;home;Costa Rica;7
+usa;16-10;away;Guyana;0
+usa;16-10;home;Mexico;2
+usa;16-10;away;El Salvador;0

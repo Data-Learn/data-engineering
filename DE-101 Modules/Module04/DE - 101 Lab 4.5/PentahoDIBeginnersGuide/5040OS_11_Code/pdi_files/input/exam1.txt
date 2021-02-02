@@ -1,0 +1,18 @@
+student_code;name;english;mathematics;science;history_and_geo
+80711-85;William Miller;81;83;80;90
+20362-34;Jennifer Martin;87;76;70;80
+75283-17;Margaret Wilson;99;94;90;80
+83714-28;Helen Thomas;89;97;80;80
+61666-55;Maria Thomas;88;77;70;80
+00647-35;David Collins;88;95;90;90
+81938-76;Robert Taylor;82;87;90;90
+96279-44;Kimberly Robinson;95;82;100;80
+908910-83;George Jones;62;64;60;50
+265111-48;James Davis;84;72;70;80
+367912-86;Robert Scott;84;65;80;80
+840313-02;Patricia Martin;72;63;60;70
+171514-94;Karen Young;91;94;70;80
+438015-23;Kenneth Smith;82;80;90;90
+290916-93;Mary Martin;99;88;90;90
+137817-80;Jennifer Wilson;60;66;50;60
+108418-95;John Robinson;61;56;60;50

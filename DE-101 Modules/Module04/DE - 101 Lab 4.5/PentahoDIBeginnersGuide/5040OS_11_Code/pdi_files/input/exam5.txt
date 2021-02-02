@@ -1,0 +1,20 @@
+student_code;name;english;mathematics;science;history_and_geo
+425663-68;Betty Martin;65;65;70;70
+498864-92;Elizabeth Brown;98;82;90;90
+434965-29;Elizabeth Miller;61;66;60;70
+984667-23;Steven Young;86;78;70;70
+741968-22;Mark Anderson;75;74;80;90
+651569-10;Sarah Hernandez;94;83;90;80
+465470-03;John Wilson;98;86;90;90
+296271-84;Elizabeth Hall;82;98;90;90
+120172-63;James Davis;72;80;80;80
+741273-98;Mark Lee;71;81;70;70
+838274-41;William Campbell;75;87;90;90
+862275-90;Sandra Hill;83;96;80;80
+385176-87;Karen Robinson;81;92;90;100
+110977-18;Kenneth King;91;82;70;90
+271178-90;Laura Hernandez;67;70;70;80
+751079-73;Mary Moore;75;66;60;70
+192280-03;Daniel Scott;97;98;90;80
+506381-35;James Young;95;85;90;90
+420383-97;James Hall;90;82;70;90

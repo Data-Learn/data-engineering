@@ -1,0 +1,49 @@
+ID;Country Name;Duet
+1;Russia;Mikhail Davydova
+;;Anastasia Davydova
+2;Spain;Carmen Rodriguez
+;;Francisco Delgado
+3;Japan;Natsuki Harada
+;;Emiko Suzuki
+4;China;Lin Jiang
+;;Wei Chiu
+5;United States;Chelsea Thompson
+;;Cassandra Sullivan
+6;Canada;Mackenzie Martin
+;;Nathan Gauthier
+7;Italy;Giovanni Lombardi
+;;Federica Lombardi
+8;Argentina;Lucía Galán
+;;Joaquín Galán
+9;Greece;Dimitrios Nikopolidis
+;;Nikos Kyrgiakos
+10;India;Parvati Chatterjee
+;;Suresh Dasari
+11;France;Alexandre Girard
+;;Camille André
+12;Brazil;Ivete Pinto
+;;Paula Teixeira
+13;Sweden;Agnetha Fältskog
+;;Björn Ulvaeus
+14;Great Britain;Brian Allison
+;;Paul Randall
+15;Chile;Carolina Sepúlveda
+;;María Soledad Torres
+16;Korea;Yong Mi Kim
+;;Gyong Wang
+17;Portugal;Rodrigo Soares
+;;Pedro Freitas
+18;Ukraine;Volodymyr Ushko
+;;Ivan Sydorenko
+19;Mexico;Verónica Castro
+;;Cristian Castro
+20;Thailand;Nittaya Boonjumnong
+;;Jaruwan Nagvajara
+21;Austria;Nadine Mahn
+;;Karl Schmied
+22;Australia;Olivia Garrett
+;;Mia Burket
+23;Germany;Kevin Wolf
+;;Klaus Schwarz
+24;Egypt;Reem El Sayad
+;;Ahmed El Gebal

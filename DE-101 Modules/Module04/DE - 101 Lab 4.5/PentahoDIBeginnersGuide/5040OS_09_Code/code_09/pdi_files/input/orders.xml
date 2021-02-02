@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders ordersdate="20090914">
+<order ordernumber="5438"><idcus>2220</idcus><man_code>EDU</man_code><prod_code>ED11_29</prod_code></order>
+<order ordernumber="5439"><idcus>8328</idcus><man_code>RAV</man_code><prod_code>RVZ50031</prod_code></order>
+<order ordernumber="5440"><idcus>5072</idcus><man_code>GIB</man_code><prod_code>2507GB</prod_code></order>
+<order ordernumber="5441"><idcus>1125</idcus><man_code>FAL</man_code><prod_code>FAL56TP</prod_code></order>
+<order ordernumber="5442"><idcus>5756</idcus><man_code>CLE</man_code><prod_code>CMT1050</prod_code></order>
+<order ordernumber="5443"><idcus>8411</idcus><man_code>EDU</man_code><prod_code>ED13_93</prod_code></order>
+<order ordernumber="5444"><idcus>7545</idcus><man_code>GIB</man_code><prod_code>2552GB</prod_code></order>
+<order ordernumber="5445"><idcus>8305</idcus><man_code>CLE</man_code><prod_code>CMT1070</prod_code></order>
+<order ordernumber="5446"><idcus>6392</idcus><man_code>RAV</man_code><prod_code>RVZ50106</prod_code></order>
+<order ordernumber="5447"><idcus>59</idcus><man_code>RAV</man_code><prod_code>RVZ50031</prod_code></order>
+</orders>

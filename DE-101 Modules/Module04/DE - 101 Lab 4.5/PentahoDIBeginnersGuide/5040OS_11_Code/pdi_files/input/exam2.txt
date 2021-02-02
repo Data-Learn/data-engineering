@@ -1,0 +1,15 @@
+student_code;name;english;mathematics;science;history_and_geo
+008122-89;Donald Taylor;92;91;90;80
+290723-66;Laura Scott;91;93;90;90
+406224-02;Nancy Davis;80;79;60;60
+012326-99;Paul Williams;82;93;90;90
+378127-72;Sharon Wright;89;96;80;90
+196629-53;Richard Lee;90;98;90;90
+594630-26;Jeff Edwards;90;95;80;90
+867432-94;Linda Rodriguez;89;77;80;80
+614033-53;Michelle Martinez;77;80;80;80
+884634-06;Maria Roberts;69;68;60;60
+881635-27;Robert Clark;84;94;80;80
+341336-39;George Walker;98;84;90;90
+519638-44;Lisa Smith;81;70;60;70
+610341-79;Christopher Allen;74;76;70;70
