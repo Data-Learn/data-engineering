@@ -1,13 +1,13 @@
 # Пошаговая инструкция по созданию дашборда в Excel 
 
-Исходные данные [Sample - Superstore.xls](https://github.com/Data-Learn/data-engineering/blob/master/DE-101/Module-01/Lab/Sample%20-%20Superstore.xls)<br>
+Исходные данные [Sample - Superstore.xls](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1/Sample%20-%20Superstore.xls?raw=true)<br>
 Пример дашборда [Sample - Superstore - Dashboard.xlsx](https://github.com/Data-Learn/data-engineering/blob/master/DE-101/Module-01/Lab/Sample%20-%20Superstore%20-%20Dashboard.xlsx) (версия excel 2016+)
 
 Если у вас есть какие-то предложения, дополнения или исправления, то прошу не стесняйтесь и присылайте свои правки. Давайте объединим усилия и сделаем реально крутой ресурс :)
 
 **1. Знакомимся с исходными данными**
 
-Скачиваем с репозитория в гитхабе файл [Sample - Superstore.xls](https://github.com/Data-Learn/data-engineering/blob/master/DE-101/Module-01/Lab/Sample%20-%20Superstore.xls). В файле видим 3 вкладки: Orders, People, Returns. 
+Скачиваем с репозитория в гитхабе файл [Sample - Superstore.xls](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1/Sample%20-%20Superstore.xls?raw=true). В файле видим 3 вкладки: Orders, People, Returns. 
 Со значениями артибутов можно ознакомиться в [описании задания](https://github.com/Data-Learn/data-engineering/tree/master/DE-101/Module-01/Lab)
 
 Сначала оформим данные на листе Orders, как таблицу. Благодаря этому Excel будет понимать, что это таблица и автоматически расширять ее, если мы добавим новый столбец, или добавим новые строки с данными. Что очень удобно, если отчет регулярный. Просто добавляем данные за последний период и одним нажатием [обновляем данные в сводных таблицах](https://support.office.com/ru-ru/article/%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B2-%D1%81%D0%B2%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9-%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B5-6d24cece-a038-468a-8176-8b6568ca9be2)
