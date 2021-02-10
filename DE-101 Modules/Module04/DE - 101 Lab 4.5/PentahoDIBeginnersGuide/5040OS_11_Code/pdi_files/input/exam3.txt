@@ -1,0 +1,19 @@
+student_code;name;english;mathematics;science;history_and_geo
+924043-33;John Lee;80;80;70;70
+100344-84;Carol Smith;93;98;80;80
+604645-80;Thomas Turner;74;57;60;60
+615446-86;Christopher Davis;67;76;60;60
+882847-81;Barbara Wright;67;69;60;60
+368848-64;Michael Thompson;77;62;70;60
+295749-43;Susan Rodriguez;92;92;80;90
+378950-50;Margaret Wilson;89;84;70;80
+601551-28;Anthony Harris;95;97;80;90
+100852-19;Michael Miller;94;92;90;80
+524655-49;Kevin Harris;99;88;90;90
+107656-12;Thomas Smith;92;94;90;90
+004457-66;Charles Harris;98;99;100;100
+351758-25;Susan Brown;90;87;90;90
+460959-96;William Jones;63;64;60;70
+115660-70;Kevin Jackson;100;87;90;80
+157961-61;Barbara Anderson;84;81;90;90
+840862-27;Charles White;85;91;80;80

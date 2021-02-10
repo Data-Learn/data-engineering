@@ -1,0 +1,15 @@
+Date;Venue;Country;Matches;Country
+07/09/12 15:00;Havana;Cuba;0:3;Honduras;
+07/09/12 19:00;Kingston;Jamaica;2:1;USA;
+07/09/12 19:30;San Salvador;El Salvador;2:2;Guyana;
+07/09/12 19:45;Toronto;Canada;1:0;Panama;
+07/09/12 20:00;Guatemala City;Guatemala;3:1;Antigua and Barbuda;
+07/09/12 20:05;San Jose;Costa Rica;0:2;Mexico;
+11/09/12 19:00;St. John's;Antigua and Barbuda;0:1;Guatemala;
+11/09/12 19:30;San Pedro Sula;Honduras;1:0;Cuba;
+11/09/12 20:00;Mexico City;Mexico;1:0;Costa Rica;
+11/09/12 20:00;Georgetown;Guyana;2:3;El Salvador;
+11/09/12 20:05;Panama City;Panama;2:0;Canada;
+11/09/12 20:11;Columbus;USA;1:0;Jamaica;
+-- qualifying for the finals in Brazil 2014 --
+-- USA, September

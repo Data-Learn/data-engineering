@@ -57,7 +57,7 @@
 2. [Хранилище данных vs Озеро Данных](https://habr.com/ru/post/485180/) (Русский)
 
 ### Практика
-1. Вам необходимо установить Postgres базу данных к себе на компьютер. Вы можете посмотреть [инструкции по установки Postgres](https://github.com/Data-Learn/data-engineering/blob/master/how-to/%20How%20to%20install%20PostgreSQL.md). 
+1. Вам необходимо установить Postgres базу данных к себе на компьютер. Вы можете посмотреть [инструкции по установки Postgres](https://github.com/Data-Learn/data-engineering/blob/master/how-to/How%20to%20install%20PostgreSQL.md). 
 
 ## 2.3: Подключение к Базам Данных и SQL
 
@@ -79,8 +79,8 @@
 
 ### Практика
 1. Вам необходимо установить клиент SQL для подключения базы данных. Вы можете посмотреть [инструкции по установки DBeaver](https://github.com/Data-Learn/data-engineering/blob/master/how-to/%20How%20to%20install%20DBeaver.md). Так же вы можете использовать любой другой клиент для подключения к ваше БД.
-2. Создайте 3 таблицы и загрузите данные из [Superstore Excel файл](https://github.com/Data-Learn/data-engineering/blob/master/DE-101/Module-01/Lab/Sample%20-%20Superstore.xls) в вашу базу данных. Сохраните в вашем GitHub скрипт загрузки данных и создания таблиц. Вы можете использовать готовый [пример sql файлов](https://github.com/Data-Learn/data-engineering/tree/master/DE-101/Module-02/Lab).
-3. Напишите запросы, чтобы ответить на вопросы из [Модуля 01](https://github.com/Data-Learn/data-engineering/tree/master/DE-101/Module-01/Lab#%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0-%D0%B2-excel). Сохраните в вашем GitHub скрипт загрузки данных и создания таблиц. 
+2. Создайте 3 таблицы и загрузите данные из [Superstore Excel файл](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1/Sample%20-%20Superstore.xls) в вашу базу данных. Сохраните в вашем GitHub скрипт загрузки данных и создания таблиц. Вы можете использовать готовый [пример sql файлов](https://github.com/Data-Learn/data-engineering/tree/master/DE-101%20Modules/Module02/DE%20-%20101%20Lab%202.1).
+3. Напишите запросы, чтобы ответить на вопросы из [Модуля 01](https://github.com/Data-Learn/data-engineering/tree/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1#%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0-%D0%B2-excel). Сохраните в вашем GitHub скрипт загрузки данных и создания таблиц. 
 
 ## 2.4: Модели Данных 
 
@@ -92,14 +92,14 @@
 1. Статья про Хранилище Данных [Антихрупкость архитектуры хранилищ данных](https://habr.com/ru/post/281553/)
 2. Статья про Data Vault [Основы Data Vault](https://habr.com/ru/post/502968/)
 ### Практика
-1. Вам необходимо нарисовать модель данных для нашего файлика [Superstore](https://github.com/Data-Learn/data-engineering/blob/master/DE-101/Module-01/Lab/Sample%20-%20Superstore.xls):
+1. Вам необходимо нарисовать модель данных для нашего файлика [Superstore](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1/Sample%20-%20Superstore.xls):
   - Концептуальную
   - Логическую
   - Физическую
 Вы можете использовать бесплатную версию [SqlDBM](https://sqldbm.com/Home/) или любой другой софт для создания моделей данных баз данных.
 
 2. Когда вы нарисуете модель данных, вам нужно скопировать DDL и выполнить его в SQL клиенте.
-3. Вам немобходимо сделать `INSERT INTO SQL`, чтобы заполнить **Dimensions** таблицы и **Sales Fact** таблицу. Сначало мы заполняем **Dimensions** таблицы, где в качесте **id** мы генерим последовательность чисел, а зачем **Sales Fact** таблицу, в которую вставляем **id** из **Dimensions** таблиц. Такой пример я рассматривал в видео.
+3. Вам необходимо сделать `INSERT INTO SQL`, чтобы заполнить **Dimensions** таблицы и **Sales Fact** таблицу. Сначала мы заполняем **Dimensions** таблицы, где в качестве **id** мы генерим последовательность чисел, а зачем **Sales Fact** таблицу, в которую вставляем **id** из **Dimensions** таблиц. Такой пример я рассматривал в видео.
 
 ## 2.5: База данных в облаке
 
@@ -114,32 +114,37 @@
 2. [Шпаргалка системного администратора по сетевым инструментам Linux](https://habr.com/ru/company/ruvds/blog/417485/) (Русский)
 
 ### Практика
-1. Вам необходимо [создать учетную запись в AWS](https://github.com/Data-Learn/data-engineering/blob/master/how-to/How%20to%20create%20AWS%20Account.md). Это бесплатно. 
-2. Используя сервис AWS Lightsail создайте БД Postgres и активируйте **Public access**
-3. Подключитесь к новой БД через SQL клиент (например Dbeaver)
+1. Вам необходимо [создать учетную запись в AWS](https://github.com/Data-Learn/data-engineering/blob/master/how-to/How%20to%20create%20AWS%20Account.md). Это бесплатно. Если вы запускаете сервис в AWS, не забудьте его удалить, когда он не нужен, а то могут и денюшку списать.
+2. Используя сервис AWS Lightsail или [AWS RDS (смотрите инструкцию)](https://github.com/Data-Learn/data-engineering/blob/master/how-to/how_to_amazon_rds.md) создайте БД Postgres и активируйте **Public access**
+3. Подключитесь к новой БД через SQL клиент (например DBeaver)
 4. Загрузите данные из модуля 2.3 (Superstore dataset) в staging (схема БД `stg`) и загрузите dimensional model (схема `dw`). Вы можете использовать мой пример SQL для этого упражнения:
-  - Staging [stg.orders.sql](https://github.com/Data-Learn/data-engineering/blob/master/DE-101/Module-02/Lab/stg.orders.sql)
-  - Business Layer [from_stg_to_dw.sql](https://github.com/Data-Learn/data-engineering/blob/master/DE-101/Module-02/Lab/from_stg_to_dw.sql)
-5. Попробуйте выполнить свои запросы из предыдущих упражнений. Не забдуть указать схему перед название таблицы. Например, `public.orders` или `stg.orders`.
+  - Staging [stg.orders.sql](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module02/DE%20-%20101%20Lab%202.1/stg.orders.sql)
+  - Business Layer [from_stg_to_dw.sql](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module02/DE%20-%20101%20Lab%202.1/from_stg_to_dw.sql)
+5. Попробуйте выполнить свои запросы из предыдущих упражнений. Не забудьте указать схему перед название таблицы. Например, `public.orders` или `stg.orders`.
 
-## 2.6: Как донести данные до бизнес-пользователя (Пример решений на Klip Folio, Google Sheets и тп)
+## 2.6: Как донести данные до бизнес-пользователя (Пример решений на KlipFolio, Google Sheets и пр.)
 
 **Видео лекция часть 1 - теория** - [Сервисы визуализации для базы данных](https://youtu.be/bqUtv1y3D7A) 
 
-**Видео лекция часть 2 - практика** - [Пример поделючения к облачным сервисам](https://youtu.be/bqUtv1y3D7A?t=825)
+**Видео лекция часть 2 - практика** - [Пример подключения к облачным сервисам](https://youtu.be/bqUtv1y3D7A?t=825)
 
 ### Дополнительные материалы для изучения
-Данная лекция знакомит вас с популярными сервисам для визуализации данных. Посути мы с вами создаем BI решение. Более детально мы рассмотрим про BI в модуле 3. 
+Данная лекция знакомит вас с популярными сервисами для визуализации данных. По сути мы с вами создаем BI решение. Более детально мы рассмотрим про BI в модуле 3. 
 
 1. [Введение в Google Data Studio](https://analytics.google.com/analytics/academy/course/10) (English)
 2. [AWS QuickSight практика](https://docs.aws.amazon.com/quicksight/latest/user/getting-started.html) (English)
 3. [Klipfolio практика](https://www.klipfolio.com/blogs-and-tutorials) (English)
 4. [Пиратские метрики](https://vc.ru/trade/53154-piratskie-metriki-dlya-internet-magazina) (Русский)
 5. [AARRR воронка — модель «Пиратские метрики» + фреймворк AAARRR](https://leadstartup.ru/db/aarrr) (Русский)
-6. [Обзор книги «Lean Analytics»](https://gopractice.ru/lean_analytics/) Русский)
+6. [Обзор книги «Lean Analytics»](https://gopractice.ru/lean_analytics/) (Русский)
 
 ### Практика
 В качестве домашнего задания вам необходимо создать дашборд в одном из решений, которые мы рассмотрели. ДЛя идей можно использовать задание из 1го модуля. Данные должны быть в Postgres в AWS и вы сможете подключиться сервисом к БД и создать несколько отчетов. Для практики можно и во всех 3х создать.
 
 # Опрос Модуль 2
-Пожалуйста пройдите [опрос по заврешению Модуля 2](https://forms.gle/GX2jPuvBxDNXa5dU9). Так я смогу посмотреть, сколько человек закончило модуль, что было хорошо, а что можно улучшить.
+Пожалуйста пройдите [опрос по завершении Модуля 2](https://forms.gle/GX2jPuvBxDNXa5dU9). Так я смогу посмотреть, сколько человек закончило модуль, что было хорошо, а что можно улучшить.
+
+По окончанию модуля 1, вы можете расшарить значок `02 | DATABASE` в социальных сетях и рассказать о своих достижениях. 
+
+![img](https://github.com/Data-Learn/data-engineering/blob/master/img/de101-module02.png)
+

@@ -1,0 +1,108 @@
+<chart>
+	<!-- Define the chart type -->	
+	<chart-type>AreaChart</chart-type>
+	<!-- Specify the orientation of the bars (vertical/horizontal) -->
+	<orientation>vertical</orientation>
+	<!-- Specify the 3D-ness of the bars -->
+	<is-3D>false</is-3D>
+	<!-- Specify if the bars are stacked -->
+	<is-stacked>true</is-stacked>
+
+    <!-- Specify the title of the chart -->
+	<title>Area Chart</title>
+
+	<!-- Specify the location of the title -->
+	<title-position>TOP</title-position>
+	
+	<!-- Specify the font of the title -->
+	<title-font>
+		<font-family>Arial</font-family>
+		<size>14</size>
+		<is-bold>true</is-bold>
+		<is-italic>false</is-italic>
+	</title-font>
+	<subtitles>
+	  <subtitle>Product Line Sales</subtitle>
+	  <subtitle>Year to Year</subtitle>	
+	</subtitles>
+
+    <!-- General Chart Propeties --> 
+	<chart-background type="color">#FFFFFF</chart-background>
+	<plot-background type="color">#EEEEEE</plot-background>
+	<border-visible>false</border-visible>
+	<border-paint>#000000</border-paint>
+	
+	<!--  X-Axis properties -->
+	<domain-title>Years</domain-title>
+	<domain-title-font>
+      <font-family>Arial</font-family>
+	  <size>12</size>
+	  <is-bold>false</is-bold>
+	  <is-italic>false</is-italic>	
+	</domain-title-font>
+	<domain-tick-font>
+      <font-family>Arial</font-family>
+	  <size>12</size>
+	  <is-bold>false</is-bold>
+	  <is-italic>false</is-italic>	
+	</domain-tick-font>	
+	<domain-label-rotation>.7</domain-label-rotation>
+	<domain-label-rotation-dir></domain-label-rotation-dir>
+
+	<!--  Y-Axis properties -->
+	<range-title>Sales</range-title>
+	<range-title-font>
+      <font-family>Arial</font-family>
+	  <size>12</size>
+	  <is-bold>false</is-bold>
+	  <is-italic>false</is-italic>	
+	</range-title-font>
+    <range-tick-format>0,000 ($)</range-tick-format>
+    <range-tick-font>
+      <font-family>Arial</font-family>
+	  <size>12</size>
+	  <is-bold>false</is-bold>
+	  <is-italic>false</is-italic>	
+    </range-tick-font>
+
+	<!-- Specify is the chart legend should be shown -->
+	   <include-legend>true</include-legend> 
+       <legend-font>
+      <font-family>Arial</font-family>
+	  <size>12</size>
+	  <is-bold>false</is-bold>
+	  <is-italic>false</is-italic>
+       </legend-font> 
+
+	<!-- Specify the color palette for the chart -->
+	<color-palette>
+		<color>#387179</color>
+		<color>#626638</color>
+		<color>#A8979A</color>
+		<color>#B09A6B</color>
+		<color>#772200</color>
+		<color>#C52F0D</color>
+		<color>#123D82</color>
+		<color>#4A0866</color>
+		<color>#445500</color>
+		<color>#FFAA00</color>
+		<color>#1E8AD3</color>
+		<color>#AA6611</color>
+		<color>#772200</color>
+	</color-palette>
+
+	<!-- Specify where the data for the chart comes from -->
+	<data>
+		<!-- Specify the path to the action sequence that provides the data -->
+		<data-solution>steel-wheels</data-solution>
+		<data-path>charts</data-path>
+		<data-action>areachart_data.xaction</data-action>
+
+		<!-- Specify the output of the action sequence that contains the data -->
+		<data-output>query_result</data-output>
+		
+		<!-- Specify whether to get the chart series from the rows or columns -->
+		<data-orientation>rows</data-orientation>
+	</data>	
+		
+</chart>
