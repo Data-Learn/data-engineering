@@ -99,19 +99,9 @@
 
 **Видео лекция - практика** - [Установка и Обзор Tableau Prep и Alteryx](https://youtu.be/KfuY2J9h5B0?t=900)
 
-**Запись вебинара c Экспертом** 
-[Путь Инженера Аналитики: Решение для Маркетинга / Артемий Козырь и обзор DBT tool](https://youtu.be/SoOcvYPSm7o)
-
 ### Дополнительные материалы для изучения
-1. [Введение в Apache Airflow](https://khashtamov.com/ru/apache-airflow-introduction/) (Русский)
-2. [Как мы оркестрируем процессы обработки данных с помощью Apache Airflow](https://habr.com/ru/company/lamoda/blog/518620/) (Русский)
-3. [Apache Airflow: делаем ETL проще](https://habr.com/ru/post/512386/) (Русский)
-4. [ETL процесс получения данных из электронной почты в Apache Airflow](https://habr.com/ru/post/495676/) (Русский)
-5. [Apache NiFi: что это такое и краткий обзор возможностей](https://habr.com/ru/company/rostelecom/blog/432166/) (Русский)
-6. [Динамическое создание кластера Apache NiFi](https://habr.com/ru/post/331444/) (Русский)
-7. [Apache NIFI — Краткий обзор возможностей на практике](https://habr.com/ru/post/465299/) (Русский)
-8. [Data Build Tool или что общего между Хранилищем Данных и Смузи](https://habr.com/ru/company/otus/blog/501380/) (Русский)
-9. [DBT: A new way to transform data and build pipelines at The Telegraph](https://medium.com/the-telegraph-engineering/dbt-a-new-way-to-handle-data-transformation-at-the-telegraph-868ce3964eb4) (English)
+1. [Начало работы с Tableau prep](https://help.tableau.com/current/prep/en-us/prep_get_started.htm) (English)
+2. [Начало работы с Alteryx Designer](https://help.alteryx.com/learn/learningguide.html) (English)
 
 ### Практика
 Вам необходимо построить `Tableau Prep Flow` или `Alteryx Workflow` и сохранить результат в своем `git`. Вы можете использовать данные `Sales Superstore` из модуля 1 и 2 или подключиться к БД Postgres (из 2-го и 3го модуля), в которую мы загружали данные. Альтернативно вы можете просто повторить существующие задания из Alteryx/Tableau tutorial, чтобы понять как работает инструмент.
@@ -124,9 +114,36 @@
 
 **Видео лекция - теория** - [Fancy ETL инструменты](https://youtu.be/SYeU8EZEO-k). 
 
+
+**Запись вебинара c Экспертом** 
+[Путь Инженера Аналитики: Решение для Маркетинга / Артемий Козырь и обзор DBT tool](https://youtu.be/SoOcvYPSm7o)
+
 ### Дополнительные материалы для изучения
-1. [Начало работы с Tableau prep](https://help.tableau.com/current/prep/en-us/prep_get_started.htm) (English)
-2. [Начало работы с Alteryx Designer](https://help.alteryx.com/learn/learningguide.html) (English)
+
+#### Apache Airflow
+1. [Введение в Apache Airflow](https://khashtamov.com/ru/apache-airflow-introduction/) (Русский)
+2. [Как мы оркестрируем процессы обработки данных с помощью Apache Airflow](https://habr.com/ru/company/lamoda/blog/518620/) (Русский)
+3. [Apache Airflow: делаем ETL проще](https://habr.com/ru/post/512386/) (Русский)
+4. [ETL процесс получения данных из электронной почты в Apache Airflow](https://habr.com/ru/post/495676/) (Русский)
+5. [Getting started with Apache Airflow](https://towardsdatascience.com/getting-started-with-apache-airflow-df1aa77d7b1b) (English)
+#### Apache NiFi
+1. [Apache NiFi: что это такое и краткий обзор возможностей](https://habr.com/ru/company/rostelecom/blog/432166/) (Русский)
+2. [Динамическое создание кластера Apache NiFi](https://habr.com/ru/post/331444/) (Русский)
+3. [Apache NIFI — Краткий обзор возможностей на практике](https://habr.com/ru/post/465299/) (Русский)
+4. [How Apache Nifi works — surf on your dataflow, don’t drown in it](https://medium.com/free-code-camp/nifi-surf-on-your-dataflow-4f3343c50aa2)
+5. [Побег от скуки — процессы ETL](https://habr.com/ru/post/508620/) (Русский)
+#### Data Build Tool (dbt) tool 
+1. [Data Build Tool или что общего между Хранилищем Данных и Смузи](https://habr.com/ru/company/otus/blog/501380/) (Русский)
+2. [DBT: A new way to transform data and build pipelines at The Telegraph](https://medium.com/the-telegraph-engineering/dbt-a-new-way-to-handle-data-transformation-at-the-telegraph-868ce3964eb4) (English)
+3. [What, exactly, is dbt?](https://blog.getdbt.com/what--exactly--is-dbt-/) (English)
+4. [Работа с dbt на базе Google BigQuery](https://habr.com/ru/post/542008/) (Русский)
+5. [Сквозная Аналитика на Azure SQL + dbt + Github Actions + Metabase](https://habr.com/ru/post/538106/) (Русский)
+
+#### Luigi
+1. [Строим Data Pipeline на Python и Luigi](https://khashtamov.com/ru/data-pipeline-luigi-python/) (Русский)
+2. [Обзор фреймворка Luigi для построения последовательностей выполнения задач](https://habr.com/ru/company/otus/blog/339904/) (Русский)
+3. [Airbnb’s Airflow Versus Spotify’s Luigi](https://medium.com/better-programming/airbnbs-airflow-versus-spotify-s-luigi-bd4c7c2c0791) (English)
+4. [Data pipelines, Luigi, Airflow: everything you need to know](https://towardsdatascience.com/data-pipelines-luigi-airflow-everything-you-need-to-know-18dc741449b7) (English)
 
 ### Практика
 Вы можете выполнить один или несколько tutorial(s), чтобы попробовать `fancy etl` в деле. Это будет прекрасный пример вашего интереса к данному вопросу, который вы можете продемонстрировать на собеседовании и рассказать, как вы любите пробовать новые инструменты и изучать их особенности:
@@ -137,10 +154,6 @@
 5. [Clickhouse tutorial](https://clickhouse.tech/docs/ru/getting-started/tutorial/)
 
 А также вы сможете взять данные из модуля 2 по Superstore на Postres и использвать инструменты выше, чтобы получить результат. Это уже серьезная заявка на звание Data Engineer.
-
-
-
-
 
 ## Модуль 4.8 Требования к ETL разработчику и отличия от Data Engineer
 
