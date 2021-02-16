@@ -54,6 +54,8 @@
 
 **Видео лекция - практика** - [Начало работы с Pentaho DI](https://youtu.be/-oCBttnefMQ?t=2087)
 
+[Видео по основам Pentaho DI](https://youtu.be/K3X9wIC0jO8) от Павла Новичкова и [ссылка на исходные файлы из видео](https://drive.google.com/file/d/1yw0E7Gqm4Rocui_pQYPdfmmnFtGfx3LY/view?usp=sharing)
+
 ### Практика
 В качестве практики вам необходимо:
 1. Скачать и запустить Pentaho DI, [отсюда](https://sourceforge.net/projects/pentaho/).
