@@ -99,7 +99,7 @@ strip_outer_array = true;
 create or replace stage json_format_stage
 file_format = json_format
 url = 's3://vancouver-tug/'
-CREDENTIALS = (AWS_KEY_ID = 'AKIASUGB3VRQXJIAY74J' AWS_SECRET_KEY = 'QvelGdu/EMne7joPkV0i5JYt3H0C0ovrJMHFfh9U');
+CREDENTIALS = (AWS_KEY_ID = 'AKIASUGB3VRQXJIAY74J' AWS_SECRET_KEY = '****************************************');
   
 copy into home_sales(city, state, zip, sale_date, price)
 from (select substr(parse_json($1):location.state_city,4), substr(parse_json($1):location.state_city,1,2),
@@ -154,7 +154,7 @@ create or replace file format parquet_format
 create or replace stage parquet_format_stage
   file_format =  parquet_format
   url = 's3://vancouver-tug/'
-  CREDENTIALS = (AWS_KEY_ID = 'AKIASUGB3VRQXJIAY74J' AWS_SECRET_KEY = 'QvelGdu/EMne7joPkV0i5JYt3H0C0ovrJMHFfh9U');
+  CREDENTIALS = (AWS_KEY_ID = 'AKIASUGB3VRQXJIAY74J' AWS_SECRET_KEY = '****************************************');
 
 copy into cities
   from (select
