@@ -45,7 +45,7 @@
 - [NIST Definition of the Cloud Computing](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf ) (English)
 - [5 Real World Examples of Cloud Computing ](https://www.maropost.com/5-real-world-examples-of-cloud-computing/) (English)
 - [Top 10 use cases for cloud computing ](https://blog.newcloudnetworks.com/the-top-10-use-cases-for-cloud-computing) (English)
-- [What is virtualization and how it works ](https://habr.com/ru/post/463245/) (Русский) 
+- [What is virtualization and how it works ](https://habr.com/ru/post/463245/) (English) 
 - [Flexera 2020 State of the Cloud Report](https://searchservervirtualization.techtarget.com/definition/virtualization) (English)
 
 ### Практика
