@@ -38,15 +38,15 @@
 **Видео лекция - практика** - [Введение в Облачные вычисления - hands-on](https://youtu.be/JHPa1AhUN_I?t=2447). 
 
 ### Дополнительные материалы для изучения
-- [What is AWS?](https://youtu.be/a9__D53WsUs) (English)
-- [AWS vs Azure vs GCP ](https://www.youtube.com/watch?v=kd33UVZhnAA) (English)
-- [Inside a Google data center](https://www.youtube.com/watch?v=kd33UVZhnAA) (English)
+- [What is AWS?](https://youtu.be/a9__D53WsUs) (Video English)
+- [AWS vs Azure vs GCP ](https://www.youtube.com/watch?v=kd33UVZhnAA) (Video English)
+- [Inside a Google data center](https://www.youtube.com/watch?v=kd33UVZhnAA) (Video English)
 - [Stephen Fry explains cloud computing](https://youtu.be/J9LK6EtxzgM) (Video English)
 - [NIST Definition of the Cloud Computing](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf ) (English)
 - [5 Real World Examples of Cloud Computing ](https://www.maropost.com/5-real-world-examples-of-cloud-computing/) (English)
 - [Top 10 use cases for cloud computing ](https://blog.newcloudnetworks.com/the-top-10-use-cases-for-cloud-computing) (English)
-- [What is virtualization and how it works ](https://habr.com/ru/post/463245/) (English) 
-- [Flexera 2020 State of the Cloud Report](https://searchservervirtualization.techtarget.com/definition/virtualization) (English)
+- [What is virtualization and how it works ](https://searchservervirtualization.techtarget.com/definition/virtualization) (English) 
+- [Flexera 2020 State of the Cloud Report](https://info.flexera.com/SLO-CM-REPORT-State-of-the-Cloud-2020) (English)
 
 ### Практика
 Вам необходимо:
