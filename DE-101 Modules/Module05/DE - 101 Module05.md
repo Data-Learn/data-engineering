@@ -65,9 +65,47 @@
 
 Если хотите, попробуйте тоже само в Azure с Vnet.
 
-## Модуль 5.3 Концепции и модели облачных вычислений?
+## Модуль 5.3 Концепции и модели облачных вычислений
+Согласно National Institute of Standards and Technology (NIST) можно выделить несколько типов облачных сервис моделей и тип самого облако. В этом видео мы рассмотрим:
+-  Облачные Сервис Модели IaaS, Paas, Saas
+-  Cloud Stack
+-  Cloud Deployments Models - Public, Private, Hybrid и Community
+-  Рост популярности облачных вычисления
+-  Рост доли рынка основных вендоров
 
-## Модуль 5.4 Основы безопасности облачных решений?
+**Видео лекция - теория** - [Концепции и модели облачных вычислений](https://youtu.be/-TW1oreQLNw)
+
+На лабораторной работе я покажу:
+-  AWS QuickStart
+-  AWS Load Balancer
+-  Рассмотрим основные команды для Bash/Shell (командной строки, которые необходимы для работы специалиста с данными)
+-  Инфраструктура as Код на пример AWS CloudFormation и Azure ARM templates
+-  Посмотрим на billing (стоимость владения по факту) и на AWS Budgets, AWS Calculator
+-  Так же посмотрим на Azure Calculator
+
+**Видео лекция - практика** - [Введение в Облачные вычисления - hands-on](https://youtu.be/-TW1oreQLNw?t=1671)
+
+### Дополнительные материалы для изучения
+- [NIST Definition of the service and deployment models](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf) (English)
+- [AWS: Type of cloud computing](https://aws.amazon.com/types-of-cloud-computing/) (English)
+- [Azure: Cloud service models](https://docs.microsoft.com/en-us/learn/modules/align-requirements-in-azure/3-service-models) (English)
+- [Azure: Cloud service models](https://docs.microsoft.com/en-us/learn/modules/align-requirements-in-azure/3-service-models) (Video English)
+- [McAffe Cloud Adoption and Risk Report](https://www.mcafee.com/enterprise/en-us/solutions/lp/cloud-adoption-risk-report-business-growth-edition.html) (English)
+
+
+### Практика
+>Лабораторные работы в процессе подготовки. Мы сделаем на русском языке и загрузим в GIT.
+
+Вам необходимо:
+- В своем AWS Account создать Billing Alert
+- Воспользоваться AWS или Azure калькулятором, чтобы посчитать стоимость решения
+- Запустить шаблон AWS Cloudformation или Azure ARM, чтобы создать, какой-нибудь ресурс(ы) в облаке.
+- Попробовать создать 2 AWS EC2, установить на них Apache Web Server и подключить к Application Load Balancer. Потом отключить один из EC2 и убедиться, что вы все еще можете пользоваться другим EC2. Или можете создать решение EC2+RDS. Не забудьте нарисовать диаграмму решения в `draw.io`. Пример из AWS документации - [Create a web server and an Amazon RDS DB instance](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/TUT_WebAppWithRDS.html)
+- Создать статический web site в S3 - [Hosting a static website using Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html)
+
+Если хотите, можете сделать свою лабу и мы загрузим описание к нам в Git и добавим в курс.  
+
+## Модуль 5.4 Основы безопасности облачных решений
 
 ## Модуль 5.5 Данные в облаке
 
