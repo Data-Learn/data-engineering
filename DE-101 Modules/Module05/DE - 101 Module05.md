@@ -94,14 +94,13 @@
 
 
 ### Практика
->Лабораторные работы в процессе подготовки. Мы сделаем на русском языке и загрузим в GIT.
+Лабораторная Работа №5.3.1: [Создаем статичный веб-сайт на Amazon S3](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module05/DE%20-%20101%20Labs/AWS%20-%20Static%20web-site%20using%20S3/Static%20web-site%20using%20S3.md). Автор: Эдгар Лакшин. 
 
-Вам необходимо:
+Дополнительно вам необходимо:
 - В своем AWS Account создать Billing Alert
 - Воспользоваться AWS или Azure калькулятором, чтобы посчитать стоимость решения
 - Запустить шаблон AWS Cloudformation или Azure ARM, чтобы создать, какой-нибудь ресурс(ы) в облаке.
 - Попробовать создать 2 AWS EC2, установить на них Apache Web Server и подключить к Application Load Balancer. Потом отключить один из EC2 и убедиться, что вы все еще можете пользоваться другим EC2. Или можете создать решение EC2+RDS. Не забудьте нарисовать диаграмму решения в `draw.io`. Пример из AWS документации - [Create a web server and an Amazon RDS DB instance](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/TUT_WebAppWithRDS.html)
-- Создать статический web site в S3 - [Hosting a static website using Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html)
 
 Если хотите, можете сделать свою лабу и мы загрузим описание к нам в Git и добавим в курс.  
 
