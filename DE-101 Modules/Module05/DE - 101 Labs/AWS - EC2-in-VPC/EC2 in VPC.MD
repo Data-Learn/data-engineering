@@ -19,7 +19,7 @@
 > Убедитесь, что вы одном и том же регионе во время практического задания. Существующие регионы [AWS Регионы.](https://aws.amazon.com/about-aws/global-infrastructure/)
 
 ### Диаграмма решения
-![](./images/diagram.png)
+![](./images/Diagram.png)
 
 ### Задание 1: Создание VPC
 1. Авторизируйтесь в [AWS Management Console](https://aws.amazon.com/console/).
