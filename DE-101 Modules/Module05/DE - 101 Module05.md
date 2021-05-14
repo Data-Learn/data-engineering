@@ -105,6 +105,27 @@
 Если хотите, можете сделать свою лабу и мы загрузим описание к нам в Git и добавим в курс.  
 
 ## Модуль 5.4 Основы безопасности облачных решений
+**Видео лекция - теория** - [Основы безопасности облачных решений](https://youtu.be/J8V1HeXQmh4)
+
+**Видео лекция - практика** - [Введение в Облачные вычисления - hands-on](https://youtu.be/J8V1HeXQmh4)
+
+### Дополнительные материалы для изучения
+- [AWS Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/) (English)
+- [Azure Shared Responsibility for Cloud Computing](https://azure.microsoft.com/en-us/resources/shared-responsibility-for-cloud-computing/) (English)
+- [Security, Identity, and Compliance on AWS](https://aws.amazon.com/products/security/)
+- [Security services and technologies available on Azure](https://docs.microsoft.com/en-us/azure/security/fundamentals/services-technologies) (English)
+- [What is AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html) (English)
+- [Microsoft Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/) (English)
+- [Laws and Regulations Governing the Cloud Computing Environment](https://rickscloud.com/laws-and-regulations-governing-the-cloud-computing-environment/) 
+
+
+### Практика
+Вам нужно:
+- Скачать AWS CLI или Azure AZ и сконфигурировать, чтобы вы могли управлять вашим облачным аккаунтом
+- Используйте AWS CLI, чтобы создать S3 бакет в AWS и загрузить в него файл
+- Создайте KMS ключ в AWS и примените шифрование для данных в S3
+
+Вы также можете использовать похожие сервисы в Azure.
 
 ## Модуль 5.5 Данные в облаке
 
