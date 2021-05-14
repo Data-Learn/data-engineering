@@ -40,4 +40,41 @@
 
 ![CreateLambdaIndex](./img/CreateLambdaIndex.jpg)
 
-9. 
+9. Нажмите **Deploy**. 
+
+![Deploy](./img/Deploy.jpg)
+
+### Тестируем функцию, используя тестовое событие.
+1. Нажмите на кнопку **Test**, расположенную наверху.
+
+![ClickTest](./img/ClickTest.jpg)
+
+2. В появившемся модальном окне, в поле _Event name_ укажите значение **myTestEvent**. Затем нажмите **Create**.
+
+![CreateTest](./img/CreateTest.jpg)
+
+3. Теперь сново нажмите на кнопку **Test**. Посмотрите на ответ. 
+    - В ответе должно быть <span style="color:red" style="font-weight: bold">*200*</span>. Это значит, что сайт работает.
+
+![resultTest](./img/resultTest.jpg)
+
+### Посмотрите на CloudWatch Logs
+
+1. Нажмите на **Monitor**
+
+![ClickMonitor](./img/ClickMonitor.jpg)
+
+2. Нажмите на **View logs in CloudWatch**.
+
+![ViewLogs](./img/ViewLogs.jpg)
+
+3. Нажмите на самый свежий лог из списка логов. 
+
+![SelectLogStream](./img/SelectLogStream.jpg)
+
+4. Обратите внимание на **Billed Duration**
+
+![BilledDuration](./img/BilledDuration.jpg)
+
+## Заключение
+Поздравляем с успешным завершением лабораторной работы!
