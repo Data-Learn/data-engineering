@@ -8,7 +8,7 @@
 
 - [Введение](https://github.com/Data-Learn/data-engineering/blob/master/DE%20-%20101%20Guide.md#%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5)
 - [Требования](https://github.com/Data-Learn/data-engineering/blob/master/DE%20-%20101%20Guide.md#%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
-- [Подготовка к курсу по Analytics Engineering](https://github.com/Data-Learn/data-engineering/blob/master/DE%20-%20101%20Guide.md#%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BA-%D0%BA%D1%83%D1%80%D1%81%D1%83-%D0%BF%D0%BE-data-engineering)
+- [Подготовка к курсу по Analytics (Data) Engineering](https://github.com/Data-Learn/data-engineering/blob/master/DE%20-%20101%20Guide.md#%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BA-%D0%BA%D1%83%D1%80%D1%81%D1%83-%D0%BF%D0%BE-analytics-data-engineering)
 - [Модуль 01 - Роль Аналитики](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module01/DE%20-%20101%20Module01.md) ![Ready](https://img.shields.io/badge/-ready-green)
 - [Модуль 02 - Базы данных и SQL](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module02/DE%20-%20101%20Module02.md) ![Ready](https://img.shields.io/badge/-ready-green) 
 - [Модуль 03 - Business Intelligence](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module03/DE%20-%20101%20Module03.md) ![Ready](https://img.shields.io/badge/-ready-green)
