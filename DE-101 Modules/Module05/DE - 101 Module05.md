@@ -58,7 +58,10 @@
 6. Создать Storage Account в Azure, и загрузить туда CSV `superstore` из 1го модуля
 7. Используя `draw.io` и иконки AWS/Azure, нарисуйте архитектуру решения, на котором будет VPC, Subnet, Internet Gateway, Route Table, Subnet и укажите IP адресс EC2.
 
-Опционально:
+### Лабораторной работе
+[Запуск экземпляра EC2 в частном виртуальном облаке (Virtual Private Cloud - VPC)](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module05/DE%20-%20101%20Labs/AWS%20-%20EC2-in-VPC/EC2%20in%20VPC.MD)
+
+### Опциональное задание:
 Если вы хотите получше разобраться в концепции AWS Virtual Private Cloud, то вам необходимо сделать еще 2 упражнения:
 1. Используя документацию AWS, создайте новый VPC, Public и Private Subnets, Availability Zones и все необходимое. Создайте 2 EC2 инстанса (один в public subnet, другой в private) и попробуйте к ним подключится через SSH
 2. Нарисуйте диграмму в `draw.io`.
@@ -93,8 +96,8 @@
 - [McAffe Cloud Adoption and Risk Report](https://www.mcafee.com/enterprise/en-us/solutions/lp/cloud-adoption-risk-report-business-growth-edition.html) (English)
 
 
-### Практика
-Лабораторная Работа №5.3.1: [Создаем статичный веб-сайт на Amazon S3](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module05/DE%20-%20101%20Labs/AWS%20-%20Static%20web-site%20using%20S3/Static%20web-site%20using%20S3.md). Автор: Эдгар Лакшин. 
+### Лабораторная Работа
+[Создаем статичный веб-сайт на Amazon S3](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module05/DE%20-%20101%20Labs/AWS%20-%20Static%20web-site%20using%20S3/Static%20web-site%20using%20S3.md). Автор: Эдгар Лакшин. 
 
 Дополнительно вам необходимо:
 - В своем AWS Account создать Billing Alert
@@ -135,9 +138,39 @@
 - Используйте AWS CLI, чтобы создать S3 бакет в AWS и загрузить в него файл
 - Создайте KMS ключ в AWS и примените шифрование для данных в S3
 
+### Лабораторная Работа
+[Создание и работа с Azure Blob Storage](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module05/DE%20-%20101%20Labs/Azure%20-%20Create%20and%20Manage%20Azure%20Blob%20Storage/Azure%20Blob%20Storage.MD)
+[Введение в Azure Active Directory](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module05/DE%20-%20101%20Labs/Azure%20-%20Introduction%20to%20Azure%20Active%20Directory/azure-ad-intro.md)
+
 Вы также можете использовать похожие сервисы в Azure.
 
 ## Модуль 5.5 Данные в облаке
+Данные повсюду и облака не исключение. Облачные решения могут создавать или использовать данные для различных целей, например аналитика, IoT, мобильные приложения, бизнес приложения и многое другое. Все данные, которые находятся в "нашем" облаке - являются нашей собственностью и мы несем за них ответственность и должны соблюдать законодательство и все регламенты. В этом уроке мы:
+
+- Характеристики данных
+- Соответствие с законами
+- Тип хранения данных
+- Данные в России
+- Персональные Данные (PII)
+- Как работать с персональными данными в облаке по закону
+- AWS и Azure решения для Compliances
+
+**Видео лекция - теория** - [Данные в облаке](https://youtu.be/3YCUsekrhPU)
+
+**Видео лекция - практика** - [Данные в облаке - hands-on](https://youtu.be/3YCUsekrhPU?t=1404). 
+
+## Дополнительные материалы для изучения
+- [Introduction to AWS Security](https://docs.aws.amazon.com/whitepapers/latest/introduction-aws-security/welcome.html) (English)
+- [AWS Artifact](https://aws.amazon.com/artifact/) (English)
+- [Azure compliance](https://azure.microsoft.com/en-us/overview/trusted-cloud/compliance/) (English)
+- [Azure compliance](https://azure.microsoft.com/en-us/overview/trusted-cloud/compliance/) (English)
+- [Trust your cloud](https://azure.microsoft.com/en-ca/overview/trusted-cloud/) (English)
+- [Trust your cloud](https://azure.microsoft.com/en-ca/overview/trusted-cloud/) (English)
+- [Безопасность Yandex.Cloud](https://cloud.yandex.ru/security) (Русский)
+- [Защита персональных данных в облаке: что нужно знать по 152-ФЗ](https://mcs.mail.ru/blog/zashchita-personalnyh-dannyh-v-oblake-kak-sdelat-vse-po-zakonu)  (Русский)
+
+### Лабораторная Работа
+[Создаем лямбда функцию в AWS Console](https://github.com/Data-Learn/data-engineering/tree/master/DE-101%20Modules/Module05/DE%20-%20101%20Labs/AWS%20-%20Lambda%20Function%20Using%20the%20AWS%20Console)
 
 ## Модуль 5.6 Архитектура облачных решений
 
@@ -154,4 +187,7 @@
 Пожалуйста пройдите [опрос по завершении Модуля 5](https://forms.gle/kyYWXLarcgqz6oTu5). Так я смогу посмотреть, сколько человек закончило модуль, что было хорошо, а что можно улучшить.
 
 По окончанию модуля 5, вы можете расшарить значок `05 | Cloud Computing` в социальных сетях и рассказать о своих достижениях. 
+
+PS Если материал оказался полезным, вы можете поддержать авторов через 
+[ЮMoney](https://yoomoney.ru/to/4100116864248269) или [Patreon](https://www.patreon.com/dmitryanoshin) или [Paypal](https://paypal.me/dmitryanoshin)
 

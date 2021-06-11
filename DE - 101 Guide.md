@@ -144,8 +144,7 @@
 *** 
 
 ## Поддержка Курса
-Когда вы начнете проходить курс, возможно вы захотите поддержать `data learn`, вы можете это сделать с помощью:
-- [Patreon](https://www.patreon.com/dmitryanoshin)
-- [Paypal](https://paypal.me/dmitryanoshin)
+**PS Если материал оказался полезным, вы можете поддержать авторов через**
+[ЮMoney](https://yoomoney.ru/to/4100116864248269) или [Patreon](https://www.patreon.com/dmitryanoshin) или [Paypal](https://paypal.me/dmitryanoshin)
 
 Всем спасибо и до встречи на курсе и в нашем сообществе `Datal Learn` в Slack.
