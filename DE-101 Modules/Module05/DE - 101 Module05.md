@@ -173,6 +173,34 @@
 [Создаем лямбда функцию в AWS Console](https://github.com/Data-Learn/data-engineering/tree/master/DE-101%20Modules/Module05/DE%20-%20101%20Labs/AWS%20-%20Lambda%20Function%20Using%20the%20AWS%20Console)
 
 ## Модуль 5.6 Архитектура облачных решений
+Прежде чем строить дом, нам нужно нарисовать архитектуру дома и сделать много других подготовительных работ. Тоже самое и в облаке и ИТ решениях. А если мы еще вспомним про принципы Амазон и их подход к созданию новых продуктов - Working Backwards, то самый первый шаг в создании решения мы начнем с потребностей клиента и бизнеса, напишем press releases, ответим на все возможные вопросы в FAQ и создадим visuals, включая диаграмму/архитектуру нашего будущего решения или продукта.
+
+**Видео лекция - теория** - [Данные в облаке](https://youtu.be/slfDKyMxZsU)
+
+Из модуля вы узнаете:
+- Что такое архитектура
+- Amazon Working Backwards и Press Releases
+- Enterprise Architecture Frameworks
+- TOGAF и Zachman frameworks
+- AWS и Azure blueprint решения и шаблоны
+- The 5 Pillars of the AWS Well-Architected Framework
+- Примеры AWS решений
+- Диаграммы и архитектуры аналитических решений
+
+# Дополнительные материалы для изучения
+- [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/) (English)
+- [AWS Solutions Implementations](https://aws.amazon.com/solutions/implementations/) (English)
+- [How to draw 5 types of architectural diagrams](https://www.lucidchart.com/blog/how-to-draw-architectural-diagrams) (English)
+
+### Практика
+Вы можете нарисовать архитектуру решения (например использовать из модуля 1 и заменить элементы диаграммы на элементы из AWS или Azure), затем попытаться перерисовать ее и описать, ответив на 6 вопросов про вашу облачную архитектуру:
+- Why - какую проблему мы хотим решить, какие бизнес цели?
+- Who - для кого мы решаем эту проблему, кто вовлечен в проект?
+- What - какие бизнес и технические требования?
+- Where - где приложение/сервис будет использовать? (данные, законы)
+- When - когда нужно предоставить работающее приложение\сервис?
+- How - как можно выполнить этот проект?
+
 
 ## Модуль 5.7 Миграция в облако
 
