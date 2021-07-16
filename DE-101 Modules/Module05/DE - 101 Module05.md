@@ -187,7 +187,7 @@
 - Примеры AWS решений
 - Диаграммы и архитектуры аналитических решений
 
-# Дополнительные материалы для изучения
+### Дополнительные материалы для изучения
 - [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/) (English)
 - [AWS Solutions Implementations](https://aws.amazon.com/solutions/implementations/) (English)
 - [How to draw 5 types of architectural diagrams](https://www.lucidchart.com/blog/how-to-draw-architectural-diagrams) (English)
@@ -214,6 +214,12 @@
 - AWS Database Migration Service
 - Azure Migration Services
 
+### Дополнительные материалы для изучения
+- [Cloud Analytics Migration Strategies](https://medium.com/rock-your-data/cloud-analytics-migration-strategies-74af248de066)
+- [AWS Schema Conversion Tool](https://aws.amazon.com/dms/schema-conversion-tool/)
+- [Azure Migrate](https://azure.microsoft.com/en-us/services/azure-migrate/)
+- [How Amazon is Achieving Database Freedom Using AWS](https://aws.amazon.com/solutions/case-studies/amazon-database-migration/) 
+
 ## Модуль 5.8 Аналитические решения в облаке
 
 Облачные вычисления дают нам много преимуществ, и аналитика не исключение. Мы можем сфокусироваться на решение бизнес задач и не тратить время на создание инфраструктуры. В зависимости от задачи и доступных ресурсов мы можем использовать IaaS, PaaS или SaaS. Пару кликов и у вас есть хранилище данных, куда вы можете загружать данные и сразу их визуализировать практически в реальном времени. Если кратко, то возможности безграничны и зависят лишь от вашей фантaзии и кошелька. 
@@ -227,6 +233,19 @@
 - AWS решения для аналитики
 - Azure  решения для аналитики
 - GCP  решения для аналитики
+
+### Дополнительные материалы для изучения
+- [AWS Analytics Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/analytics.html)
+- [AWS Workshop - Data Engineering Immersion Day](https://aws-dataengineering-day.workshop.aws/?anld_da3)
+- [Azure Analytics Services](https://azure.microsoft.com/en-ca/product-categories/analytics/)
+- [GCP Analytics Services](https://medium.com/@srivatsan88/data-and-analytics-on-google-cloud-platform-13bc92a4596f)
+- [Разбор сервисов Google Cloud для построения аналитических решений / Денис Соловьев](https://youtu.be/2Z325XKRpfw)
+
+### Практика
+Если вам интересно, то можете выполнить любую лабу по аналитике в облаке AWS или все сразу:
+- [Create business intelligence dashboards with Amazon QuickSight](https://aws.amazon.com/getting-started/hands-on/create-business-intelligence-dashboards-using-amazon-quicksight/)
+- [Analyze Big Data with Hadoop](https://aws.amazon.com/getting-started/hands-on/analyze-big-data/)
+- [Deploy a Data Warehouse](https://aws.amazon.com/getting-started/hands-on/deploy-data-warehouse/)
 
 
 ## Модуль 5.9 Профессии и сертфикация в облачных вычисления
@@ -271,10 +290,29 @@ Python является самым популярным языком прогр�
 - **Хранение данных**
   -  Лаба #10. Amazon DynamoDB
 
+**Видео - теория** - [Python в Облаке](https://youtu.be/cO1NgxfzKKY)
+
+### Workshop
+Вам нужно выполнить все материалы по `AWS Python Workshop`. Можно выбрать один из 2х:
+-[AWS Python Workshop Original](https://learn-to-code.workshop.aws/)
+-[Русская версия описания и задания для AWS Python Workshop](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module05/DE%20-%20101%20Labs/AWS%20-%20Python%20Workshop/aws-python-workshop.MD)
+
+### Дополнительные материалы для изучения
+- [Think Python PDF](https://greenteapress.com/thinkpython/thinkpython.pdf)
+
+Вы рассмотрите основной функционал Python с помощью облачной `AWS IDE Cloud9` и с использованием сервиса `Amazon Translate`.
 
 Пожалуйста пройдите [опрос по завершении Модуля 5](https://forms.gle/kyYWXLarcgqz6oTu5). Так я смогу посмотреть, сколько человек закончило модуль, что было хорошо, а что можно улучшить.
 
 По окончанию модуля 5, вы можете расшарить значок `05 | Cloud Computing` в социальных сетях и рассказать о своих достижениях. 
+
+![img](https://github.com/Data-Learn/data-engineering/blob/master/img/de-101-05-cloudcomputing.PNG?raw=true)
+
+А также добавить в Linkedin сертификат:
+
+![img](https://github.com/Data-Learn/data-engineering/blob/master/img/linkedin05cloud.PNG?raw=true)
+Все доступные сертификаты можете посмотреть в этом [linkedin профайле](https://www.linkedin.com/in/lana-naumova-8a1b78171/).
+
 
 PS Если материал оказался полезным, вы можете поддержать авторов через 
 [ЮMoney](https://yoomoney.ru/to/4100116864248269) или [Patreon](https://www.patreon.com/dmitryanoshin) или [Paypal](https://paypal.me/dmitryanoshin)
