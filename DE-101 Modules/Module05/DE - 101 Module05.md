@@ -97,7 +97,8 @@
 
 
 ### Лабораторная Работа
-[Создаем статичный веб-сайт на Amazon S3](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module05/DE%20-%20101%20Labs/AWS%20-%20Static%20web-site%20using%20S3/Static%20web-site%20using%20S3.md). Автор: Эдгар Лакшин. 
+- [Создаем статичный веб-сайт на Amazon S3](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module05/DE%20-%20101%20Labs/AWS%20-%20Static%20web-site%20using%20S3/Static%20web-site%20using%20S3.md). Автор: Эдгар Лакшин. 
+- [Создание и работа с Azure Blob Storage](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module05/DE%20-%20101%20Labs/Azure%20-%20Create%20and%20Manage%20Azure%20Blob%20Storage/Azure%20Blob%20Storage.MD). Автор Sergii Volodarskyi.  
 
 Дополнительно вам необходимо:
 - В своем AWS Account создать Billing Alert
@@ -139,8 +140,7 @@
 - Создайте KMS ключ в AWS и примените шифрование для данных в S3
 
 ### Лабораторная Работа
-[Создание и работа с Azure Blob Storage](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module05/DE%20-%20101%20Labs/Azure%20-%20Create%20and%20Manage%20Azure%20Blob%20Storage/Azure%20Blob%20Storage.MD)
-[Введение в Azure Active Directory](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module05/DE%20-%20101%20Labs/Azure%20-%20Introduction%20to%20Azure%20Active%20Directory/azure-ad-intro.md)
+[Введение в Azure Active Directory](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module05/DE%20-%20101%20Labs/Azure%20-%20Introduction%20to%20Azure%20Active%20Directory/azure-ad-intro.md). Автор Sergii Volodarskyi. 
 
 Вы также можете использовать похожие сервисы в Azure.
 
@@ -170,7 +170,7 @@
 - [Защита персональных данных в облаке: что нужно знать по 152-ФЗ](https://mcs.mail.ru/blog/zashchita-personalnyh-dannyh-v-oblake-kak-sdelat-vse-po-zakonu)  (Русский)
 
 ### Лабораторная Работа
-[Создаем лямбда функцию в AWS Console](https://github.com/Data-Learn/data-engineering/tree/master/DE-101%20Modules/Module05/DE%20-%20101%20Labs/AWS%20-%20Lambda%20Function%20Using%20the%20AWS%20Console)
+[Создаем лямбда функцию в AWS Console](https://github.com/Data-Learn/data-engineering/tree/master/DE-101%20Modules/Module05/DE%20-%20101%20Labs/AWS%20-%20Lambda%20Function%20Using%20the%20AWS%20Console). Автор Alexander Uryumtsev.
 
 ## Модуль 5.6 Архитектура облачных решений
 Прежде чем строить дом, нам нужно нарисовать архитектуру дома и сделать много других подготовительных работ. Тоже самое и в облаке и ИТ решениях. А если мы еще вспомним про принципы Амазон и их подход к созданию новых продуктов - Working Backwards, то самый первый шаг в создании решения мы начнем с потребностей клиента и бизнеса, напишем press releases, ответим на все возможные вопросы в FAQ и создадим visuals, включая диаграмму/архитектуру нашего будущего решения или продукта.
