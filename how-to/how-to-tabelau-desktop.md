@@ -9,7 +9,7 @@ Tableau Desktop - это настольный Business Intelligence инстру
 Операционная система: Windows, Mac
 Лицензия: есть trial на 14 дней. Чтобы получить бесплатную лицензию у нас есть два варианта:
 1. Подать заявку на студенческую лицензию [Tableau for Student](https://www.tableau.com/academic/students). Вам нужно просто отправить фотографию студенческого билета ;).
-2. На бесплатном курсе coursera [Data Visualization and Communication with Tableau](https://www.coursera.org/learn/analytics-tableau/) дают лицензию после прохождения 1ой недели.
+2. На бесплатном курсе coursera [Data Visualization and Communication with Tableau](https://www.coursera.org/learn/analytics-tableau/) давали :( лицензию после прохождения 1ой недели.
 
 ## Installation
 Скачать Tabelau Desktop [тут](https://www.tableau.com/products/desktop/download)
