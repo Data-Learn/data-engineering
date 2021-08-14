@@ -1,7 +1,7 @@
 # Пошаговая инструкция по созданию дашборда в Excel 
 
 Исходные данные [Sample - Superstore.xls](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1/Sample%20-%20Superstore.xls?raw=true)<br>
-Пример дашборда [Sample - Superstore - Dashboard.xlsx](https://github.com/Data-Learn/data-engineering/blob/master/DE-101/Module-01/Lab/Sample%20-%20Superstore%20-%20Dashboard.xlsx) (версия excel 2016+)
+Пример дашборда [Sample - Superstore - Dashboard.xlsx](https://github.com/Data-Learn/data-engineering/raw/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1/Sample%20-%20Superstore%20-%20Dashboard.xlsx) (версия excel 2016+)
 
 Если у вас есть какие-то предложения, дополнения или исправления, то прошу не стесняйтесь и присылайте свои правки. Давайте объединим усилия и сделаем реально крутой ресурс :)
 
