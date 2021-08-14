@@ -1,0 +1,19 @@
+.logon 192.168.1.70/dbc,dbc
+
+DATABASE Superstore_st;
+
+CREATE TABLE "Returns"
+(Order_ID varchar(20), Returned varchar(3))
+Primary Index (Order_id);
+
+
+.import vartext ',' file = 'returns.csv', SKIP=1
+.repeat*
+
+USING  (Order_ID varchar(20), Returned varchar(3))
+
+INSERT INTO "Returns" (Order_ID, Returned)
+VALUES( :Order_ID, :Returned);
+     
+.QUIT
+.LOGOFF
