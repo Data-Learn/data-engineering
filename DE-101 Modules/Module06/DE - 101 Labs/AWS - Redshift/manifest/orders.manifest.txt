@@ -1,0 +1,8 @@
+{
+  "entries": [
+    {"url":"s3://your bucket name/redshiftdata/orders.tbl.0000", "mandatory":true},
+    {"url":"s3://your bucket name/redshiftdata/orders.tbl.0001", "mandatory":true},
+    {"url":"s3://your bucket name/redshiftdata/orders.tbl.0002", "mandatory":true},
+    {"url":"s3://your bucket name/redshiftdata/orders.tbl.0003", "mandatory":true}
+  ]
+}
