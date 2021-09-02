@@ -198,7 +198,7 @@
 ## Копируем manifest файлы в S3
 Перед тем как мы продолжим, нужно проделать еще один шаг - скопировать manifest файлы в ваш bucket S3, откуда вы будете загружать данные в Redshift. [Что такое manifest файл](https://docs.aws.amazon.com/redshift/latest/dg/r_COPY_command_examples.html#copy-command-examples-manifest). 
 
-- скачайте [manifest файлы](.\manifest) на ваш домашний компьютер.
+- скачайте [manifest файлы](./manifest) на ваш домашний компьютер.
 - откройте каждый файл и отредакктируйте его, заменив **your bucket name** на название вашего S3 bucket, куда вы скопировали сгенерированные данные.
      
      ![](./img/28.png)
