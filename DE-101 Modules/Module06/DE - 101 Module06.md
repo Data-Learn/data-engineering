@@ -41,13 +41,13 @@
 - История Teradata
 - Основы MPP Teradata, Data Distribution, Data Skew и Teradata CLI
 
-**Видео лекция - теория** - [Введение](https://youtu.be/JuQCUGUWqgU). 
+**Видео лекция - теория** - [Что Такое Аналитическое Хранилище Данных?](https://youtu.be/JuQCUGUWqgU). 
 
 ### Дополнительные материалы для изучения
 - [Отчет по Gigaom DW Benchmarking](https://gigaom.com/report/data-warehouse-cloud-benchmark/)
 - [Отчет Fivetran по DW Benchmarking](https://fivetran.com/blog/warehouse-benchmark)
-- (Интерсный и большой курс по Data Warehouse на Coursera - Data Warehousing for Business Intelligence Specialization)[https://www.coursera.org/specializations/data-warehousing]
-- (Как получить на Coursera доступ к полному курсу и сертификату бесплатно)[https://medium.com/@snipsnapsnoop/%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-%D0%BD%D0%B0-coursera-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF-%D0%BA-%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D0%BC%D1%83-%D0%BA%D1%83%D1%80%D1%81%D1%83-%D0%B8-%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%83-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE-af9afb7b55e]
+- [Интерсный и большой курс по Data Warehouse на Coursera - Data Warehousing for Business Intelligence Specialization](https://www.coursera.org/specializations/data-warehousing)
+- [Как получить на Coursera доступ к полному курсу и сертификату бесплатно](https://medium.com/@snipsnapsnoop/%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-%D0%BD%D0%B0-coursera-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF-%D0%BA-%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D0%BC%D1%83-%D0%BA%D1%83%D1%80%D1%81%D1%83-%D0%B8-%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%83-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE-af9afb7b55e)
 
 Интересные статьи по теме (необязательно все читать, но можно ознакомиться, теперь вы точно будете знать ключевые слова по теме)
 - [Что такое Teradata?](https://habr.com/ru/post/209078/)
@@ -66,7 +66,7 @@
 ### Лабораторная работа
 На лабораторной работе вы будете использовать виртуальную мащину Teradata DW, вам нужно будет скачать ее и настроить доступ через конфигурацию сети. Дальше вы сможете загрузать данные через CLI инструмент и подключить Power BI. Таким образом у вас будет полноценное аналитическое решение (портативное), которое работает во многих компаниях.
 
-**Видео лекция - практика** - [Введение](https://youtu.be/JuQCUGUWqgU?t=2766). 
+**Видео лекция - практика** - [Что Такое Аналитическое Хранилище Данных? - практика](https://youtu.be/JuQCUGUWqgU?t=2766). 
 
 [Ссылка на лабораторную работу к модулю 6.2](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module06/DE%20-%20101%20Labs/Teradata/Teradata%20Lab.md)
 
