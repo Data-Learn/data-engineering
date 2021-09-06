@@ -95,6 +95,7 @@
 
 **Видео лекция - теория** - [Основы Amazon Redshift](https://youtu.be/K0TOh-Pl3q0). 
 
+В этом уроке я не показывал и не рассказывал про Amazon Redshift. По-сути это query engine (как Athena), который помогает нам писать SQL запросы к данные в S3 Data lake. То есть данные, которые находятся за пределами Amazon Redshift. Таким образом Amazon Redshift как бы lake house, но не такой удобный как Snowflake. Расскажу про него на модуле 8 или 9.
 
 ### Дополнительные материалы для изучения
 - [Amazon Redshift Paper](https://homepages.cwi.nl/~manegold/UvA-ABS-MBA-BDBA-ISfBD/p1917-gupta.pdf)
