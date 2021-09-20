@@ -129,18 +129,63 @@
  
 
 ## Модуль 6.4 Основы Azure Synapse для Хранилища данных
+У Microsoft тоже есть облако Azure, и в нем есть целая платформа для аналитики, которая называется Azure Synapse Analytics. В него входять уже устоявшиеся инструменты Azure SQL Data Warehouse (теперь называется Dedicated SQL Pool), Azure Data Factory, Azure ML, Power BI Service, так и были добавлены новые Azure Spark Pools, Serverless SQL Pool. Все достаточно удобно, каждый инструмент легко интегрируется с решениями Azure. Если вы работаете с решениями Microsoft, то облако Azure это следующий логический шаг вашего развития. Так же Azure Synapse способен заменить решения Azure HDInsights и Azure Databricks (решения для big data). По опыту я знаю и видел огромное количество решений на Microsoft SQL Server (on-premise), но вообще не знаю ниодного решния на Azure Synapse, но уверен скоро их появится много.
+
+**Видео лекция - теория** - [Знакомство с Azure Synapse](https://youtu.be/gQAGa3xZr_M)
+
+В этом видео мы:
+- Посмотрим на история Azure хранилища данных
+- Узнаем про стратегию создания продуктов Microsoft
+- Узнаем про переход от Azure SQL Data warehouse к Azure Synapse Analytics
+- Познакомимся с Azure Synapse Analytics: Deidcated SQL Pools, Spark Pools, Serverl SQL Pools
+- Azure Synapse Serverless Pools vs Amazon Redshift Spectrum
+- Посмотрим на пример архитектурты Azure Data Platfrom и узнаем какие инстурменты есть в Azure для аналитики
+- Детально посмотрим на особенности Azure Dedicated SQL Pools (бывшее Azure SQL DW), узнаем, что внутнри и как с ним работать и оптимизировать (distribution stiles, indexes, statistics)
+- Узнаем, что такое PolyBase или как загружать данные из Azure Hadoop
+- Узнаем про Azure Data Factory
+- Поговорим про бесполезность и полезность Azure Analyses Services
+- Поговорим про конкуренция Azure Databricks и Azure Synapse Spark pools
+
+**Видео лекция - практика** - [Демонстрация Azure Synapse Workspace и лабораторных работ с DW in a Day воркшопа](https://youtu.be/gQAGa3xZr_M?t=3082)
+
+На лабораторных работах я вам покажу:
+- Как создать Azure Synapse Workspace
+- Как в нем создать Serverless SQL Pools, Dedicated SQL Pool (Azure DW)
+- Посмотрим, что внутри Synapse Workspace
+- Покажу вам, как можно поиграться с данными NY taxi
+- Покажу, где взять открытые данные по COVID-19
 
 
 
 ### Дополнительные материалы для изучения
+- [Synapse Tutorials](https://docs.microsoft.com/en-us/azure/synapse-analytics/get-started)
+- [Azure Naming conventions](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming)
+- [Azure SQL DW paper - POLARIS: The Distributed SQL Engine in Azure Synapse](https://www.vldb.org/pvldb/vol13/p3204-saborit.pdf)
+- [Моя статья для Matillion ETL - Creating a Modern Data Platform with Azure Synapse Analytics and Matillion ETL](https://www.matillion.com/resources/blog/creating-a-modern-data-platform-with-azure-synapse-analytics-and-matillion-etl)
+- [Статья про Azure Synapse от Medium блоша Towards Data Science](https://towardsdatascience.com/tagged/azure-synapse-analytics)
+- [Azure Synapse for Data Analytics — Create Workspaces with CLI](https://medium.com/microsoftazure/azure-synapse-for-data-analytics-create-workspaces-with-cli-bd5ef90fd489)
+- [Introduction to Azure Synapse Analytics](https://medium.com/codex/introduction-to-azure-synapse-analytics-ff317e782f7b)
+- [Azure Analytics: ясность в мгновение ока](https://habr.com/ru/company/microsoft/blog/503582/)
 
+**Курсы от Курсеры и Microsoft, скорей всего вам дадут кредиты на облако Azure**
+- [Introduction to Microsoft Azure Synapse Analytics](https://www.coursera.org/learn/introduction-to-microsoft-azure-synapse-analytics)
+- [Data Warehousing with Microsoft Azure Synapse Analytics](https://www.coursera.org/learn/data-warehousing-with-microsoft-azure-synapse-analytics)
+- [Azure Synapse SQL Pool - Implement Polybase](https://www.coursera.org/projects/azure-sql-pool-polybase)
+- [Data Engineering with MS Azure Synapse Apache Spark Pools](https://www.coursera.org/learn/data-engineering-with-ms-azure-synapse-apache-spark-pools)
+- [Modern Data Warehouse Analytics in Microsoft Azure](https://www.coursera.org/learn/data-warehouse-analytics-microsoft-azure)
+- [Operational Analytics with Microsoft Azure Synapse Analytics](https://www.coursera.org/learn/operational-analytics-with-microsoft-azure-synapse-analytics)
+- [Process Data with Microsoft Azure Synapse Link for Cosmo DB](https://www.coursera.org/projects/process-data-with-microsoft-azure-synapse-link-for-cosmo-db)
 
 
 ### Лабораторная Работа
-
-
-### Лабораторная Работа
-
+В качестве домашнего задания вам нужно будет сделать одно из 3х заданий на выбор:
+1. Попробовать сделать лаборатные работы Rock Your Data, на которые вы на примере разберете особенности дизайна таблиц.
+	- [Лабораторные работы и файлы SQL из RYD labs](https://github.com/Rock-Your-Data/ryd-workshops/tree/master/Azure%20Cloud%20DW%20in%20a%20Day/Labs)
+	- [Лабораторная работа по Azure SQL DW в формате PDF] (https://github.com/Rock-Your-Data/ryd-workshops/blob/master/Azure%20Cloud%20DW%20in%20a%20Day/Labs/Cloud%20DW%20in%20a%20Day%20_%20Labs.pdf)
+2. Взять данные Superstore из модуля 1 и загрузить их в Azure Dedicated SQL pool (Azure DW) с использованием Azure Data Factory или Pentaho DI. Дальше по примеру модуля 4 вы можете создать таблицу фактов и таблицы измерения (схема звезда) и подключить BI инструмент - Power BI, Tableau или любой другой. Такое вот end-to-end решение.
+	- [Данне Superstore из модуля 1]( https://github.com/Data-Learn/data-engineering/tree/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1)
+	- [Модуль 4 про Fact и Dimensions таблицы](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module04/DE%20-%20101%20Module04.md#%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C-44-2-etl-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D1%8B-%D0%B8-%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BE-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D1%81-etl-%D0%BD%D0%B0-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%B5-pentaho-data-integration)
+3. Сделать [Azure Synapse Tutorials](https://docs.microsoft.com/en-us/azure/synapse-analytics/get-started)
 
 ## Модуль 6.5 Основы Snowflake
 
