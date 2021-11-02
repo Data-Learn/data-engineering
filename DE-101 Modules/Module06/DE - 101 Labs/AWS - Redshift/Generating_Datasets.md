@@ -16,8 +16,8 @@
 
 3. Клонируем репозиторий и переходим в склонированую директорию
     
-    ``git clone httpsgithub.comgregrahntpch-kit``br
-    ``cd tpch-kitdbgen``
+    ``git clone https://github.com/gregrahn/tpch-kit``
+    ``cd tpch-kit/dbgen``
 
 4. Забускаем билд библиотеки для операционой системы нашего инстанса
     
