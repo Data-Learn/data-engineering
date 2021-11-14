@@ -228,16 +228,49 @@ Snowflake одноверменно SMP и MPP, если вы смотрели д
 ### Лабораторная Работа
 
 В качестве лабораторной работы вы можете:
-- Выполнить оффициальные [tutorial Snowflake](https://www.snowflake.com/snowflake-essentials-training/)
+- Выполнить оффициальные [tutorial Snowflake](https://www.snowflake.com/snowflake-essentials-training/), но уже переведнный Сергеем для вас - [Snowflake Workshop](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module06/DE%20-%20101%20Labs/Snowflake/snowflake-lab.md)
 - Сделать близкий к реальному кейс с SalesForce, Fivetran, Snowflake, Tableau - [Zero To Snowflake](https://github.com/DecisiveData/ZeroToSnowflake)
-- Сделать упражнения модуля 4 datalearn DE-101 при помощи SQL и Pentaho DI и заодно понять почему ETL это плохо для Cloud DW;)
 - Зарегистрироваться и пройти бесплатные курсы [Snowflake Data Academy](https://www.snowflake.com/data-cloud-academy/)
 
 ## Модуль 6.6 Обзор современных ETL/ELT инструментов
+ETL(ELT) инструменты нам нужны, чтобы наполнять наше хранилище данных, ну или платформу данных. Для современных аналитических инструментов лучше использовать современные инструменты интеграции. Прежде чем выбирать инструмент, нужно понимать фундаментальные основы построения аналитического решения, его слои и компоненты, разницу между ETL и ELT, между Batch и Stream, между on-premise и cloud и многое другое. Задача инженера данных выбрать правильное решение для обработки и хранения данных.
+
+В этом видео:
+- Рассмотрим простой пример интернет-магазина и необходимости интеграции данных и аналитического решения
+- Что такое Data Pipeline?
+- ETL App или Coding? (Python, Scala и тп)
+- ETL on-premise и Cloud (AWS, Azure, GCP)
+- ETL разработчик или Data Engineer
+- Open Source or Not Open Source
+- Архитектура современного решения с использованием On-premise tools
+- Архитектура современного решения с использованием коммерческих продуктов
+- Обзор решений западного рынка
+- Пример ETL vs ELT с использованием Pentaho DI и Redshift
+- ETL Job = DAG (Direct Acyclic Graph)
+- Обзор решений: MatillionETL, Fivetran, Apache Airflow, Azure Data Factory, AWS Glue 
+
+**Видео лекция - теория** - [Основы Snowflake - The Elastic Data Warehouse](https://youtu.be/4PA6IPO4P1A)
+
+На лабораторной работе я покажу как запустить Matillion ETL, DBT cloud, Talend, Informatica, ETL Leap, Qlikview через Snowflake Partner Connect. Особенно детально я покажу как выглядит Matillion ETL и как вы можете выполнить задание 4го модуля по Superstore Star Schema (dimensional modelling) в Matillion ETL. 
+
+**Видео лекция - практика** - [Запуск ETL/ELT из Snowflake Partner Connect](https://youtu.be/4PA6IPO4P1A?t=2835)
+
 
 ### Дополнительные материалы для изучения
+- [Вебинар Data Learn - Введение в Apache Airflow](https://youtu.be/cVDIbEsCTow)
+- [Код для вебинара](https://github.com/dmitry-brazhenko/airflow_tutorial)
+- [Презентация вебинара](https://docs.google.com/presentation/d/1fpKEyoZul6hz2wR4idvHF1FGSoG078TMwwvm3f0yQeI/edit#slide=id.gf7633a37fa_0_20)
 
 ### Лабораторная Работа
+Для лабораторной работы вам нужно:
+	- Любое современное хранилище данных: Snowflake, Redshift, Synapse, BigQuery, Firebolt
+	- ETL/ELT инструмент
+	- BI
+
+1. Вам нужно загрузить данных из S3/Azure Storage/Google Storage в DW - Staging (вы можете использовать данные Superstore из модуля 4)
+2. Преобразовать данные из Staging в Fact таблицу(ы) и таблицы измерений
+3. Подключить BI инструмент (JDBC/ODBC драйвер)
+4. Нарисовать архитектуру решения в Draw.io
 
 ## Модуль 6.7 Анти SQL решения для операционной аналитики
 
