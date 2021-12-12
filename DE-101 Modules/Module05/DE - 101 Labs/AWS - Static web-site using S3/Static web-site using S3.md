@@ -5,7 +5,7 @@
 
 ## Решение
 Авторизуйтесь на сайте https://aws.amazon.com/free/.  
-Архитектура нашего рещения будет следующая:  
+Архитектура нашего решения будет следующая:  
 ![Architecture image](./images/S3staticsiteSchema.png)
 > Код нашего веб-сайта находится [здесь](./site/).
 ### Создаем S3 Bucket 
@@ -20,7 +20,7 @@ _Region_: **EU (Stockholm) eu-north-1**
 Значение _Region_ для данной лабораторной работы не так важно, поэтому можно оставить значение по умолчанию.  
 ![](./images/5.png)
 
-4. В настрйоках _Bucket settings for Block Public Access_ снимаем галочку _Block all public access_.
+4. В настройках _Bucket settings for Block Public Access_ снимаем галочку _Block all public access_.
 Необходимо убедиться, что также сняты галочки со всех 4-х ограничений разрешений под ним.
 
 5. Убеждаемся, что стоит галочка в _Turning off all public access might result in the bucket and its objects becoming public_.

@@ -7,8 +7,8 @@
 Авторизуйтесь на сайте https://aws.amazon.com/free/. 
 Откройте код в соседней вкладке. Он нам понадобиться для выполнения задания. https://github.com/linuxacademy/content-aws-ccp-labs/blob/master/creating-a-lambda-function-using-the-aws-console/index.js
 
-### Создаем Node.js ламбда функцию в AWS Console
-1. В AWS console выбирите Lambda > Functions
+### Создаем Node.js лямбда функцию в AWS Console
+1. В AWS console выберите Lambda > Functions
 
 ![ServiceSelect](./img/ServiceSelect.jpg)
 
@@ -16,17 +16,17 @@
 
 ![CreateFunction](./img/CreateFunction.jpg)
 
-3. Выбирите `Author from scratch`
+3. Выберите `Author from scratch`
 
 ![AuthorFromScratch](./img/AuthorFromScratch.jpg)
 
-4. Устоновите следующие значения:
+4. Установите следующие значения:
     - _Function name_: **holURLChecker**
     - _Runtime_: **Node.js**
 
 ![FunctionName](./img/FunctionName.jpg)
 
-5. Расширьте **Change default execution role**. Затем для _Execution role_ выбирите **Create a new role with basic Lambda permissions**
+5. Расширьте **Change default execution role**. Затем для _Execution role_ выберите **Create a new role with basic Lambda permissions**
 
 ![ChangeDefaultExecutionRole](./img/ChangeDefaultExecutionRole.jpg)
 
@@ -34,7 +34,7 @@
 
 ![CodeSnippet](./img/CodeSnippet.jpg)
 
-7. Вернитесь на вкоадку AWS console и нажмите на кнопку **Create function**.
+7. Вернитесь на вкладку AWS console и нажмите на кнопку **Create function**.
 
 8. На открывшейся странице Lambda функции удалите существующий код в функции и вставьте только что скопированный код из index.js.
 
@@ -53,7 +53,7 @@
 
 ![CreateTest](./img/CreateTest.jpg)
 
-3. Теперь сново нажмите на кнопку **Test**. Посмотрите на ответ. 
+3. Теперь снова нажмите на кнопку **Test**. Посмотрите на ответ. 
     - В ответе должно быть <span style="color:red" style="font-weight: bold">*200*</span>. Это значит, что сайт работает.
 
 ![resultTest](./img/resultTest.jpg)
