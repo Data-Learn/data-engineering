@@ -274,15 +274,41 @@ ETL(ELT) инструменты нам нужны, чтобы наполнять
 
 ## Модуль 6.7 Анти SQL решения для операционной аналитики
 
+В этом уроке мы узнаем про термин Операционная Аналитика, и чем он отличается от традиционной аналитики. Заодно мы посмотрим на три самых популярных решения на рынке – Splunk, Azure Data Explorer и Kusto. Если кратко, то такие системы и решения не являются главными для Инженера Данных или BI инженера. Для BI инженера операционная аналитика – это про еще один источник данных, с которым придется работать. А для инженера данных, решения операционной аналитики могут был полезны по многим причинам, мы можем собирать машинные данные (логи) о работе наших data pipelines, ETL, Big Data и тп, мы можем забирать данные из решений операционной аналитики и загружать в хранилище данных или озеро. А иногда, нас просят создать NoSQL решение данных на основе Elastic Stack. (меня не просили никогда, но вдруг!)
+
+В этом видео вы узнаете:
+
+- Что такое операционная аналитика и ее роль в решениях BI/DW/BigData
+- Основы и историю Splunk
+- Про Azure Data Explorer и Kusto
+- Про Elastic Stack
+- Основные кейсы использования операционной аналитики и примеры из опыта
+**Видео лекция - теория** - [Анти SQL решения для операционной аналитики](https://youtu.be/uDwgJGYI8Mw)
+
+На лабораторной работе я покажу как Splunk и Azure Data Explorer.
+
+**Видео лекция - практика** - [Анти SQL решения для операционной аналитики - демо](https://youtu.be/uDwgJGYI8Mw?t=2349)
+
 
 ### Дополнительные материалы для изучения
+
+- [Вебинар Data Learn про Azure Data Explorer](https://youtu.be/CAdkL9vM6Do)
+- [Elastic Search Tutorial]( https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html)
+- [Splunk Tutorial]( https://docs.splunk.com/Documentation/Splunk/8.2.3/SearchTutorial/WelcometotheSearchTutorial)
+- [Splunk уходит из России (совсем)](https://habr.com/ru/post/441004/)
+- [Год без Splunk — как американская компания изменила рынок аналитики машинных данных в РФ и кого оставила после себя](https://habr.com/ru/post/484904/)
+- [Splunk — общее описание платформы, базовые особенности установки и архитектуры]( https://habr.com/ru/company/tssolution/blog/323814/)
+- [Quickstart: Create an Azure Data Explorer cluster and database](https://docs.microsoft.com/en-us/azure/data-explorer/create-cluster-database-portal)
+- [1.Elastic stack: анализ security логов. Введение]( https://habr.com/ru/company/tssolution/blog/480570/)
+- [2. Elastic stack: анализ security логов. Logstash]( https://habr.com/ru/company/tssolution/blog/481960/)
+- [3. Elastic stack: анализ security логов. Дашборды]( https://habr.com/ru/company/tssolution/blog/482054/)
+
+### Лабораторная Работа
+
+На лабораторной работе вам нужно установить одно из 3х решений, загрузить данные и визуализировать результат. Можно использовать tutorial.
 
 
 ## Модуль 6.8 Обзор профессий и требований
-
-
-### Дополнительные материалы для изучения
-
 
 
 По окончанию модуля 6, вы можете расшарить значок `06 | Cloud DW` в социальных сетях и рассказать о своих достижениях. 
