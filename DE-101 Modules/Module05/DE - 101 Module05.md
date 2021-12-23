@@ -241,6 +241,10 @@
 - [GCP Analytics Services](https://medium.com/@srivatsan88/data-and-analytics-on-google-cloud-platform-13bc92a4596f)
 - [Разбор сервисов Google Cloud для построения аналитических решений / Денис Соловьев](https://youtu.be/2Z325XKRpfw)
 
+### Вебинар от эксперта
+- [ПЛАТФОРМА ДАННЫХ YANDEX.CLOUD ДЛЯ ЗАДАЧ АНАЛИТИКИ: ТЕХНОЛОГИИ, КЕЙСЫ И УНИКАЛЬНЫЕ ВОЗМОЖНОСТИ](https://youtu.be/_PhGm2PrQmY)
+
+
 ### Практика
 Если вам интересно, то можете выполнить любую лабу по аналитике в облаке AWS или все сразу:
 - [Create business intelligence dashboards with Amazon QuickSight](https://aws.amazon.com/getting-started/hands-on/create-business-intelligence-dashboards-using-amazon-quicksight/)
@@ -299,6 +303,11 @@ Python является самым популярным языком прогр�
 
 ### Дополнительные материалы для изучения
 - [Think Python PDF](https://greenteapress.com/thinkpython/thinkpython.pdf)
+
+### Вебинар от эксперта
+- [PYTHON ДЛЯ РАБОТЫ С ДАННЫМИ / ДМИТРИЙ БЕЛЯЕВ](https://youtu.be/gDd4WFiXjj0)
+- [ОБУЧЕНИЕ ПО ПИТОНУ (PYTHON) ЗАНЯТИЕ 1 / ДМИТРИЙ БЕЛЯЕВ](https://youtu.be/TpnJWYgNMWE)
+- [PYTHON ЗАНЯТИЕ 2 / ДМИТРИЙ БЕЛЯЕВ / DATALEARN](https://youtu.be/9h6vDs1M5M8)
 
 Вы рассмотрите основной функционал Python с помощью облачной `AWS IDE Cloud9` и с использованием сервиса `Amazon Translate`.
 
