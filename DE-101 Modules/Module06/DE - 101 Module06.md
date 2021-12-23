@@ -43,6 +43,10 @@
 
 **Видео лекция - теория** - [Что Такое Аналитическое Хранилище Данных?](https://youtu.be/JuQCUGUWqgU). 
 
+
+### Вебинар от эксперта
+- [GREENPLUM ЧТО ЗА ЗВЕРЬ И КАК ЕГО ПРИРУЧИТЬ / ДМИТРИЙ ПАВЛОВ](https://youtu.be/cVDIbEsCTow)
+
 ### Дополнительные материалы для изучения
 - [Отчет по Gigaom DW Benchmarking](https://gigaom.com/report/data-warehouse-cloud-benchmark/)
 - [Отчет Fivetran по DW Benchmarking](https://fivetran.com/blog/warehouse-benchmark)
@@ -96,6 +100,9 @@
 **Видео лекция - теория** - [Основы Amazon Redshift](https://youtu.be/K0TOh-Pl3q0). 
 
 В этом уроке я не показывал и не рассказывал про Amazon Redshift. По-сути это query engine (как Athena), который помогает нам писать SQL запросы к данные в S3 Data lake. То есть данные, которые находятся за пределами Amazon Redshift. Таким образом Amazon Redshift как бы lake house, но не такой удобный как Snowflake. Расскажу про него на модуле 8 или 9.
+
+### Вебинар от эксперта
+- [Путь Инженера Аналитики: Решение для Маркетинга / Артемий Козырь](https://youtu.be/SoOcvYPSm7o)
 
 ### Дополнительные материалы для изучения
 - [Amazon Redshift Paper](https://homepages.cwi.nl/~manegold/UvA-ABS-MBA-BDBA-ISfBD/p1917-gupta.pdf)
@@ -215,6 +222,10 @@ Snowflake одноверменно SMP и MPP, если вы смотрели д
 
 **Видео лекция - практика** - [Демонстрация Snowflake](https://youtu.be/CzrOa15QbWk?t=2768)
 
+### Вебинар от эксперта
+- [SNOWFLAKE ИЛИ КАК БД ВЫБИРАЛИ / НИКОЛАЙ ГОЛОВ / MANYCHAT](https://youtu.be/XJa3gGWidg0)
+- [DataVault / Anchor Modeling / Николай Голов](https://youtu.be/-ZgzpQXsxi0)
+- [ЧАСТЬ 2 DataVault Anchor Modeling / Николай Голов](https://youtu.be/IZw1cB1uDts)
 
 ## Дополнительные материалы для изучения
 
@@ -261,6 +272,11 @@ ETL(ELT) инструменты нам нужны, чтобы наполнять
 - [Код для вебинара](https://github.com/dmitry-brazhenko/airflow_tutorial)
 - [Презентация вебинара](https://docs.google.com/presentation/d/1fpKEyoZul6hz2wR4idvHF1FGSoG078TMwwvm3f0yQeI/edit#slide=id.gf7633a37fa_0_20)
 
+### Вебинар от эксперта
+- [ВВЕДЕНИЕ В AIRFLOW / ПОНЯТИЕ DAG'а / НАСТРОЙКА DAG'а В AIRFLOW](https://youtu.be/cVDIbEsCTow)
+- [ВВЕДЕНИЕ В ДОКЕР КОНТЕЙНЕР / DOCKER / ДМИТРИЙ БРАЖЕНКО](https://youtu.be/JQCTjz_PzSM)
+
+
 ### Лабораторная Работа
 Для лабораторной работы вам нужно:
 	- Любое современное хранилище данных: Snowflake, Redshift, Synapse, BigQuery, Firebolt
@@ -289,6 +305,8 @@ ETL(ELT) инструменты нам нужны, чтобы наполнять
 
 **Видео лекция - практика** - [Анти SQL решения для операционной аналитики - демо](https://youtu.be/uDwgJGYI8Mw?t=2349)
 
+### Вебинар от эксперта
+- [ADX(KUSTO): INTERACTIVE BIG DATA ANALYTICS / GOR HAYRAPETYAN](https://youtu.be/CAdkL9vM6Do)
 
 ### Дополнительные материалы для изучения
 
@@ -310,15 +328,20 @@ ETL(ELT) инструменты нам нужны, чтобы наполнять
 
 ## Модуль 6.8 Обзор профессий и требований
 
+В заключительном уроке нашего модуля про аналитические хранилища данных мы посмотрим на пример описаний вакансий инженера данных на hh.ru, linkedin, indeed.com/worldwide. Так же покажу, как я сканирую вакансии и понимаю сходу насколько хорошая или плохая вакансия по описанию. Все верно - "встречают по одежке!"
+
+**Видео лекция - теория** - [Обзор профессий и требований](https://youtu.be/xXpoegKJUYU)
+
+
 
 По окончанию модуля 6, вы можете расшарить значок `06 | Cloud DW` в социальных сетях и рассказать о своих достижениях. 
 
-![img]()
+![img](https://github.com/Data-Learn/data-engineering/blob/master/img/de101-module06.png)
 
 А также добавить в Linkedin сертификат:
 
-![img]()
-Все доступные сертификаты можете посмотреть в этом [linkedin профайле](https://www.linkedin.com/in/lana-naumova-8a1b78171/).
+![img](https://github.com/Data-Learn/data-engineering/blob/master/img/linkedin06cloud.PNG.jpg)
+Другие доступные сертификаты можете посмотреть в этом [linkedin профайле](https://www.linkedin.com/in/lana-naumova-8a1b78171/).
 
 
 PS Если материал оказался полезным, вы можете поддержать авторов через 
