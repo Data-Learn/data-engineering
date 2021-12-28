@@ -147,6 +147,12 @@
 3. [Airbnb’s Airflow Versus Spotify’s Luigi](https://medium.com/better-programming/airbnbs-airflow-versus-spotify-s-luigi-bd4c7c2c0791) (English)
 4. [Data pipelines, Luigi, Airflow: everything you need to know](https://towardsdatascience.com/data-pipelines-luigi-airflow-everything-you-need-to-know-18dc741449b7) (English)
 
+### Вебинары с экспертами
+- [ВВЕДЕНИ В DBT / СОЗДАНИЕ МОДЕЛЕЙ ПРИ ПОМОЩИ DBT / УПРАВЛЕНИЕ ТРАНСФОРМАЦИЕЙ ДАННЫХ / РИШАТ МИНГАЗОВ](https://youtu.be/btaH7P0U_2g)
+- [ЧАСТЬ 1 - ВВЕДЕНИЕ В AIRFLOW / ПОНЯТИЕ DAG'а / НАСТРОЙКА DAG'а В AIRFLOW](https://youtu.be/cVDIbEsCTow)
+- [ЧАСТЬ 2 - ВВЕДЕНИЕ В ДОКЕР КОНТЕЙНЕР / DOCKER / ДМИТРИЙ БРАЖЕНКО](https://youtu.be/JQCTjz_PzSM)
+
+
 ### Практика
 Вы можете выполнить один или несколько tutorial(s), чтобы попробовать `fancy etl` в деле. Это будет прекрасный пример вашего интереса к данному вопросу, который вы можете продемонстрировать на собеседовании и рассказать, как вы любите пробовать новые инструменты и изучать их особенности:
 1. [Apache Airflow tutorial](https://airflow.apache.org/docs/apache-airflow/stable/tutorial.html) и [Airflow tutorial 1: Introduction to Apache Airflow](https://youtu.be/AHMm1wfGuHE)
