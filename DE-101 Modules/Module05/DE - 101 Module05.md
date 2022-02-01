@@ -39,7 +39,7 @@
 
 ### Дополнительные материалы для изучения
 - [What is AWS?](https://youtu.be/a9__D53WsUs) (Video English)
-- [AWS vs Azure vs GCP ](https://www.youtube.com/watch?v=kd33UVZhnAA) (Video English)
+- [AWS vs Azure vs GCP](https://youtu.be/EgWUVWZR6o4) (Video English)
 - [Inside a Google data center](https://www.youtube.com/watch?v=kd33UVZhnAA) (Video English)
 - [Stephen Fry explains cloud computing](https://youtu.be/J9LK6EtxzgM) (Video English)
 - [NIST Definition of the Cloud Computing](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf ) (English)
