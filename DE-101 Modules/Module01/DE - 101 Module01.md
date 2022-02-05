@@ -178,6 +178,8 @@ MindMap - интеллектуальная карта, инструмент ви
 
 Задание по лабораторной работе - [Домашнее задание для модуля 1](https://github.com/Data-Learn/data-engineering/tree/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1).
 
+Если **вы не знаете как оформлять задание**, то вот [видео как сохранять домашнее задание в гит](https://youtu.be/USDNzpTMNSs) и создать GitHub аккаунт. **Это очень важный навык!**
+
 # Опрос Модуль 1
 Пожалуйста пройдите [опрос по завершению Модуля 1](https://forms.gle/PBHpWA2g2cNpEXax9). Так я смогу посмотреть, сколько человек закончило модуль, что было хорошо, а что можно улучшить.
 
@@ -186,4 +188,5 @@ MindMap - интеллектуальная карта, инструмент ви
 ![img](https://github.com/Data-Learn/data-engineering/blob/master/img/de101-module01.png)
 
 **PS Если материал оказался полезным, вы можете поддержать авторов через**
+Условная цена одного модуля 500р ;)
 [ЮMoney](https://yoomoney.ru/to/4100116864248269) или [Patreon](https://www.patreon.com/dmitryanoshin) или [Paypal](https://paypal.me/dmitryanoshin)
