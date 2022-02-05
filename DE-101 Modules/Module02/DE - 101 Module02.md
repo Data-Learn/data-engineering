@@ -164,4 +164,6 @@
 ![img](https://github.com/Data-Learn/data-engineering/blob/master/img/de101-module02.png)
 
 **PS Если материал оказался полезным, вы можете поддержать авторов через**
+Условная цена одного модуля 500р ;)
+
 [ЮMoney](https://yoomoney.ru/to/4100116864248269) или [Patreon](https://www.patreon.com/dmitryanoshin) или [Paypal](https://paypal.me/dmitryanoshin)
