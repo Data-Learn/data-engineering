@@ -10,13 +10,13 @@
     
     ``ssh -i datalearn.pem ec2-user@ec2-3-19-26-141.us-east-1.compute.amazonaws.com``
 
-2. Мы будем пользоваться библиотекой для генерации данных [TPC-H benchmark kit](httpsgithub.comgregrahntpch-kit). Сначала нам необходимо предустановить необходимие библиотеки для установки генератора.
+2. Мы будем пользоваться библиотекой для генерации данных [TPC-H benchmark kit](https://github.com/gregrahn/tpch-kit). Сначала нам необходимо предустановить необходимие библиотеки для установки генератора.
     
     ``sudo yum install make git gcc``
 
 3. Клонируем репозиторий и переходим в склонированую директорию
     
-    ``git clone httpsgithub.comgregrahntpch-kit``br
+    ``git clone https://github.com/gregrahn/tpch-kit``br
     ``cd tpch-kitdbgen``
 
 4. Забускаем билд библиотеки для операционой системы нашего инстанса
