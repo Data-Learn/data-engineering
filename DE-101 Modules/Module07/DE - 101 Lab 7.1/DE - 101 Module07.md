@@ -44,6 +44,14 @@ Apache Spark является самый популярным инструмен
 - [Spark local mode: обработка больших файлов на обычном ноутбуке](https://habr.com/ru/post/274705/)
 - [Apache Spark Key Terms, Explained](https://databricks.com/blog/2016/06/22/apache-spark-key-terms-explained.html)
 - [Spark 101: What Is It, What It Does, and Why It Matters](https://developer.hpe.com/blog/spark-101-what-is-it-what-it-does-and-why-it-matters/)
+- [PySpark on Google Colab 101](https://towardsdatascience.com/pyspark-on-google-colab-101-d31830b238be)
+
+### Papers 
+- [The Google File System](http://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
+- [MapReduce: Simplified Data Processing on Large Clusters](http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
+- [Bigtable: A Distributed Storage System for Structured Data](http://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
+- [The Hadoop Distributed File System](https://storageconference.us/2010/Papers/MSST/Shvachko.pdf)
+- [Spark: Cluster Computing with Working Sets](https://www.usenix.org/legacy/event/hotcloud10/tech/full_papers/Zaharia.pdf)
 
 ### Лабораторная Работа
 Для лабораторной работы вам нужно:
