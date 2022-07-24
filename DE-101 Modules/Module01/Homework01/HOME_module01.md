@@ -3,3 +3,5 @@
 I used draw.io to make this simple scheme.
 
 ![scheme](https://github.com/halltape/data-engineering/blob/develop/DE-101%20Modules/Module01/Homework01/jpg/SchemeArch.jpg)
+
+## Excel Analytics
