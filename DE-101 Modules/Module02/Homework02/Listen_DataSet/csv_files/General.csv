@@ -1,0 +1,737 @@
+general_id,age,streaming_id,hours_per_day,while_working,instrumentalist,composer,exploratory,foreign_languages,bpm,genre_id,freq_classical,freq_country,freq_edm,freq_folk,freq_gospel,freq_hiphop,freq_jazz,freq_kpop,freq_latin,freq_lofi,freq_metal,freq_pop,freq_rnB,freq_rap,freq_rock,freq_video_game_music,anxiety,depression,insomnia,OCD,music_effect
+1,18,3,3.00,Yes,Yes,Yes,Yes,Yes,156,1,Rarely,Never,Rarely,Never,Never,Sometimes,Never,Very frequently,Very frequently,Rarely,Never,Very frequently,Sometimes,Very frequently,Never,Sometimes,3,0,1,0,No effect
+2,63,2,1.50,Yes,No,No,Yes,No,119,2,Sometimes,Never,Never,Rarely,Sometimes,Rarely,Very frequently,Rarely,Sometimes,Rarely,Never,Sometimes,Sometimes,Rarely,Very frequently,Rarely,7,2,2,1,No effect
+3,18,3,4.00,No,No,No,No,Yes,132,3,Never,Never,Very frequently,Never,Never,Rarely,Rarely,Very frequently,Never,Sometimes,Sometimes,Rarely,Never,Rarely,Rarely,Very frequently,7,7,10,2,No effect
+4,61,4,2.50,Yes,No,Yes,Yes,Yes,84,4,Sometimes,Never,Never,Rarely,Sometimes,Never,Very frequently,Sometimes,Very frequently,Sometimes,Never,Sometimes,Sometimes,Never,Never,Never,9,7,3,3,Improve
+5,18,3,4.00,Yes,No,No,Yes,No,107,5,Never,Never,Rarely,Never,Rarely,Very frequently,Never,Very frequently,Sometimes,Sometimes,Never,Sometimes,Very frequently,Very frequently,Never,Rarely,7,2,5,9,Improve
+6,18,3,5.00,Yes,Yes,Yes,Yes,Yes,86,4,Rarely,Sometimes,Never,Never,Never,Sometimes,Very frequently,Very frequently,Rarely,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,Very frequently,Never,8,8,7,7,Improve
+7,18,4,3.00,Yes,Yes,No,Yes,Yes,66,3,Sometimes,Never,Rarely,Sometimes,Rarely,Rarely,Sometimes,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Never,Sometimes,4,8,6,0,Improve
+8,21,3,1.00,Yes,No,No,Yes,Yes,95,6,Never,Never,Rarely,Never,Never,Very frequently,Rarely,Very frequently,Never,Sometimes,Never,Sometimes,Sometimes,Rarely,Never,Rarely,5,3,5,3,Improve
+9,19,3,6.00,Yes,No,No,No,No,94,2,Never,Very frequently,Never,Sometimes,Never,Never,Never,Never,Never,Never,Very frequently,Never,Never,Never,Very frequently,Never,2,0,0,0,Improve
+10,18,6,1.00,Yes,No,No,Yes,Yes,155,5,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Rarely,Never,Rarely,Rarely,Never,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,2,2,5,1,Improve
+11,18,3,3.00,Yes,Yes,No,Yes,No,,7,Never,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Never,Rarely,Never,7,7,4,7,No effect
+12,19,4,8.00,Yes,No,No,Yes,No,125,8,Rarely,Never,Very frequently,Never,Never,Sometimes,Rarely,Rarely,Rarely,Rarely,Never,Rarely,Rarely,Sometimes,Rarely,Rarely,1,0,0,1,Improve
+13,,3,3.00,Yes,No,No,Yes,Yes,,9,Rarely,Never,Rarely,Never,Never,Very frequently,Never,Sometimes,Never,Very frequently,Never,Sometimes,Sometimes,Rarely,Rarely,Never,9,3,2,7,Improve
+14,19,3,2.00,Yes,No,No,Yes,No,88,7,Never,Very frequently,Rarely,Sometimes,Never,Sometimes,Never,Never,Never,Rarely,Never,Rarely,Never,Very frequently,Never,Never,2,1,2,0,Improve
+15,18,3,4.00,Yes,Yes,No,Yes,Yes,148,4,Very frequently,Rarely,Never,Never,Never,Never,Very frequently,Never,Sometimes,Rarely,Sometimes,Sometimes,Never,Never,Sometimes,Rarely,6,4,7,0,Improve
+16,17,3,2.00,No,No,No,Yes,Yes,,10,Rarely,Rarely,Never,Never,Never,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Very frequently,Rarely,Sometimes,Sometimes,Rarely,7,5,4,1,Worsen
+17,16,3,8.00,Yes,No,No,Yes,Yes,103,9,Never,Never,Never,Never,Never,Very frequently,Never,Never,Never,Never,Never,Never,Sometimes,Very frequently,Never,Rarely,8,8,4,3,Improve
+18,16,3,12.00,Yes,No,Yes,Yes,Yes,120,9,Rarely,Never,Sometimes,Rarely,Never,Very frequently,Rarely,Never,Never,Never,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Never,5,7,10,0,Improve
+19,17,3,24.00,Yes,No,No,Yes,No,99,11,Rarely,Never,Never,Never,Never,Sometimes,Sometimes,Sometimes,Rarely,Never,Sometimes,Rarely,Sometimes,Very frequently,Very frequently,Never,7,5,0,3,Improve
+20,15,3,3.00,No,No,No,No,No,120,9,Never,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Never,Rarely,Rarely,Sometimes,Very frequently,Rarely,Never,7,3,0,2,Improve
+21,15,1,8.00,Yes,No,No,Yes,Yes,120,9,Rarely,Never,Sometimes,Rarely,Never,Very frequently,Sometimes,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Rarely,Very frequently,Sometimes,Sometimes,6,9,3,0,Improve
+22,17,3,4.00,Yes,No,No,Yes,No,125,11,Never,Rarely,Rarely,Never,Never,Sometimes,Never,Never,Never,Rarely,Rarely,Sometimes,Never,Very frequently,Sometimes,Never,10,10,2,4,Improve
+23,19,6,5.00,Yes,No,No,Yes,Yes,118,5,Rarely,Rarely,Sometimes,Very frequently,Rarely,Very frequently,Sometimes,Never,Never,Rarely,Rarely,Rarely,Very frequently,Very frequently,Sometimes,Rarely,6,7,5,4,Improve
+24,18,3,2.00,Yes,No,No,No,Yes,79,10,Rarely,Rarely,Sometimes,Never,Never,Rarely,Never,Rarely,Sometimes,Never,Never,Very frequently,Never,Never,Never,Rarely,3,3,8,6,No effect
+25,16,6,3.00,Yes,Yes,Yes,Yes,Yes,84,2,Rarely,Rarely,Never,Rarely,Sometimes,Sometimes,Sometimes,Never,Rarely,Never,Sometimes,Never,Sometimes,Rarely,Very frequently,Sometimes,10,6,8,10,Improve
+26,18,3,2.00,No,No,No,Yes,Yes,169,10,Sometimes,Rarely,Rarely,Very frequently,Rarely,Rarely,Rarely,Very frequently,Never,Sometimes,Never,Very frequently,Sometimes,Sometimes,Sometimes,Never,7,4,2,5,Improve
+27,14,3,12.00,Yes,Yes,Yes,Yes,Yes,136,2,Sometimes,Sometimes,Rarely,Rarely,Rarely,Very frequently,Sometimes,Never,Never,Very frequently,Never,Very frequently,Very frequently,Very frequently,Very frequently,Sometimes,8,6,10,5,Improve
+28,18,4,6.00,Yes,Yes,Yes,No,Yes,101,10,Sometimes,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Never,Never,Never,Never,Very frequently,Sometimes,Sometimes,Never,Never,3,2,1,2,Improve
+29,19,3,3.00,Yes,No,No,Yes,No,118,4,Rarely,Never,Rarely,Never,Never,Very frequently,Very frequently,Rarely,Sometimes,Very frequently,Never,Sometimes,Sometimes,Sometimes,Rarely,Very frequently,3,0,0,0,Improve
+30,17,3,2.00,Yes,Yes,No,Yes,Yes,126,10,Never,Very frequently,Rarely,Rarely,Never,Never,Rarely,Sometimes,Very frequently,Rarely,Rarely,Very frequently,Rarely,Never,Sometimes,Sometimes,6,6,4,5,Improve
+31,22,3,2.00,Yes,No,No,Yes,Yes,126,6,Never,Never,Very frequently,Never,Never,Sometimes,Never,Very frequently,Never,Never,Never,Sometimes,Never,Sometimes,Very frequently,Rarely,7,8,5,1,No effect
+32,16,3,2.50,Yes,Yes,Yes,Yes,Yes,103,2,Rarely,Sometimes,Never,Very frequently,Never,Rarely,Sometimes,Never,Sometimes,Sometimes,Rarely,Very frequently,Rarely,Never,Very frequently,Rarely,2,1,0,0,Improve
+33,17,1,1.00,Yes,No,No,Yes,No,183,10,Rarely,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,Never,Sometimes,Sometimes,Never,Never,Sometimes,Never,8,2,1,5,Improve
+34,19,3,3.00,Yes,No,No,Yes,Yes,77,5,Rarely,Never,Sometimes,Never,Never,Very frequently,Rarely,Very frequently,Rarely,Rarely,Rarely,Very frequently,Very frequently,Very frequently,Rarely,Very frequently,5,4,0,1,Improve
+35,37,3,1.00,Yes,No,No,No,No,115,2,Rarely,Rarely,Rarely,Rarely,Never,Rarely,Rarely,Rarely,Never,Rarely,Rarely,Sometimes,Rarely,Rarely,Very frequently,Never,9,10,6,10,No effect
+36,20,1,5.00,Yes,Yes,No,Yes,Yes,,2,Never,Rarely,Rarely,Very frequently,Never,Very frequently,Sometimes,Never,Sometimes,Sometimes,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,7,7,2,0,Improve
+37,14,3,7.00,Yes,Yes,No,No,No,110,4,Rarely,Never,Very frequently,Never,Never,Never,Very frequently,Never,Sometimes,Never,Never,Sometimes,Never,Never,Very frequently,Very frequently,2,0,0,0,Improve
+38,33,6,1.00,No,No,No,No,Yes,,12,Rarely,Sometimes,Sometimes,Never,Never,Sometimes,Never,Never,Rarely,Never,Very frequently,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,5,2,5,1,Improve
+39,19,3,2.00,Yes,No,No,No,No,120,13,Very frequently,Never,Never,Never,Never,Rarely,Rarely,Never,Never,Sometimes,Never,Very frequently,Never,Never,Never,Very frequently,4,4,4,3,No effect
+40,26,3,1.00,No,No,No,No,No,113,5,Rarely,Sometimes,Never,Sometimes,Never,Very frequently,Very frequently,Never,Never,Never,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Never,3,2,0,0,No effect
+41,32,3,3.00,Yes,No,No,No,No,157,9,Never,Never,Rarely,Never,Never,Very frequently,Never,Never,Sometimes,Rarely,Never,Sometimes,Very frequently,Very frequently,Rarely,Never,2,0,7,0,No effect
+42,19,3,6.00,Yes,Yes,No,Yes,Yes,,12,Never,Never,Never,Rarely,Never,Rarely,Sometimes,Rarely,Never,Sometimes,Very frequently,Sometimes,Never,Never,Sometimes,Sometimes,9,8,2,3,Improve
+43,30,3,5.00,Yes,Yes,No,Yes,No,160,12,Sometimes,Rarely,Never,Sometimes,Never,Rarely,Never,Never,Never,Never,Very frequently,Sometimes,Never,Never,Very frequently,Never,7,6,6,2,No effect
+44,43,6,6.00,Yes,Yes,Yes,Yes,Yes,109,3,Sometimes,Rarely,Very frequently,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Very frequently,Rarely,Sometimes,Rarely,Never,Sometimes,Very frequently,5,4,8,3,No effect
+45,17,3,4.00,No,No,No,Yes,Yes,142,2,Rarely,Rarely,Rarely,Very frequently,Never,Sometimes,Rarely,Rarely,Never,Rarely,Rarely,Very frequently,Rarely,Sometimes,Very frequently,Rarely,5,6,6,1,Improve
+46,24,3,4.00,Yes,No,No,Yes,Yes,175,13,Very frequently,Rarely,Rarely,Never,Never,Rarely,Rarely,Never,Never,Never,Sometimes,Very frequently,Rarely,Never,Very frequently,Rarely,4,6,5,3,Improve
+47,36,4,1.00,Yes,No,No,Yes,No,110,2,Sometimes,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Sometimes,Rarely,Rarely,Very frequently,Never,6,2,3,1,Improve
+48,16,3,1.00,Yes,No,No,No,No,75,13,Very frequently,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Rarely,0,0,0,0,No effect
+49,19,4,4.00,Yes,No,No,Yes,No,162,3,Rarely,Never,Rarely,Never,Never,Rarely,Sometimes,Never,Never,Sometimes,Never,Sometimes,Never,Never,Rarely,Very frequently,8,2,1,6,Improve
+50,22,3,10.00,Yes,No,No,Yes,Yes,189,12,Rarely,Very frequently,Never,Very frequently,Never,Never,Rarely,Never,Never,Never,Very frequently,Rarely,Never,Rarely,Sometimes,Sometimes,9,6,0,6,Improve
+51,18,3,5.00,Yes,Yes,No,Yes,No,120,10,Sometimes,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Sometimes,Rarely,Very frequently,Sometimes,Sometimes,Rarely,Never,3,2,1,1,Improve
+52,20,3,3.00,No,No,Yes,Yes,Yes,121,8,Rarely,Sometimes,Very frequently,Never,Never,Sometimes,Never,Rarely,Never,Sometimes,Never,Sometimes,Never,Sometimes,Sometimes,Rarely,0,3,7,0,Improve
+53,21,3,4.00,Yes,No,No,No,Yes,89,10,Never,Never,Rarely,Never,Never,Sometimes,Never,Rarely,Rarely,Never,Never,Very frequently,Never,Rarely,Never,Never,6,8,0,2,Improve
+54,17,6,3.00,Yes,No,No,Yes,No,,10,Never,Never,Sometimes,Never,Never,Very frequently,Rarely,Sometimes,Never,Never,Rarely,Very frequently,Sometimes,Very frequently,Very frequently,Never,2,0,4,0,No effect
+55,31,3,2.00,No,No,No,Yes,No,200,2,Rarely,Rarely,Never,Rarely,Never,Rarely,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Never,Rarely,Very frequently,Never,8,9,6,2,Improve
+56,26,6,0.50,No,No,No,No,Yes,140,2,Rarely,Never,Rarely,Sometimes,Never,Never,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Very frequently,Never,9,8,1,0,No effect
+57,20,3,4.00,Yes,No,No,Yes,No,161,8,Rarely,Rarely,Very frequently,Sometimes,Rarely,Sometimes,Rarely,Sometimes,Never,Sometimes,Rarely,Very frequently,Very frequently,Sometimes,Very frequently,Rarely,7,2,8,6,Improve
+58,19,3,4.00,Yes,No,No,Yes,Yes,105,12,Sometimes,Never,Never,Never,Never,Sometimes,Sometimes,Rarely,Never,Never,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Rarely,4,1,1,1,Improve
+59,15,3,8.00,Yes,No,No,No,No,193,2,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Never,Very frequently,Rarely,8,7,5,0,Improve
+60,18,3,2.00,No,Yes,Yes,Yes,Yes,149,12,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,Never,Never,Very frequently,Sometimes,Never,Rarely,Very frequently,Rarely,3,4,6,1,Improve
+61,23,4,2.00,Yes,Yes,Yes,Yes,No,80,3,Sometimes,Rarely,Never,Rarely,Sometimes,Never,Sometimes,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,4,2,3,4,Improve
+62,25,6,0.50,No,Yes,No,No,No,140,13,Very frequently,Never,Never,Never,Rarely,Never,Sometimes,Never,Sometimes,Never,Rarely,Rarely,Rarely,Never,Very frequently,Sometimes,1,1,3,1,Improve
+63,18,3,5.00,Yes,Yes,No,Yes,No,130,2,Very frequently,Never,Never,Sometimes,Never,Sometimes,Sometimes,Rarely,Never,Sometimes,Very frequently,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,7,6,5,0,Improve
+64,17,1,5.00,Yes,No,No,Yes,No,134,12,Never,Rarely,Never,Never,Never,Sometimes,Never,Never,Never,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,10,8,6,7,No effect
+65,37,4,0.25,No,No,No,Yes,No,147,3,Very frequently,Rarely,Never,Rarely,Never,Rarely,Sometimes,Never,Rarely,Never,Never,Very frequently,Sometimes,Never,Sometimes,Sometimes,3,2,10,0,No effect
+66,17,3,3.00,Yes,No,No,Yes,Yes,120,13,Very frequently,Never,Very frequently,Never,Never,Very frequently,Sometimes,Sometimes,Rarely,Sometimes,Never,Sometimes,Very frequently,Very frequently,Rarely,Sometimes,6,6,8,2,Improve
+67,28,4,1.00,No,No,No,Yes,No,120,2,Rarely,Never,Very frequently,Sometimes,Never,Never,Never,Never,Never,Rarely,Rarely,Rarely,Never,Never,Sometimes,Rarely,6,6,2,0,No effect
+68,18,3,4.00,Yes,No,No,Yes,Yes,77,12,Rarely,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Never,Very frequently,Sometimes,Sometimes,Very frequently,Very frequently,Very frequently,1,0,8,2,No effect
+69,20,3,3.00,Yes,No,No,Yes,Yes,170,2,Never,Never,Rarely,Never,Never,Rarely,Never,Sometimes,Never,Rarely,Rarely,Sometimes,Sometimes,Rarely,Very frequently,Sometimes,6,7,0,0,Improve
+70,17,6,1.00,Yes,Yes,Yes,No,No,118,14,Never,Sometimes,Rarely,Very frequently,Never,Rarely,Never,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,7,3,1,5,Improve
+71,21,4,2.00,Yes,Yes,No,Yes,Yes,107,12,Sometimes,Rarely,Never,Very frequently,Never,Never,Rarely,Never,Never,Rarely,Very frequently,Rarely,Never,Rarely,Sometimes,Very frequently,8,4,10,0,No effect
+72,41,3,3.00,Yes,No,No,No,Yes,113,10,Sometimes,Never,Rarely,Rarely,Rarely,Very frequently,Sometimes,Rarely,Rarely,Never,Rarely,Very frequently,Very frequently,Sometimes,Very frequently,Never,9,7,6,2,No effect
+73,36,3,1.00,No,Yes,Yes,No,No,132,13,Very frequently,Sometimes,Never,Rarely,Never,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Never,Sometimes,Never,8,9,3,0,No effect
+74,24,3,3.00,Yes,No,No,Yes,Yes,115,2,Rarely,Never,Rarely,Sometimes,Never,Never,Never,Rarely,Never,Very frequently,Rarely,Sometimes,Never,Never,Very frequently,Sometimes,9,6,4,3,Improve
+75,20,3,2.00,Yes,Yes,No,Yes,No,126,10,Never,Never,Sometimes,Never,Never,Rarely,Never,Never,Never,Never,Never,Very frequently,Never,Rarely,Very frequently,Sometimes,7,4,6,5,Improve
+76,18,3,5.00,Yes,No,Yes,Yes,Yes,157,12,Never,Never,Rarely,Rarely,Never,Very frequently,Rarely,Never,Rarely,Rarely,Very frequently,Sometimes,Rarely,Very frequently,Very frequently,Never,7,9,5,0,Improve
+77,34,6,4.00,Yes,No,No,Yes,Yes,161,12,Rarely,Never,Sometimes,Never,Never,Sometimes,Rarely,Never,Never,Never,Very frequently,Rarely,Never,Sometimes,Sometimes,Rarely,6,7,0,0,No effect
+78,19,3,3.00,Yes,No,No,No,Yes,90,10,Sometimes,Rarely,Sometimes,Never,Never,Very frequently,Sometimes,Rarely,Never,Sometimes,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Sometimes,7,4,2,4,No effect
+79,21,4,3.00,Yes,No,Yes,Yes,No,,12,Sometimes,Rarely,Never,Sometimes,Never,Never,Never,Never,Never,Never,Very frequently,Very frequently,Never,Never,Very frequently,Rarely,10,0,10,10,Improve
+80,17,1,2.00,Yes,Yes,No,Yes,No,128,8,Never,Rarely,Very frequently,Never,Never,Rarely,Never,Never,Rarely,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,0,0,0,0,Improve
+81,16,3,6.00,Yes,No,No,Yes,Yes,169,6,Rarely,Never,Never,Rarely,Sometimes,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,Never,Sometimes,Very frequently,Very frequently,Rarely,Never,7,8,7,5,Improve
+82,23,3,2.00,Yes,No,No,Yes,Yes,100,12,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Never,Sometimes,Very frequently,Rarely,Never,Never,Sometimes,Rarely,6,3,0,1,Improve
+83,16,3,3.00,No,No,No,No,No,140,10,Rarely,Never,Never,Never,Never,Sometimes,Rarely,Never,Rarely,Never,Never,Very frequently,Sometimes,Rarely,Never,Never,7,5,5,3,Improve
+84,23,1,1.00,No,No,No,No,Yes,140,11,Sometimes,Rarely,Sometimes,Rarely,Never,Very frequently,Very frequently,Never,Never,Never,Sometimes,Rarely,Rarely,Very frequently,Very frequently,Rarely,10,6,3,10,No effect
+85,19,4,4.00,Yes,No,No,Yes,No,156,10,Rarely,Rarely,Rarely,Rarely,Never,Sometimes,Rarely,Rarely,Never,Never,Rarely,Very frequently,Rarely,Sometimes,Sometimes,Sometimes,7,10,5,0,Improve
+86,23,3,12.00,Yes,No,No,Yes,Yes,96,10,Very frequently,Rarely,Never,Very frequently,Never,Rarely,Sometimes,Rarely,Rarely,Rarely,Never,Very frequently,Sometimes,Rarely,Rarely,Never,3,7,5,5,No effect
+87,22,3,2.00,Yes,Yes,No,Yes,Yes,98,2,Sometimes,Never,Never,Rarely,Never,Sometimes,Sometimes,Never,Sometimes,Rarely,Rarely,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,8,6,0,0,Improve
+88,22,3,4.00,Yes,No,Yes,Yes,Yes,126,2,Rarely,Never,Rarely,Sometimes,Never,Rarely,Rarely,Never,Never,Rarely,Sometimes,Very frequently,Sometimes,Rarely,Very frequently,Rarely,8,7,4,3,Improve
+89,19,3,8.00,Yes,No,No,Yes,Yes,100,6,Very frequently,Never,Rarely,Never,Never,Sometimes,Sometimes,Very frequently,Never,Very frequently,Never,Very frequently,Sometimes,Rarely,Rarely,Rarely,4,3,0,0,Improve
+90,16,1,2.00,Yes,Yes,No,Yes,No,,13,Very frequently,Never,Never,Never,Never,Rarely,Sometimes,Never,Never,Never,Never,Rarely,Rarely,Rarely,Sometimes,Rarely,0,0,1,3,Improve
+91,23,3,4.00,Yes,No,No,Yes,Yes,78,9,Rarely,Never,Sometimes,Sometimes,Never,Very frequently,Rarely,Very frequently,Sometimes,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Sometimes,7,6,7,5,Improve
+92,18,3,6.00,Yes,No,No,Yes,No,91,2,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Very frequently,Rarely,Never,Sometimes,Very frequently,Never,8,6,2,10,No effect
+93,42,6,,,No,No,No,Yes,,2,Rarely,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Never,Sometimes,Rarely,Rarely,Never,Sometimes,Sometimes,9,0,10,0,No effect
+94,23,3,2.00,No,Yes,No,No,Yes,117,12,Never,Never,Rarely,Never,Never,Rarely,Rarely,Never,Never,Never,Very frequently,Never,Never,Rarely,Sometimes,Never,7,3,2,3,Improve
+95,22,3,1.00,No,No,Yes,Yes,No,128,8,Never,Never,Very frequently,Never,Rarely,Sometimes,Sometimes,Never,Never,Never,Never,Very frequently,Very frequently,Sometimes,Sometimes,Never,2,7,5,0,Improve
+96,17,3,3.00,Yes,No,No,Yes,No,130,2,Rarely,Sometimes,Sometimes,Sometimes,Never,Rarely,Rarely,Rarely,Never,Very frequently,Sometimes,Very frequently,Very frequently,Sometimes,Very frequently,Sometimes,7,8,6,5,Improve
+97,28,3,0.50,No,No,No,Yes,No,130,14,Rarely,Sometimes,Never,Very frequently,Never,Rarely,Rarely,Never,Never,Never,Never,Sometimes,Never,Rarely,Very frequently,Rarely,4,7,1,0,Improve
+98,23,3,7.00,Yes,No,No,Yes,Yes,55,14,Rarely,Very frequently,Never,Very frequently,Very frequently,Sometimes,Rarely,Never,Rarely,Never,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,6,4,2,3,Improve
+99,23,3,2.00,No,No,No,Yes,Yes,,2,Never,Never,Never,Never,Never,Sometimes,Never,Sometimes,Never,Never,Very frequently,Very frequently,Never,Sometimes,Very frequently,Sometimes,7,8,5,1,No effect
+100,23,6,1.00,Yes,Yes,No,No,No,85,3,Sometimes,Sometimes,Sometimes,Rarely,Never,Rarely,Sometimes,Rarely,Rarely,Very frequently,Never,Sometimes,Very frequently,Rarely,Sometimes,Very frequently,7,0,0,2,Improve
+101,19,1,3.00,Yes,No,No,Yes,Yes,126,2,Never,Sometimes,Sometimes,Never,Never,Very frequently,Never,Never,Never,Rarely,Rarely,Rarely,Rarely,Sometimes,Very frequently,Sometimes,5,2,8,6,Improve
+102,17,3,2.00,Yes,Yes,Yes,Yes,Yes,122,9,Rarely,Never,Sometimes,Sometimes,Never,Very frequently,Sometimes,Rarely,Rarely,Rarely,Very frequently,Rarely,Rarely,Very frequently,Very frequently,Never,10,7,4,2,Improve
+103,19,4,1.00,No,Yes,No,Yes,Yes,160,6,Never,Never,Never,Never,Never,Never,Sometimes,Very frequently,Never,Never,Never,Never,Never,Never,Never,Rarely,10,1,0,0,Improve
+104,22,2,1.00,No,Yes,No,Yes,No,108,2,Rarely,Never,Sometimes,Rarely,Never,Never,Very frequently,Never,Never,Never,Never,Sometimes,Rarely,Never,Very frequently,Rarely,8,7,0,5,Improve
+105,21,4,1.00,No,No,No,Yes,No,179,2,Never,Rarely,Never,Rarely,Never,Sometimes,Rarely,Never,Never,Very frequently,Sometimes,Rarely,Sometimes,Sometimes,Very frequently,Rarely,6,5,0,0,No effect
+106,15,6,2.00,Yes,Yes,No,No,No,156,2,Never,Never,Rarely,Rarely,Never,Never,Never,Never,Never,Rarely,Sometimes,Sometimes,Never,Never,Very frequently,Sometimes,3,2,6,7,Improve
+107,29,6,5.00,Yes,No,No,Yes,Yes,200,4,Rarely,Never,Never,Rarely,Never,Never,Very frequently,Never,Rarely,Rarely,Rarely,Never,Sometimes,Never,Very frequently,Sometimes,7,2,3,1,Improve
+108,25,3,2.00,No,No,No,No,Yes,170,12,Rarely,Rarely,Rarely,Sometimes,Never,Rarely,Never,Rarely,Never,Rarely,Very frequently,Sometimes,Never,Rarely,Very frequently,Very frequently,5,5,3,1,No effect
+109,22,3,10.00,No,Yes,Yes,No,Yes,128,8,Sometimes,Sometimes,Very frequently,Very frequently,Never,Never,Rarely,Never,Never,Never,Rarely,Never,Rarely,Never,Sometimes,Sometimes,4,7,7,3,Improve
+110,18,3,4.00,Yes,Yes,Yes,Yes,Yes,130,10,Sometimes,Rarely,Sometimes,Rarely,Never,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Rarely,Rarely,Very frequently,Very frequently,4,5,6,5,Improve
+111,32,3,5.00,Yes,No,No,No,Yes,91,2,Sometimes,Never,Rarely,Sometimes,Never,Sometimes,Rarely,Rarely,Never,Never,Very frequently,Very frequently,Very frequently,Rarely,Very frequently,Never,10,10,3,1,Worsen
+112,13,3,2.00,Yes,Yes,Yes,Yes,No,120,2,Rarely,Never,Sometimes,Very frequently,Rarely,Sometimes,Never,Never,Never,Sometimes,Sometimes,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,7,10,5,6,Worsen
+113,36,3,6.00,Yes,No,No,Yes,Yes,174,12,Very frequently,Never,Rarely,Very frequently,Never,Never,Never,Sometimes,Never,Rarely,Very frequently,Rarely,Never,Never,Sometimes,Very frequently,5,4,10,2,Improve
+114,24,3,3.00,No,No,No,Yes,Yes,130,2,Sometimes,Sometimes,Never,Rarely,Never,Never,Rarely,Never,Rarely,Never,Very frequently,Very frequently,Never,Never,Very frequently,Never,0,0,8,0,No effect
+115,24,3,1.00,No,No,No,Yes,No,86,12,Sometimes,Never,Rarely,Rarely,Never,Rarely,Never,Never,Never,Never,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,6,4,5,0,Improve
+116,29,3,4.00,No,No,No,Yes,No,140,9,Rarely,Sometimes,Rarely,Never,Rarely,Very frequently,Rarely,Rarely,Rarely,Rarely,Never,Sometimes,Sometimes,Sometimes,Sometimes,Never,8,8,5,10,Improve
+117,35,3,6.00,Yes,No,No,Yes,Yes,166,2,Sometimes,Rarely,Sometimes,Very frequently,Never,Rarely,Sometimes,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Sometimes,4,1,3,1,No effect
+118,41,1,3.00,Yes,Yes,Yes,Yes,Yes,130,12,Sometimes,Never,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Sometimes,Sometimes,Sometimes,Never,Rarely,Rarely,Never,10,7,8,0,Improve
+119,36,6,2.00,Yes,Yes,Yes,Yes,No,127,2,Sometimes,Rarely,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Never,Never,Never,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Sometimes,7,3,1,1,Improve
+120,29,4,1.00,Yes,Yes,No,Yes,No,110,3,Sometimes,Never,Never,Rarely,Sometimes,Never,Rarely,Never,Never,Never,Never,Sometimes,Rarely,Never,Sometimes,Sometimes,6,6,1,2,Improve
+121,28,3,6.00,Yes,No,No,No,No,144,2,Sometimes,Rarely,Never,Sometimes,Never,Rarely,Rarely,Never,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Very frequently,Very frequently,10,8,7,1,Improve
+122,32,3,7.00,Yes,No,No,Yes,Yes,120,10,Sometimes,Never,Rarely,Never,Never,Sometimes,Rarely,Never,Never,Rarely,Rarely,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,10,8,2,8,Improve
+123,19,4,3.00,Yes,No,No,Yes,No,160,2,Rarely,Sometimes,Sometimes,Rarely,Never,Sometimes,Rarely,Never,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Very frequently,Rarely,8,7,4,0,Improve
+124,31,3,2.00,Yes,No,No,Yes,Yes,,2,Never,Sometimes,Never,Rarely,Sometimes,Never,Sometimes,Rarely,Never,Never,Sometimes,Very frequently,Never,Never,Very frequently,Never,10,2,0,5,No effect
+125,16,3,4.00,Yes,No,No,No,Yes,,2,Sometimes,Rarely,Rarely,Sometimes,Never,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Rarely,Rarely,Very frequently,Very frequently,9,8,1,2,Improve
+126,26,3,2.00,Yes,Yes,Yes,Yes,Yes,165,9,Rarely,Rarely,Very frequently,Rarely,Rarely,Very frequently,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Very frequently,Very frequently,Rarely,6,3,1,1,Improve
+127,32,6,1.00,No,No,No,Yes,No,120,8,Rarely,Never,Very frequently,Rarely,Rarely,Sometimes,Rarely,Never,Rarely,Rarely,Never,Sometimes,Rarely,Rarely,Rarely,Never,3,6,2,0,No effect
+128,21,3,3.00,Yes,Yes,No,Yes,No,160,2,Never,Never,Never,Very frequently,Never,Sometimes,Never,Never,Never,Sometimes,Very frequently,Rarely,Never,Rarely,Very frequently,Sometimes,8,9,2,0,Improve
+129,18,3,2.00,Yes,Yes,No,No,Yes,101,3,Never,Never,Sometimes,Never,Never,Rarely,Never,Never,Never,Rarely,Never,Rarely,Never,Never,Sometimes,Very frequently,8,3,8,7,Improve
+130,19,3,3.00,Yes,Yes,No,Yes,No,122,13,Very frequently,Rarely,Never,Never,Never,Never,Never,Rarely,Never,Sometimes,Never,Very frequently,Never,Never,Rarely,Sometimes,3,3,1,2,Improve
+131,18,1,2.00,Yes,Yes,No,Yes,Yes,,10,Rarely,Rarely,Never,Never,Never,Rarely,Never,Very frequently,Rarely,Rarely,Rarely,Very frequently,Rarely,Rarely,Rarely,Never,6,5,2,0,Improve
+132,16,4,3.00,Yes,No,Yes,No,No,,10,Rarely,Sometimes,Sometimes,Never,Never,Rarely,Never,Sometimes,Never,Sometimes,Never,Very frequently,Never,Rarely,Very frequently,Rarely,0,0,4,0,No effect
+133,25,3,1.50,Yes,No,No,No,No,61,10,Sometimes,Rarely,Rarely,Sometimes,Never,Rarely,Never,Never,Never,Rarely,Rarely,Very frequently,Very frequently,Rarely,Very frequently,Never,6,5,0,2,Improve
+134,17,3,4.00,Yes,No,No,Yes,Yes,79,15,Very frequently,Never,Never,Never,Sometimes,Sometimes,Rarely,Sometimes,Never,Very frequently,Never,Very frequently,Sometimes,Sometimes,Rarely,Very frequently,3,8,0,0,Improve
+135,16,3,2.00,Yes,No,No,Yes,Yes,126,11,Very frequently,Never,Never,Never,Never,Very frequently,Never,Sometimes,Never,Rarely,Never,Very frequently,Very frequently,Very frequently,Never,Sometimes,1,8,0,0,No effect
+136,27,3,10.00,Yes,No,No,Yes,Yes,185,12,Sometimes,Never,Sometimes,Never,Never,Sometimes,Rarely,Never,Never,Rarely,Very frequently,Very frequently,Rarely,Sometimes,Very frequently,Rarely,5,6,6,3,Improve
+137,53,3,7.00,Yes,No,No,Yes,Yes,92,10,Very frequently,Sometimes,Very frequently,Rarely,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Rarely,Very frequently,Very frequently,Rarely,Very frequently,Rarely,0,0,0,0,Improve
+138,25,3,1.00,Yes,No,No,No,No,107,8,Never,Never,Very frequently,Never,Never,Rarely,Never,Rarely,Never,Rarely,Never,Never,Never,Never,Rarely,Rarely,0,8,0,0,Improve
+139,34,3,2.00,No,No,No,No,No,120,12,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Sometimes,Never,3,7,0,0,Improve
+140,22,6,6.00,Yes,Yes,Yes,Yes,Yes,140,4,Sometimes,Rarely,Very frequently,Very frequently,Rarely,Very frequently,Very frequently,Rarely,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Very frequently,Sometimes,Sometimes,8,8,8,5,Improve
+141,17,3,2.00,Yes,Yes,Yes,Yes,No,94,4,Sometimes,Never,Never,Never,Never,Rarely,Sometimes,Never,Never,Rarely,Sometimes,Very frequently,Never,Rarely,Very frequently,Rarely,5,2,3,4,Improve
+142,26,3,3.00,Yes,Yes,No,Yes,No,160,14,Rarely,Rarely,Never,Very frequently,Rarely,Rarely,Sometimes,Never,Never,Rarely,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,8,8,3,0,Improve
+143,19,3,8.00,Yes,No,No,Yes,No,174,8,Never,Never,Very frequently,Never,Never,Sometimes,Never,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Never,6,8,8,0,Improve
+144,21,3,3.00,Yes,No,No,Yes,Yes,136,10,Rarely,Very frequently,Sometimes,Rarely,Never,Very frequently,Rarely,Never,Very frequently,Sometimes,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Sometimes,6,8,6,0,Worsen
+145,32,3,3.00,Yes,Yes,Yes,Yes,Yes,144,2,Rarely,Rarely,Sometimes,Very frequently,Never,Sometimes,Rarely,Never,Sometimes,Very frequently,Rarely,Sometimes,Very frequently,Rarely,Very frequently,Rarely,6,6,7,5,Improve
+146,21,6,3.00,Yes,No,No,No,No,77,2,Never,Never,Never,Sometimes,Sometimes,Sometimes,Sometimes,Never,Rarely,Never,Rarely,Rarely,Rarely,Sometimes,Very frequently,Very frequently,9,10,3,0,No effect
+147,25,3,2.00,No,Yes,No,No,No,120,10,Rarely,Never,Never,Rarely,Never,Sometimes,Never,Never,Sometimes,Never,Never,Very frequently,Sometimes,Very frequently,Very frequently,Rarely,7,7,5,0,Improve
+148,26,3,1.00,No,No,No,No,No,,2,Rarely,Never,Rarely,Rarely,Never,Rarely,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Never,10,7,2,8,No effect
+149,21,3,2.00,Yes,Yes,No,Yes,Yes,,12,Rarely,Never,Never,Sometimes,Never,Rarely,Never,Never,Never,Rarely,Very frequently,Rarely,Never,Rarely,Very frequently,Sometimes,1,3,0,6,No effect
+150,17,3,2.00,Yes,Yes,No,No,Yes,,10,Rarely,Never,Never,Never,Never,Rarely,Very frequently,Very frequently,Never,Very frequently,Never,Very frequently,Very frequently,Sometimes,Never,Sometimes,5,3,2,1,Improve
+151,28,6,4.00,Yes,No,No,Yes,Yes,194,2,Rarely,Sometimes,Rarely,Rarely,Never,Sometimes,Sometimes,Rarely,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Sometimes,6,8,1,6,Improve
+152,41,4,4.00,Yes,No,No,Yes,No,60,10,Rarely,Never,Sometimes,Very frequently,Never,Very frequently,Sometimes,Rarely,Rarely,Sometimes,Rarely,Very frequently,Very frequently,Sometimes,Very frequently,Rarely,7,2,0,7,Improve
+153,18,3,1.00,Yes,Yes,No,Yes,Yes,190,12,Rarely,Never,Rarely,Never,Never,Sometimes,Never,Never,Never,Never,Very frequently,Rarely,Never,Sometimes,Very frequently,Sometimes,6,9,9,0,Improve
+154,22,3,2.00,No,No,No,No,Yes,87,5,Sometimes,Never,Never,Never,Never,Rarely,Never,Very frequently,Very frequently,Sometimes,Never,Sometimes,Very frequently,Rarely,Rarely,Sometimes,1,1,4,1,No effect
+155,18,6,2.00,Yes,No,No,No,Yes,122,6,Rarely,Never,Never,Never,Never,Never,Never,Very frequently,Never,Rarely,Never,Very frequently,Sometimes,Never,Never,Never,0,2,0,0,No effect
+156,49,6,1.00,Yes,No,No,Yes,No,156,8,Sometimes,Never,Very frequently,Sometimes,Never,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Sometimes,8,8,2,0,Improve
+157,21,3,3.00,Yes,Yes,Yes,Yes,No,150,12,Sometimes,Rarely,Rarely,Sometimes,Never,Rarely,Rarely,Rarely,Never,Sometimes,Very frequently,Very frequently,Rarely,Sometimes,Very frequently,Sometimes,3,3,7,0,No effect
+158,27,3,10.00,Yes,No,No,Yes,Yes,194,12,Never,Rarely,Sometimes,Sometimes,Never,Sometimes,Rarely,Rarely,Rarely,Sometimes,Very frequently,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,8,8,3,0,Improve
+159,19,3,1.00,No,No,Yes,Yes,Yes,160,12,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Sometimes,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Never,6,4,0,3,No effect
+160,27,3,3.00,Yes,No,No,Yes,Yes,171,12,Sometimes,Never,Never,Rarely,Never,Sometimes,Rarely,Never,Never,Rarely,Very frequently,Never,Rarely,Sometimes,Sometimes,Rarely,1,0,0,0,Improve
+161,27,3,1.50,Yes,No,No,No,No,95,2,Never,Never,Never,Rarely,Never,Sometimes,Never,Rarely,Never,Rarely,Very frequently,Sometimes,Never,Sometimes,Very frequently,Sometimes,5,5,4,4,Improve
+162,19,3,3.00,Yes,Yes,No,Yes,Yes,114,6,Sometimes,Never,Never,Very frequently,Rarely,Rarely,Rarely,Very frequently,Never,Sometimes,Never,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,8,9,6,0,No effect
+163,42,4,2.50,Yes,Yes,No,No,Yes,148,2,Sometimes,Rarely,Very frequently,Rarely,Never,Sometimes,Very frequently,Never,Rarely,Rarely,Sometimes,Rarely,Rarely,Rarely,Sometimes,Rarely,8,8,7,6,Improve
+164,60,2,2.00,Yes,No,No,No,No,119,16,Rarely,Sometimes,Never,Rarely,Very frequently,Never,Never,Never,Rarely,Never,Never,Sometimes,Rarely,Never,Sometimes,Never,3,0,2,0,Improve
+165,19,4,5.00,Yes,No,No,No,Yes,136,12,Sometimes,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Never,Never,Very frequently,Very frequently,Never,Never,Sometimes,Very frequently,Sometimes,0,5,1,0,No effect
+166,20,1,2.00,Yes,No,No,Yes,No,141,10,Rarely,Never,Never,Rarely,Never,Sometimes,Rarely,Never,Never,Sometimes,Never,Very frequently,Sometimes,Rarely,Sometimes,Rarely,6,3,0,0,Improve
+167,28,3,2.00,No,No,Yes,No,No,146,12,Rarely,Never,Never,Rarely,Never,Rarely,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Sometimes,Rarely,1,7,5,1,Improve
+168,16,6,2.00,No,Yes,Yes,Yes,No,,3,Sometimes,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Rarely,Never,Sometimes,Never,Sometimes,Sometimes,Rarely,Rarely,Sometimes,4,2,1,1,No effect
+169,18,3,2.00,Yes,No,No,No,Yes,164,5,Sometimes,Never,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Never,Very frequently,Very frequently,Rarely,Never,Never,5,6,0,1,No effect
+170,34,3,1.00,Yes,No,No,Yes,Yes,,2,Rarely,Never,Very frequently,Never,Never,Never,Never,Very frequently,Never,Rarely,Very frequently,Rarely,Never,Never,Very frequently,Very frequently,1,0,0,0,No effect
+171,18,4,1.50,Yes,No,No,Yes,No,,10,Never,Rarely,Rarely,Never,Never,Rarely,Very frequently,Sometimes,Rarely,Very frequently,Never,Very frequently,Sometimes,Rarely,Rarely,Very frequently,8,6,5,2,Improve
+172,21,3,5.00,Yes,Yes,Yes,Yes,Yes,128,14,Sometimes,Rarely,Never,Very frequently,Rarely,Rarely,Sometimes,Never,Rarely,Sometimes,Rarely,Very frequently,Sometimes,Rarely,Very frequently,Rarely,9,4,0,3,Improve
+173,38,3,0.50,No,No,No,Yes,Yes,,2,Never,Never,Rarely,Sometimes,Rarely,Sometimes,Rarely,Never,Sometimes,Never,Never,Very frequently,Sometimes,Rarely,Very frequently,Never,4,6,6,4,Improve
+174,17,3,2.00,Yes,No,No,No,Yes,,2,Never,Rarely,Rarely,Rarely,Never,Never,Never,Rarely,Never,Sometimes,Rarely,Sometimes,Never,Rarely,Very frequently,Very frequently,7,3,1,5,Improve
+175,35,6,0.50,No,No,No,No,No,,10,Sometimes,Never,Never,Sometimes,Never,Never,Never,Never,Never,Rarely,Never,Very frequently,Rarely,Never,Sometimes,Rarely,10,3,1,0,No effect
+176,21,6,2.00,Yes,No,No,No,Yes,101,2,Rarely,Sometimes,Rarely,Sometimes,Never,Very frequently,Rarely,Never,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Rarely,8,8,3,0,Improve
+177,25,1,2.50,Yes,No,No,No,No,,5,Rarely,Never,Never,Rarely,Rarely,Sometimes,Rarely,Never,Very frequently,Very frequently,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Sometimes,7,6,5,4,Improve
+178,18,3,2.00,Yes,Yes,No,Yes,Yes,98,6,Very frequently,Never,Never,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Rarely,Very frequently,Never,Sometimes,Very frequently,Sometimes,Never,Rarely,7,2,3,5,Improve
+179,16,1,2.00,No,No,No,Yes,No,145,10,Never,Sometimes,Rarely,Sometimes,Rarely,Rarely,Never,Rarely,Never,Sometimes,Never,Very frequently,Rarely,Rarely,Very frequently,Rarely,10,3,5,10,Improve
+180,19,3,1.00,Yes,No,No,Yes,Yes,94,10,Rarely,Sometimes,Rarely,Rarely,Never,Sometimes,Rarely,Never,Never,Rarely,Rarely,Very frequently,Sometimes,Sometimes,Very frequently,Never,7,5,1,2,Improve
+181,31,3,4.00,Yes,Yes,No,No,Yes,103,13,Very frequently,Never,Rarely,Never,Rarely,Sometimes,Rarely,Never,Sometimes,Never,Sometimes,Rarely,Never,Sometimes,Sometimes,Never,6,8,9,5,Improve
+182,26,3,5.00,Yes,No,No,No,No,,2,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Very frequently,Never,Never,Very frequently,Never,2,9,2,1,No effect
+183,16,3,2.00,Yes,Yes,Yes,No,No,112,2,Rarely,Never,Very frequently,Rarely,Never,Never,Never,Never,Never,Rarely,Rarely,Sometimes,Rarely,Never,Very frequently,Very frequently,7,4,10,2,Improve
+184,26,3,2.00,Yes,Yes,No,Yes,Yes,,2,Very frequently,Rarely,Rarely,Very frequently,Never,Rarely,Never,Never,Never,Sometimes,Sometimes,Rarely,Never,Rarely,Very frequently,Very frequently,7,5,6,0,Improve
+185,17,3,2.00,Yes,No,No,Yes,Yes,118,5,Rarely,Rarely,Never,Never,Sometimes,Sometimes,Rarely,Very frequently,Never,Rarely,Never,Sometimes,Very frequently,Sometimes,Never,Rarely,6,1,0,0,Improve
+186,22,3,1.00,Yes,Yes,No,Yes,Yes,,3,Sometimes,Sometimes,Rarely,Very frequently,Never,Never,Never,Rarely,Rarely,Never,Very frequently,Rarely,Never,Never,Very frequently,Very frequently,3,6,1,1,Improve
+187,20,1,4.00,Yes,No,No,Yes,Yes,113,5,Sometimes,Rarely,Never,Rarely,Never,Sometimes,Sometimes,Rarely,Never,Rarely,Never,Sometimes,Very frequently,Very frequently,Very frequently,Rarely,9,10,3,0,Improve
+188,30,3,1.00,No,Yes,No,Yes,No,162,2,Sometimes,Sometimes,Rarely,Sometimes,Never,Rarely,Never,Never,Never,Never,Sometimes,Sometimes,Never,Rarely,Very frequently,Never,8,5,8,9,Improve
+189,26,6,4.00,Yes,No,No,No,No,,10,Rarely,Very frequently,Rarely,Never,Never,Rarely,Rarely,Never,Sometimes,Never,Rarely,Very frequently,Rarely,Never,Sometimes,Never,8,7,7,3,Improve
+190,19,3,5.00,Yes,No,No,Yes,Yes,111,2,Sometimes,Rarely,Never,Sometimes,Rarely,Rarely,Sometimes,Rarely,Rarely,Rarely,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Sometimes,9,9,9,3,No effect
+191,21,6,5.00,Yes,No,No,Yes,No,85,7,Never,Very frequently,Rarely,Sometimes,Never,Rarely,Never,Never,Never,Never,Sometimes,Sometimes,Never,Rarely,Very frequently,Never,9,8,9,7,Improve
+192,33,3,7.00,Yes,No,No,Yes,Yes,134,2,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Very frequently,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Very frequently,Very frequently,Sometimes,9,3,7,8,Improve
+193,28,4,2.00,Yes,No,No,Yes,No,172,2,Never,Rarely,Rarely,Rarely,Never,Sometimes,Never,Rarely,Never,Sometimes,Rarely,Sometimes,Very frequently,Rarely,Very frequently,Rarely,10,8,6,2,Improve
+194,25,3,3.00,Yes,No,No,Yes,Yes,180,2,Rarely,Never,Sometimes,Sometimes,Never,Rarely,Never,Rarely,Never,Sometimes,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Sometimes,9,6,3,0,Improve
+195,22,4,2.00,Yes,No,No,No,No,120,10,Rarely,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Never,Rarely,Never,Very frequently,Rarely,Rarely,Sometimes,Sometimes,7,7,8,3,Improve
+196,19,3,3.00,Yes,No,Yes,Yes,Yes,76,2,Sometimes,Never,Sometimes,Sometimes,Never,Never,Never,Never,Never,Rarely,Rarely,Rarely,Rarely,Never,Very frequently,Rarely,9,10,4,0,Improve
+197,44,6,3.00,Yes,No,No,Yes,Yes,130,14,Rarely,Rarely,Rarely,Very frequently,Rarely,Sometimes,Rarely,Never,Rarely,Sometimes,Never,Rarely,Sometimes,Sometimes,Rarely,Sometimes,9,9,8,2,Improve
+198,22,3,3.00,Yes,No,No,No,No,,2,Never,Rarely,Never,Very frequently,Never,Rarely,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Very frequently,Rarely,9,10,3,9,Improve
+199,26,3,5.00,Yes,Yes,Yes,Yes,Yes,109,12,Sometimes,Rarely,Very frequently,Rarely,Rarely,Rarely,Sometimes,Sometimes,Never,Rarely,Very frequently,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,10,9,8,8,Improve
+200,23,6,6.00,Yes,No,Yes,No,Yes,96,13,Very frequently,Never,Never,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Rarely,6,5,6,8,Improve
+201,17,3,2.00,No,No,No,No,Yes,148,5,Sometimes,Never,Rarely,Never,Never,Very frequently,Rarely,Rarely,Never,Rarely,Never,Sometimes,Very frequently,Sometimes,Never,Rarely,8,6,10,3,Improve
+202,42,4,2.00,No,No,No,Yes,No,,12,Sometimes,Rarely,Sometimes,Rarely,Never,Sometimes,Never,Never,Never,Never,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,8,3,6,4,Improve
+203,30,3,1.00,No,Yes,No,Yes,No,129,2,Rarely,Never,Rarely,Rarely,Never,Rarely,Rarely,Never,Rarely,Rarely,Rarely,Very frequently,Rarely,Rarely,Very frequently,Rarely,4,2,1,3,Improve
+204,35,3,1.00,Yes,No,No,Yes,Yes,81,10,Sometimes,Rarely,Sometimes,Rarely,Never,Sometimes,Rarely,Rarely,Never,Never,Never,Very frequently,Rarely,Rarely,Sometimes,Rarely,2,1,1,1,No effect
+205,20,3,3.00,No,No,No,Yes,No,136,2,Never,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Very frequently,Very frequently,Never,Sometimes,Very frequently,Rarely,10,10,7,3,Improve
+206,18,3,3.00,Yes,No,No,Yes,Yes,155,11,Rarely,Never,Never,Sometimes,Never,Very frequently,Sometimes,Never,Sometimes,Sometimes,Never,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,8,9,0,0,Improve
+207,21,3,1.00,No,No,No,No,Yes,,10,Never,Never,Sometimes,Never,Never,Rarely,Never,Sometimes,Sometimes,Rarely,Never,Very frequently,Sometimes,Rarely,Sometimes,Rarely,4,9,6,2,No effect
+208,19,3,6.00,Yes,No,No,Yes,Yes,52,2,Never,Never,Rarely,Very frequently,Never,Rarely,Rarely,Never,Very frequently,Rarely,Sometimes,Very frequently,Rarely,Sometimes,Very frequently,Rarely,4,2,0,0,Improve
+209,37,3,4.00,Yes,No,No,Yes,No,97,2,Rarely,Sometimes,Sometimes,Sometimes,Never,Very frequently,Rarely,Never,Never,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Very frequently,Never,9,2,7,7,Improve
+210,31,3,2.00,Yes,No,No,Yes,Yes,92,12,Sometimes,Rarely,Rarely,Sometimes,Never,Sometimes,Rarely,Rarely,Sometimes,Very frequently,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,8,6,7,5,Improve
+211,29,3,2.00,Yes,Yes,No,Yes,Yes,100,14,Never,Sometimes,Rarely,Very frequently,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Very frequently,Rarely,Very frequently,Rarely,6,5,4,2,Improve
+212,20,3,3.00,Yes,No,No,Yes,Yes,120,2,Sometimes,Rarely,Rarely,Very frequently,Never,Rarely,Sometimes,Never,Never,Sometimes,Sometimes,Very frequently,Rarely,Rarely,Very frequently,Sometimes,8,5,2,3,Improve
+213,36,6,8.00,Yes,Yes,Yes,No,Yes,143,3,Sometimes,Rarely,Sometimes,Rarely,Never,Rarely,Rarely,Never,Never,Never,Very frequently,Rarely,Never,Rarely,Sometimes,Very frequently,7,6,6,1,No effect
+214,18,3,3.00,Yes,Yes,No,Yes,No,118,2,Sometimes,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,Rarely,Rarely,Sometimes,Never,Never,Very frequently,Rarely,10,2,0,0,Improve
+215,18,3,2.00,Yes,No,No,Yes,Yes,130,6,Rarely,Never,Sometimes,Never,Never,Never,Never,Very frequently,Never,Never,Rarely,Sometimes,Never,Never,Rarely,Never,6,0,0,0,Improve
+216,25,3,7.00,Yes,No,No,No,Yes,120,10,Never,Sometimes,Very frequently,Rarely,Rarely,Sometimes,Never,Very frequently,Rarely,Rarely,Rarely,Very frequently,Sometimes,Sometimes,Rarely,Sometimes,2,0,1,0,Improve
+217,18,4,12.00,Yes,,No,Yes,Yes,126,6,Never,Never,Never,Never,Never,Sometimes,Never,Very frequently,Sometimes,Never,Rarely,Very frequently,Sometimes,Sometimes,Rarely,Never,3,7,5,2,Improve
+218,31,4,9.00,Yes,No,No,Yes,Yes,158,10,Rarely,Rarely,Rarely,Sometimes,Never,Never,Rarely,Rarely,Rarely,Very frequently,Sometimes,Very frequently,Never,Rarely,Sometimes,Sometimes,9,0,2,0,Improve
+219,17,3,2.00,Yes,No,No,Yes,Yes,160,10,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Never,Never,Rarely,Very frequently,Rarely,Sometimes,Sometimes,Never,5,4,1,1,Improve
+220,21,3,1.00,Yes,No,No,No,Yes,,14,Never,Rarely,Never,Very frequently,Never,Rarely,Sometimes,Never,Never,Rarely,Rarely,Rarely,Never,Never,Sometimes,Very frequently,8,4,0,1,Improve
+221,30,6,1.00,No,No,No,No,No,119,7,Never,Very frequently,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Very frequently,Rarely,Sometimes,Sometimes,Rarely,8,10,2,0,Improve
+222,40,1,2.00,Yes,No,No,Yes,Yes,120,12,Sometimes,Never,Sometimes,Rarely,Never,Rarely,Rarely,Never,Never,Rarely,Very frequently,Rarely,Rarely,Rarely,Very frequently,Never,3,6,2,1,No effect
+223,64,6,4.00,Yes,No,No,No,No,200,2,Sometimes,Rarely,Sometimes,Rarely,Never,Rarely,Sometimes,Rarely,Rarely,Never,Rarely,Sometimes,Rarely,Rarely,Sometimes,Rarely,4,4,2,1,Improve
+224,14,3,2.00,Yes,Yes,No,Yes,Yes,136,2,Rarely,Never,Never,Sometimes,Never,Sometimes,Rarely,Never,Never,Never,Sometimes,Very frequently,Rarely,Sometimes,Very frequently,Rarely,7,5,2,6,Improve
+225,26,4,6.00,Yes,No,No,Yes,No,104,2,Sometimes,Never,Never,Rarely,Never,Rarely,Sometimes,Never,Never,Never,Rarely,Sometimes,Never,Rarely,Very frequently,Never,3,2,0,0,No effect
+226,35,3,4.00,Yes,Yes,Yes,Yes,Yes,90,7,Rarely,Very frequently,Rarely,Sometimes,Rarely,Very frequently,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Never,9,9,5,1,Improve
+227,33,6,1.00,No,No,No,No,No,120,2,Never,Never,Never,Never,Never,Sometimes,Never,Never,Rarely,Never,Never,Sometimes,Rarely,Rarely,Very frequently,Never,3,10,4,1,No effect
+228,30,3,6.00,Yes,No,No,Yes,Yes,89,14,Sometimes,Rarely,Never,Very frequently,Rarely,Never,Rarely,Never,Never,Sometimes,Sometimes,Rarely,Never,Never,Very frequently,Never,9,0,5,0,No effect
+229,31,3,2.00,No,Yes,No,Yes,,95,12,Sometimes,Sometimes,Sometimes,Rarely,Never,Rarely,Never,Never,Never,Rarely,Very frequently,Very frequently,Rarely,Sometimes,Very frequently,Sometimes,7,6,6,5,Improve
+230,27,3,5.00,Yes,No,Yes,Yes,Yes,140,14,Rarely,Never,Sometimes,Very frequently,Sometimes,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Sometimes,Very frequently,Sometimes,Never,Very frequently,Very frequently,0,9,4,0,Improve
+231,53,6,1.50,No,No,No,Yes,Yes,92,10,Rarely,Never,Very frequently,Sometimes,Never,Sometimes,Never,Rarely,Sometimes,Never,Never,Very frequently,Rarely,Sometimes,Sometimes,Never,2,2,2,1,No effect
+232,23,3,5.00,Yes,Yes,Yes,Yes,Yes,120,12,Sometimes,Rarely,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Very frequently,Rarely,Never,Never,Very frequently,Never,6,9,2,1,Improve
+233,25,3,2.00,Yes,No,Yes,Yes,No,128,8,Rarely,Rarely,Very frequently,Rarely,Never,Sometimes,Sometimes,Sometimes,Never,Rarely,Very frequently,Very frequently,Rarely,Sometimes,Very frequently,Rarely,6,4,1,0,Improve
+234,16,1,4.00,Yes,Yes,No,Yes,Yes,140,6,Very frequently,Rarely,Rarely,Sometimes,Rarely,Very frequently,Sometimes,Very frequently,Sometimes,Very frequently,Very frequently,Very frequently,Sometimes,Rarely,Sometimes,Rarely,8,9,4,0,Improve
+235,18,3,2.00,Yes,Yes,Yes,Yes,No,,2,Never,Never,Rarely,Rarely,Never,Rarely,Never,Never,Never,Rarely,Never,Rarely,Never,Rarely,Very frequently,Never,6,7,4,3,Improve
+236,29,3,5.00,Yes,Yes,Yes,Yes,Yes,,13,Very frequently,Never,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Rarely,Sometimes,Rarely,Never,Sometimes,Never,7,2,2,0,Improve
+237,31,4,6.00,Yes,No,No,Yes,Yes,136,8,Rarely,Rarely,Very frequently,Rarely,Never,Sometimes,Never,Never,Never,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,8,6,5,6,No effect
+238,31,3,1.00,No,No,No,No,Yes,132,2,Sometimes,Rarely,Never,Never,Never,Rarely,Never,Never,Sometimes,Never,Sometimes,Rarely,Rarely,Rarely,Very frequently,Sometimes,3,10,0,0,Worsen
+239,38,3,6.00,Yes,Yes,No,Yes,Yes,107,10,Very frequently,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Rarely,Sometimes,Sometimes,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Never,9,4,9,7,Improve
+240,17,3,4.00,No,Yes,No,Yes,Yes,135,13,Very frequently,Never,Never,Never,Never,Very frequently,Very frequently,Rarely,Very frequently,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Never,Rarely,7,9,2,8,Worsen
+241,25,1,2.00,No,No,No,No,Yes,171,8,Never,Sometimes,Very frequently,Rarely,Never,Never,Never,Never,Never,Never,Rarely,Sometimes,Never,Never,Very frequently,Rarely,10,3,1,4,Improve
+242,20,3,2.00,No,Yes,Yes,No,Yes,220,12,Rarely,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Very frequently,Never,Never,Rarely,Sometimes,Rarely,0,0,0,1,No effect
+243,15,3,2.00,Yes,No,No,No,No,171,8,Never,Never,Very frequently,Never,Never,Sometimes,Never,Never,Never,Never,Never,Rarely,Rarely,Sometimes,Never,Rarely,9,6,1,7,No effect
+244,16,3,4.00,Yes,No,Yes,Yes,No,85,15,Rarely,Rarely,Very frequently,Rarely,Never,Rarely,Rarely,Never,Never,Very frequently,Rarely,Sometimes,Never,Rarely,Rarely,Very frequently,7,1,3,5,Improve
+245,20,3,2.00,Yes,Yes,No,No,Yes,174,8,Sometimes,Never,Very frequently,Never,Never,Sometimes,Never,Sometimes,Never,Never,Never,Sometimes,Never,Never,Sometimes,Sometimes,9,7,5,7,Improve
+246,23,6,6.00,Yes,No,No,Yes,Yes,87,11,Never,Never,Sometimes,Sometimes,Never,Rarely,Never,Sometimes,Sometimes,Never,Never,Very frequently,Very frequently,Sometimes,Rarely,Never,3,1,2,7,Improve
+247,22,3,3.00,Yes,No,No,Yes,Yes,77,9,Rarely,Never,Sometimes,Rarely,Never,Very frequently,Rarely,Never,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,Very frequently,Sometimes,Rarely,6,6,8,0,Improve
+248,15,6,5.00,Yes,No,No,Yes,Yes,126,2,Rarely,Never,Very frequently,Rarely,Never,Never,Never,Never,Never,Sometimes,Rarely,Very frequently,Never,Never,Very frequently,Sometimes,10,6,0,4,Improve
+249,17,6,0.50,Yes,Yes,No,No,Yes,136,3,Rarely,Sometimes,Sometimes,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Sometimes,Rarely,Rarely,Sometimes,Very frequently,6,3,1,1,Improve
+250,22,4,1.00,Yes,No,No,Yes,Yes,80,3,Rarely,Never,Rarely,Sometimes,Never,Rarely,Never,Never,Never,Sometimes,Never,Rarely,Never,Never,Rarely,Very frequently,3,3,0,7,No effect
+251,21,3,10.00,Yes,No,No,Yes,Yes,92,12,Never,Rarely,Rarely,Never,Never,Very frequently,Never,Rarely,Never,Never,Very frequently,Sometimes,Sometimes,Very frequently,Very frequently,Sometimes,9,10,2,2,No effect
+252,19,3,2.00,Yes,No,No,No,Yes,120,10,Rarely,Never,Sometimes,Rarely,Never,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Never,Very frequently,Very frequently,Sometimes,Very frequently,Very frequently,7,5,0,2,No effect
+253,32,1,0.50,No,No,No,Yes,No,,13,Very frequently,Never,Sometimes,Rarely,Never,Never,Rarely,Never,Never,Never,Sometimes,Rarely,Never,Never,Very frequently,Rarely,3,0,4,4,No effect
+254,34,4,1.00,No,No,No,No,Yes,138,2,Rarely,Never,Never,Sometimes,Never,Rarely,Never,Never,Rarely,Never,Never,Rarely,Never,Sometimes,Very frequently,Never,9,9,6,4,Improve
+255,18,6,2.00,Yes,Yes,No,Yes,Yes,150,12,Sometimes,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Very frequently,Rarely,Never,Rarely,Very frequently,Sometimes,5,7,7,2,Improve
+256,21,3,3.00,Yes,No,No,Yes,No,108,7,Rarely,Very frequently,Never,Sometimes,Rarely,Rarely,Never,Never,Never,Never,Rarely,Sometimes,Never,Never,Very frequently,Sometimes,0,8,0,5,Improve
+257,20,3,3.00,No,No,No,Yes,Yes,119,7,Rarely,Very frequently,Rarely,Sometimes,Never,Sometimes,Rarely,Sometimes,Never,Never,Never,Very frequently,Very frequently,Rarely,Sometimes,Never,8,4,3,4,Improve
+258,19,3,2.00,Yes,No,No,Yes,No,125,7,Rarely,Very frequently,Rarely,Sometimes,Rarely,Never,Never,Never,Rarely,Rarely,Sometimes,Rarely,Never,Never,Sometimes,Never,7,2,0,7,No effect
+259,25,6,1.00,No,No,No,No,Yes,,10,Rarely,Never,Never,Rarely,Never,Rarely,Rarely,Never,Never,Rarely,Rarely,Very frequently,Rarely,Rarely,Very frequently,Very frequently,9,9,6,9,No effect
+260,31,3,8.00,Yes,Yes,No,Yes,Yes,,13,Very frequently,Never,Rarely,Rarely,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Rarely,Rarely,5,7,5,4,Improve
+261,21,3,1.00,Yes,Yes,No,Yes,Yes,85,10,Very frequently,Rarely,Rarely,Sometimes,Never,Rarely,Never,Sometimes,Never,Rarely,Very frequently,Very frequently,Sometimes,Very frequently,Sometimes,Very frequently,5,1,0,0,Improve
+262,31,4,1.00,No,No,Yes,Yes,Yes,113,14,Very frequently,Never,Never,Sometimes,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Never,Sometimes,Never,4,1,3,0,Improve
+263,20,4,1.00,No,No,No,Yes,No,86,10,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Never,Rarely,Rarely,Very frequently,Never,Never,Sometimes,Never,3,5,3,0,Improve
+264,19,3,5.00,Yes,Yes,No,Yes,No,141,2,Sometimes,Rarely,Never,Never,Never,Rarely,Sometimes,Never,Never,Never,Very frequently,Sometimes,Sometimes,Rarely,Very frequently,Never,2,2,0,6,Improve
+265,19,6,5.00,Yes,No,No,Yes,Yes,97,8,Rarely,Never,Very frequently,Sometimes,Never,Sometimes,Rarely,Never,Sometimes,Very frequently,Very frequently,Rarely,Never,Very frequently,Sometimes,Rarely,0,1,3,5,Improve
+266,23,3,4.00,Yes,No,No,Yes,Yes,,12,Rarely,Sometimes,Sometimes,Never,Never,Sometimes,Never,Rarely,Never,Sometimes,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Rarely,7,8,6,2,Improve
+267,24,6,8.00,Yes,No,Yes,Yes,No,120,3,Sometimes,Rarely,Very frequently,Rarely,Rarely,Very frequently,Very frequently,Rarely,Rarely,Very frequently,Very frequently,Rarely,Rarely,Sometimes,Very frequently,Very frequently,6,4,8,8,Improve
+268,20,6,0.70,No,No,No,No,No,144,2,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Rarely,Very frequently,Rarely,Never,Very frequently,Rarely,5,6,8,2,Improve
+269,15,3,3.00,No,No,No,No,No,84,3,Rarely,Rarely,Sometimes,Rarely,Rarely,Sometimes,Rarely,Never,Never,Very frequently,Rarely,Very frequently,Never,Never,Very frequently,Very frequently,6,6,2,6,No effect
+270,17,3,7.00,Yes,No,No,No,Yes,84,9,Never,Never,Rarely,Never,Rarely,Very frequently,Never,Never,Never,Rarely,Rarely,Rarely,Rarely,Very frequently,Rarely,Rarely,8,9,3,4,Improve
+271,20,6,1.50,No,Yes,Yes,No,Yes,60,3,Very frequently,Never,Never,Rarely,Rarely,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Very frequently,8,4,3,3,Worsen
+272,14,3,4.00,Yes,Yes,Yes,Yes,Yes,81,3,Sometimes,Never,Sometimes,Rarely,Never,Rarely,Sometimes,Sometimes,Never,Very frequently,Never,Sometimes,Rarely,Rarely,Never,Very frequently,8,6,5,7,Improve
+273,24,3,4.00,Yes,No,No,Yes,Yes,150,12,Sometimes,Rarely,Never,Rarely,Rarely,Rarely,Never,Never,Never,Never,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Never,8,8,7,7,Improve
+274,14,6,10.00,Yes,No,Yes,No,No,95,3,Rarely,Never,Sometimes,Never,Never,Sometimes,Rarely,Never,Never,Very frequently,Sometimes,Never,Never,Sometimes,Rarely,Very frequently,5,2,5,0,Improve
+275,23,3,2.00,Yes,Yes,Yes,Yes,No,138,2,Very frequently,Never,Rarely,Rarely,Never,Sometimes,Sometimes,Never,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Very frequently,Sometimes,6,8,4,2,No effect
+276,28,1,2.00,Yes,No,No,No,No,,2,Rarely,Never,Never,Rarely,Never,Never,Sometimes,Rarely,Never,Sometimes,Rarely,Sometimes,Rarely,Never,Very frequently,Rarely,7,5,2,1,No effect
+277,22,3,6.00,Yes,No,No,Yes,Yes,140,4,Sometimes,Rarely,Very frequently,Rarely,Rarely,Rarely,Very frequently,Sometimes,Never,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Very frequently,Sometimes,8,8,7,1,Improve
+278,25,3,0.50,Yes,Yes,No,Yes,Yes,139,2,Rarely,Never,Very frequently,Never,Never,Rarely,Never,Rarely,Never,Never,Rarely,Sometimes,Rarely,Rarely,Very frequently,Sometimes,10,2,0,0,Improve
+279,27,3,2.00,Yes,Yes,Yes,Yes,Yes,100,10,Sometimes,Rarely,Very frequently,Never,Never,Sometimes,Very frequently,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Rarely,Sometimes,Sometimes,8,7,7,5,Improve
+280,18,3,5.00,Yes,No,No,Yes,Yes,,2,Rarely,Never,Rarely,Rarely,Never,Rarely,Never,Rarely,Never,Rarely,Sometimes,Very frequently,Rarely,Sometimes,Very frequently,Very frequently,8,8,8,6,Improve
+281,17,1,3.00,Yes,Yes,Yes,Yes,No,120,10,Rarely,Rarely,Never,Sometimes,Never,Sometimes,Very frequently,Never,Rarely,Never,Sometimes,Very frequently,Very frequently,Very frequently,Very frequently,Never,8,10,9,2,Improve
+282,23,6,4.50,Yes,No,No,No,Yes,,2,Sometimes,Rarely,Never,Sometimes,Rarely,Sometimes,Rarely,Rarely,Never,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,6,1,8,4,No effect
+283,40,6,3.00,Yes,No,No,Yes,Yes,178,2,Sometimes,Never,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Rarely,Never,Sometimes,Never,0,4,4,0,Improve
+284,27,3,20.00,Yes,No,No,Yes,Yes,,2,Sometimes,Rarely,Sometimes,Rarely,Never,Rarely,Never,Sometimes,Rarely,Sometimes,Very frequently,Rarely,Never,Rarely,Very frequently,Sometimes,8,10,10,8,No effect
+285,18,3,1.00,No,No,No,Yes,No,100,10,Rarely,Rarely,Never,Rarely,Rarely,Sometimes,Never,Never,Never,Never,Never,Very frequently,Rarely,Sometimes,Sometimes,Rarely,3,2,0,1,No effect
+286,16,3,2.50,No,Yes,Yes,Yes,No,110,12,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Very frequently,Never,Never,Rarely,Very frequently,Sometimes,5,3,3,1,Improve
+287,18,3,1.00,No,No,No,Yes,Yes,108,2,Sometimes,Rarely,Never,Sometimes,Never,Sometimes,Never,Never,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Rarely,8,9,6,1,Improve
+288,23,3,2.00,No,Yes,No,No,Yes,,4,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,10,3,0,10,No effect
+289,15,6,5.00,Yes,Yes,No,Yes,No,161,12,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Very frequently,Rarely,Never,Rarely,Sometimes,Never,6,7,8,2,Improve
+290,20,1,3.00,Yes,Yes,No,Yes,No,200,12,Sometimes,Rarely,Never,Never,Never,Rarely,Sometimes,Never,Never,Rarely,Very frequently,Rarely,Never,Rarely,Very frequently,Sometimes,7,4,7,0,Improve
+291,16,3,3.00,Yes,Yes,No,Yes,No,,2,Never,Rarely,Never,Rarely,Never,Never,Never,Never,Sometimes,Never,Rarely,Rarely,Rarely,Rarely,Very frequently,Rarely,9,8,6,2,Improve
+292,16,3,0.50,No,No,No,No,Yes,156,2,Sometimes,Never,Rarely,Never,Never,Rarely,Rarely,Never,Never,Never,Never,Sometimes,Never,Never,Very frequently,Sometimes,8,0,0,0,Improve
+293,20,1,8.00,Yes,Yes,Yes,Yes,No,120,7,Never,Very frequently,Never,Sometimes,Never,Rarely,Never,Never,Never,Never,Never,Rarely,Rarely,Rarely,Sometimes,Never,8,9,2,5,No effect
+294,33,3,2.00,Yes,No,No,Yes,Yes,,12,Rarely,Rarely,Never,Rarely,Never,Sometimes,Never,Never,Never,Never,Very frequently,Never,Never,Sometimes,Sometimes,Sometimes,7,2,3,0,Improve
+295,22,3,3.00,Yes,Yes,Yes,Yes,Yes,90,2,Never,Very frequently,Rarely,Sometimes,Never,Rarely,Sometimes,Never,Very frequently,Never,Rarely,Sometimes,Very frequently,Sometimes,Very frequently,Never,10,10,4,0,Improve
+296,21,3,3.00,Yes,No,No,Yes,Yes,85,9,Never,Never,Rarely,Never,Never,Very frequently,Rarely,Never,Never,Sometimes,Never,Very frequently,Very frequently,Very frequently,Very frequently,Never,8,8,3,3,Improve
+297,21,1,5.00,Yes,Yes,No,Yes,Yes,171,12,Rarely,Never,Sometimes,Never,Never,Very frequently,Sometimes,Never,Never,Sometimes,Very frequently,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,8,7,7,4,Improve
+298,29,1,1.50,Yes,No,Yes,Yes,Yes,108,2,Rarely,Never,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Never,Rarely,Very frequently,Very frequently,Very frequently,Very frequently,Never,8,7,1,2,Improve
+299,56,6,1.00,Yes,No,No,No,No,105,10,Never,Rarely,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Sometimes,Sometimes,Never,Sometimes,Never,6,5,10,2,No effect
+300,17,3,2.00,Yes,Yes,No,Yes,No,76,10,Sometimes,Never,Never,Never,Never,Rarely,Rarely,Never,Never,Rarely,Never,Very frequently,Rarely,Rarely,Never,Rarely,7,6,0,4,Improve
+301,22,3,1.00,Yes,No,No,No,No,108,10,Rarely,Rarely,Sometimes,Never,Never,Never,Rarely,Never,Never,Never,Never,Very frequently,Never,Never,Rarely,Rarely,7,4,0,0,Improve
+302,26,3,4.00,Yes,No,No,Yes,Yes,140,10,Sometimes,Sometimes,Rarely,Rarely,Never,Sometimes,Never,Rarely,Never,Rarely,Never,Very frequently,Rarely,Rarely,Very frequently,Rarely,8,7,2,10,No effect
+303,30,3,1.00,Yes,No,No,Yes,Yes,200,8,Never,Never,Very frequently,Never,Never,Sometimes,Never,Never,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,4,4,4,0,Improve
+304,49,3,2.00,Yes,No,No,Yes,No,147,14,Rarely,Rarely,Sometimes,Very frequently,Never,Sometimes,Rarely,Never,Never,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Rarely,0,0,2,0,No effect
+305,22,3,2.00,Yes,Yes,Yes,Yes,Yes,120,8,Rarely,Sometimes,Very frequently,Sometimes,Rarely,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,Very frequently,6,4,0,1,Improve
+306,32,3,2.00,No,No,No,Yes,No,158,2,Never,Rarely,Sometimes,Rarely,Never,Sometimes,Never,Never,Never,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Never,4,7,0,0,Improve
+307,32,6,1.00,No,No,No,No,No,110,2,Rarely,Sometimes,Never,Sometimes,Never,Never,Never,Never,Rarely,Never,Sometimes,Very frequently,Rarely,Never,Very frequently,Never,8,4,3,0,No effect
+308,22,4,6.00,Yes,No,No,Yes,No,103,7,Never,Very frequently,Never,Rarely,Never,Sometimes,Never,Never,Rarely,Never,Sometimes,Never,Never,Sometimes,Very frequently,Rarely,5,5,3,3,Improve
+309,17,3,2.00,Yes,No,No,Yes,Yes,93,2,Never,Rarely,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Rarely,Rarely,Rarely,Very frequently,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,0,8,0,0,Improve
+310,21,3,4.00,Yes,Yes,No,Yes,No,62,2,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Rarely,Very frequently,Rarely,Never,Very frequently,Never,7,4,6,1,Improve
+311,17,3,1.50,Yes,No,No,Yes,Yes,180,2,Very frequently,Never,Rarely,Rarely,Never,Never,Never,Never,Very frequently,Rarely,Rarely,Sometimes,Sometimes,Rarely,Very frequently,Rarely,8,7,7,3,No effect
+312,25,3,3.00,Yes,No,No,No,No,150,12,Sometimes,Sometimes,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Very frequently,Sometimes,Sometimes,Never,Very frequently,Sometimes,9,8,6,2,Improve
+313,15,3,4.00,Yes,No,Yes,Yes,No,105,2,Never,Never,Rarely,Never,Never,Rarely,Never,Sometimes,Never,Very frequently,Sometimes,Very frequently,Sometimes,Rarely,Very frequently,Never,8,6,4,0,Improve
+314,13,3,10.00,Yes,No,No,Yes,No,140,11,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,Never,Sometimes,Never,Rarely,Rarely,Very frequently,Never,Rarely,7,2,0,8,Improve
+315,38,3,3.00,Yes,No,No,No,Yes,,2,Very frequently,Rarely,Never,Rarely,Never,Never,Sometimes,Never,Rarely,Never,Very frequently,Sometimes,Rarely,Never,Very frequently,Never,6,7,7,7,No effect
+316,23,1,3.00,No,No,No,Yes,No,161,2,Rarely,Never,Sometimes,Sometimes,Never,Rarely,Never,Never,Never,Rarely,Rarely,Sometimes,Never,Never,Very frequently,Sometimes,7,6,4,2,Improve
+317,17,3,3.00,Yes,No,No,Yes,Yes,120,10,Sometimes,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Rarely,Very frequently,Never,Very frequently,Never,Very frequently,Very frequently,Very frequently,Very frequently,Rarely,1,1,1,0,Improve
+318,59,4,2.00,Yes,No,No,Yes,No,103,10,Rarely,Never,Very frequently,Rarely,Never,Rarely,Sometimes,Rarely,Rarely,Rarely,Never,Very frequently,Very frequently,Rarely,Sometimes,Never,1,1,3,0,Improve
+319,22,3,2.00,Yes,Yes,Yes,Yes,No,72,10,Rarely,Rarely,Never,Rarely,Rarely,Sometimes,Sometimes,Never,Rarely,Rarely,Never,Very frequently,Very frequently,Sometimes,Sometimes,Rarely,2,7,1,2,Improve
+320,17,1,3.00,Yes,No,No,Yes,Yes,113,10,Sometimes,Rarely,Never,Never,Never,Very frequently,Sometimes,Very frequently,Rarely,Never,Never,Very frequently,Rarely,Very frequently,Sometimes,Rarely,6,2,3,1,No effect
+321,27,3,2.00,No,No,No,No,No,120,10,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Very frequently,Never,Sometimes,Sometimes,Rarely,7,7,3,2,No effect
+322,23,3,5.00,Yes,Yes,No,No,No,95,3,Sometimes,Never,Sometimes,Never,Never,Rarely,Rarely,Rarely,Never,Sometimes,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,8,7,0,3,No effect
+323,15,3,6.00,Yes,No,No,No,No,97,2,Rarely,Never,Sometimes,Rarely,Never,Sometimes,Rarely,Never,Never,Rarely,Rarely,Sometimes,Sometimes,Never,Very frequently,Sometimes,8,3,5,2,Improve
+324,22,3,3.00,Yes,Yes,Yes,Yes,No,140,8,Rarely,Rarely,Very frequently,Sometimes,Rarely,Sometimes,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,5,4,2,0,Improve
+325,23,3,5.00,Yes,No,No,Yes,Yes,120,15,Very frequently,Rarely,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Rarely,Rarely,Very frequently,Rarely,Very frequently,Very frequently,Rarely,Very frequently,Very frequently,7,10,10,1,Improve
+326,19,3,5.00,Yes,No,No,Yes,Yes,118,7,Rarely,Very frequently,Never,Very frequently,Sometimes,Rarely,Sometimes,Never,Very frequently,Rarely,Never,Sometimes,Sometimes,Rarely,Sometimes,Never,7,6,8,4,Improve
+327,32,3,6.00,Yes,No,No,No,No,91,2,Never,Rarely,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Never,Never,Sometimes,Rarely,Rarely,Very frequently,Rarely,8,7,0,9,Improve
+328,40,3,6.00,Yes,No,No,Yes,Yes,128,2,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Never,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,10,7,3,3,No effect
+329,21,3,3.00,Yes,No,No,Yes,No,86,7,Never,Very frequently,Rarely,Sometimes,Rarely,Sometimes,Never,Never,Never,Never,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Never,6,5,5,3,Improve
+330,21,3,10.00,Yes,No,No,Yes,Yes,107,2,Rarely,Never,Very frequently,Sometimes,Never,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Sometimes,Rarely,Very frequently,Very frequently,8,7,6,8,No effect
+331,23,3,2.00,Yes,No,No,Yes,Yes,180,3,Sometimes,Never,Very frequently,Never,Never,Rarely,Rarely,Sometimes,Never,Sometimes,Never,Very frequently,Rarely,Sometimes,Sometimes,Very frequently,10,7,7,3,Worsen
+332,21,4,2.00,Yes,No,No,No,Yes,,8,Rarely,Rarely,Very frequently,Rarely,Rarely,Rarely,Never,Never,Never,Sometimes,Rarely,Sometimes,Rarely,Rarely,Sometimes,Very frequently,10,10,5,7,No effect
+333,35,3,3.00,No,Yes,No,Yes,No,,14,Sometimes,Sometimes,Never,Sometimes,Never,Never,Rarely,Never,Never,Rarely,Never,Rarely,Never,Never,Sometimes,Sometimes,8,2,2,8,No effect
+334,18,3,1.50,No,No,No,No,No,150,9,Never,Never,Never,Never,Never,Sometimes,Sometimes,Never,Never,Sometimes,Never,Very frequently,Never,Sometimes,Sometimes,Never,3,7,4,0,Improve
+335,21,6,10.00,Yes,No,No,Yes,No,112,10,Never,Rarely,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Sometimes,Never,9,7,5,5,Improve
+336,22,6,2.00,Yes,No,No,No,Yes,,3,Never,Never,Rarely,Never,Never,Sometimes,Rarely,Never,Rarely,Never,Never,Very frequently,Never,Rarely,Sometimes,Very frequently,5,3,0,0,Improve
+337,23,3,3.00,Yes,Yes,Yes,Yes,Yes,66,2,Rarely,Rarely,Never,Very frequently,Never,Sometimes,Sometimes,Never,Never,Never,Very frequently,Very frequently,Very frequently,Sometimes,Very frequently,Never,10,7,0,10,Improve
+338,13,3,2.50,Yes,No,No,No,No,118,14,Never,Sometimes,Never,Very frequently,Never,Never,Never,Never,Never,Never,Never,Very frequently,Never,Never,Never,Never,8,0,0,3,Improve
+339,19,3,3.00,Yes,No,No,Yes,Yes,110,6,Sometimes,Rarely,Rarely,Sometimes,Never,Rarely,Never,Very frequently,Never,Sometimes,Never,Very frequently,Very frequently,Very frequently,Very frequently,Never,6,0,3,0,Improve
+340,33,4,0.50,Yes,Yes,No,No,No,80,2,Sometimes,Never,Rarely,Never,Never,Never,Rarely,Never,Never,Rarely,Sometimes,Rarely,Never,Never,Sometimes,Rarely,7,9,4,6,Improve
+341,18,3,16.00,Yes,No,Yes,Yes,Yes,90,4,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Rarely,3,2,5,6,Improve
+342,17,4,6.00,Yes,Yes,No,Yes,Yes,120,13,Very frequently,Rarely,Never,Never,Never,Rarely,Sometimes,Rarely,Never,Sometimes,Never,Very frequently,Never,Never,Never,Rarely,4,2,0,0,Improve
+343,16,3,3.00,Yes,No,No,Yes,Yes,100,8,Rarely,Never,Very frequently,Never,Never,Very frequently,Sometimes,Very frequently,Never,Rarely,Sometimes,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,4,2,0,0,Improve
+344,18,4,0.50,No,No,No,Yes,No,66,2,Rarely,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Very frequently,Never,5,3,1,0,No effect
+345,19,3,5.00,Yes,No,No,Yes,Yes,158,6,Rarely,Sometimes,Sometimes,Never,Never,Rarely,Rarely,Very frequently,Rarely,Never,Never,Very frequently,Very frequently,Rarely,Rarely,Rarely,4,2,2,1,Improve
+346,15,4,2.00,No,Yes,No,Yes,Yes,105,11,Very frequently,Sometimes,Never,Very frequently,Sometimes,Very frequently,Sometimes,Sometimes,Never,Very frequently,Sometimes,Rarely,Very frequently,Very frequently,Sometimes,Very frequently,4,0,6,5,No effect
+347,17,3,2.00,Yes,No,No,Yes,Yes,208,10,Never,Never,Never,Never,Never,Rarely,Never,Rarely,Never,Never,Very frequently,Very frequently,Never,Very frequently,Very frequently,Very frequently,7,6,3,1,Improve
+348,25,3,2.00,Yes,No,No,Yes,Yes,91,15,Sometimes,Rarely,Sometimes,Rarely,Never,Very frequently,Very frequently,Rarely,Sometimes,Very frequently,Never,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,7,8,6,2,Improve
+349,24,6,1.50,Yes,No,No,No,Yes,171,3,Sometimes,Rarely,Very frequently,Rarely,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Sometimes,Very frequently,Very frequently,3,4,1,1,Improve
+350,23,3,1.00,Yes,Yes,No,Yes,No,150,4,Rarely,Rarely,Very frequently,Never,Rarely,Never,Very frequently,Rarely,Rarely,Never,Sometimes,Rarely,Sometimes,Never,Very frequently,Sometimes,9,7,2,1,Improve
+351,16,3,10.00,Yes,Yes,No,Yes,Yes,180,8,Rarely,Rarely,Very frequently,Sometimes,Never,Rarely,Sometimes,Rarely,Never,Rarely,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Sometimes,10,9,3,2,Improve
+352,25,4,2.00,Yes,No,No,Yes,Yes,,12,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Sometimes,Never,Rarely,Rarely,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Sometimes,9,9,7,3,Improve
+353,16,3,15.00,Yes,Yes,Yes,Yes,No,85,8,Rarely,Never,Very frequently,Never,Never,Rarely,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Never,Very frequently,Very frequently,Sometimes,8,10,9,2,Improve
+354,20,6,0.50,No,No,No,Yes,Yes,150,12,Sometimes,Rarely,Sometimes,Never,Never,Sometimes,Sometimes,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,8,9,6,4,Improve
+355,17,3,3.00,Yes,No,No,Yes,No,104,12,Never,Rarely,Rarely,Never,Sometimes,Sometimes,Never,Never,Never,Never,Very frequently,Never,Rarely,Sometimes,Very frequently,Never,5,6,9,9,Improve
+356,29,6,2.00,Yes,No,No,Yes,No,,12,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Very frequently,Sometimes,Never,Never,Very frequently,Never,9,3,7,2,Improve
+357,20,3,4.00,Yes,No,No,Yes,No,85,9,Never,Rarely,Very frequently,Rarely,Never,Very frequently,Never,Never,Never,Never,Never,Sometimes,Sometimes,Very frequently,Sometimes,Never,3,2,1,6,Improve
+358,16,3,2.00,Yes,No,No,Yes,No,,14,Never,Never,Never,Very frequently,Never,Rarely,Never,Never,Never,Never,Sometimes,Very frequently,Never,Rarely,Sometimes,Never,7,7,4,0,Improve
+359,21,3,1.00,Yes,No,No,Yes,No,147,2,Rarely,Sometimes,Sometimes,Sometimes,Never,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Very frequently,Never,Sometimes,Very frequently,Very frequently,7,9,1,2,Improve
+360,16,3,24.00,Yes,No,No,Yes,Yes,120,2,Never,Never,Rarely,Never,Never,Never,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,5,1,9,1,Improve
+361,43,3,1.00,Yes,No,No,Yes,No,134,10,Sometimes,Never,Never,Sometimes,Rarely,Sometimes,Rarely,Never,Never,Rarely,Never,Very frequently,Rarely,Rarely,Sometimes,Never,3,3,0,0,Improve
+362,32,2,2.00,Yes,Yes,No,Yes,No,,13,Very frequently,Sometimes,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Very frequently,Very frequently,Sometimes,Rarely,Very frequently,Very frequently,8,7,5,4,Improve
+363,10,4,2.00,Yes,Yes,No,Yes,Yes,112,10,Very frequently,Never,Rarely,Never,Never,Rarely,Rarely,Very frequently,Never,Rarely,Never,Very frequently,Never,Rarely,Never,Very frequently,8,2,1,1,Improve
+364,27,3,3.00,Yes,No,No,Yes,Yes,200,12,Rarely,Rarely,Sometimes,Never,Never,Sometimes,Never,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,Rarely,Very frequently,Very frequently,Very frequently,4,0,0,0,Improve
+365,24,3,3.00,Yes,Yes,No,No,Yes,75,13,Very frequently,Never,Never,Never,Rarely,Rarely,Never,Never,Sometimes,Rarely,Sometimes,Rarely,Never,Rarely,Never,Never,9,6,1,1,Improve
+366,18,3,2.00,Yes,No,No,Yes,Yes,20,9,Rarely,Never,Rarely,Never,Rarely,Very frequently,Rarely,Very frequently,Sometimes,Never,Never,Sometimes,Very frequently,Very frequently,Never,Never,10,7,2,0,Improve
+367,17,1,7.00,Yes,No,No,No,No,140,2,Never,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Very frequently,Never,Never,Very frequently,Sometimes,8,7,7,4,Improve
+368,19,3,6.00,Yes,No,No,Yes,No,111,12,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Very frequently,Sometimes,1,0,0,0,Improve
+369,16,4,3.00,Yes,No,No,Yes,Yes,150,2,Sometimes,Never,Sometimes,Never,Never,Rarely,Rarely,Rarely,Never,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,Sometimes,5,7,1,4,Improve
+370,64,6,5.00,Yes,No,Yes,Yes,No,,2,Sometimes,Rarely,Never,Rarely,Sometimes,Sometimes,Very frequently,Sometimes,Never,Rarely,Sometimes,Rarely,Sometimes,Rarely,Very frequently,Never,7,6,9,2,Improve
+371,33,1,4.00,Yes,Yes,Yes,Yes,Yes,114,15,Sometimes,Rarely,Rarely,Sometimes,Never,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Very frequently,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,8,8,2,2,Improve
+372,32,6,3.00,Yes,Yes,No,No,Yes,93,2,Very frequently,Sometimes,Sometimes,Sometimes,Never,Never,Very frequently,Rarely,Rarely,Never,Very frequently,Rarely,Never,Rarely,Very frequently,Rarely,2,2,8,0,No effect
+373,15,2,2.00,Yes,Yes,No,Yes,No,145,10,Rarely,Sometimes,Never,Never,Never,Never,Never,Rarely,Very frequently,Never,Never,Very frequently,Sometimes,Sometimes,Never,Never,6,0,0,2,Improve
+374,27,4,3.00,Yes,No,No,Yes,Yes,100,12,Very frequently,Very frequently,Never,Rarely,Never,Rarely,Never,Never,Never,Never,Very frequently,Sometimes,Never,Rarely,Very frequently,Rarely,2,0,1,0,Improve
+375,20,6,2.00,Yes,No,No,Yes,No,114,2,Rarely,Rarely,Never,Sometimes,Never,Never,Rarely,Never,Never,Never,Rarely,Sometimes,Rarely,Never,Very frequently,Sometimes,6,2,6,7,No effect
+376,23,6,2.00,Yes,No,No,Yes,Yes,109,10,Rarely,Very frequently,Never,Rarely,Very frequently,Very frequently,Sometimes,Rarely,Never,Rarely,Never,Very frequently,Very frequently,Very frequently,Very frequently,Sometimes,6,1,0,5,Improve
+377,19,1,3.00,No,Yes,No,Yes,No,,13,Very frequently,Rarely,Never,Rarely,Rarely,Sometimes,Rarely,Never,Never,Never,Rarely,Sometimes,Never,Never,Very frequently,Sometimes,7,6,4,0,Improve
+378,12,4,2.00,Yes,Yes,Yes,No,No,,13,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Rarely,Never,Never,Never,Never,0,0,3,0,Improve
+379,16,6,3.00,Yes,Yes,Yes,No,No,72,13,Very frequently,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Very frequently,Never,Never,Never,Rarely,9,7,10,6,No effect
+380,17,6,,No,No,No,No,Yes,89,3,Never,Never,Never,Never,Never,Never,Never,Never,Never,Very frequently,Never,Never,Never,Never,Never,Very frequently,10,0,0,0,No effect
+381,14,3,1.00,Yes,Yes,No,Yes,No,140,10,Rarely,Rarely,Very frequently,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Sometimes,6,6,3,0,Improve
+382,32,3,2.00,Yes,No,No,Yes,No,84,12,Rarely,Rarely,Very frequently,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Sometimes,Very frequently,Sometimes,Rarely,Rarely,Sometimes,Very frequently,4,3,1,6,Improve
+383,20,3,2.00,Yes,Yes,No,No,Yes,132,10,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Rarely,6,2,2,1,No effect
+384,54,6,6.00,Yes,No,No,No,No,,13,Very frequently,Sometimes,Never,Never,Never,Sometimes,Rarely,Rarely,Rarely,Never,Rarely,Sometimes,Sometimes,Rarely,Rarely,Never,2,2,3,2,Improve
+385,18,3,5.00,Yes,No,No,Yes,Yes,124,6,Never,Rarely,Rarely,Never,Never,Rarely,Rarely,Very frequently,Rarely,Rarely,Never,Very frequently,Rarely,Sometimes,Sometimes,Never,7,4,5,6,Improve
+386,14,3,2.00,Yes,Yes,No,Yes,No,181,13,Very frequently,Never,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Sometimes,Sometimes,Never,Rarely,Very frequently,Rarely,7,5,3,2,Improve
+387,13,6,4.00,Yes,Yes,Yes,Yes,No,126,13,Very frequently,Never,Sometimes,Rarely,Never,Never,Rarely,Rarely,Never,Never,Rarely,Very frequently,Never,Never,Sometimes,Sometimes,8,5,10,3,Improve
+388,19,1,8.00,Yes,No,Yes,Yes,No,109,7,Never,Very frequently,Never,Rarely,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Never,Rarely,Sometimes,Rarely,7,5,6,5,Improve
+389,14,3,4.00,Yes,Yes,No,Yes,No,106,13,Very frequently,Never,Rarely,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,6,8,8,2,Improve
+390,14,4,1.50,No,Yes,No,Yes,,140,13,Very frequently,Never,Never,Never,Rarely,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Rarely,Sometimes,1,2,4,3,Improve
+391,18,1,2.00,Yes,Yes,No,Yes,Yes,170,11,Very frequently,Never,Sometimes,Never,Never,Very frequently,Sometimes,Rarely,Very frequently,Sometimes,Rarely,Sometimes,Sometimes,Very frequently,Rarely,Sometimes,3,2,0,2,Improve
+392,15,3,5.00,Yes,No,No,Yes,Yes,87,14,Rarely,Sometimes,Never,Very frequently,Rarely,Sometimes,Never,Never,Never,Sometimes,Never,Never,Never,Sometimes,Rarely,Rarely,6,7,7,4,Improve
+393,24,4,6.00,Yes,Yes,No,No,No,,13,Very frequently,Never,Sometimes,Never,Never,Never,Never,Very frequently,Never,Never,Never,Never,Never,Never,Rarely,Never,6,7,2,0,No effect
+394,17,1,2.00,Yes,No,No,No,Yes,117,10,Rarely,Never,Never,Never,Never,Rarely,Rarely,Never,Never,Sometimes,Rarely,Very frequently,Very frequently,Never,Never,Sometimes,9,8,4,8,Improve
+395,44,3,2.00,No,No,No,Yes,No,105,2,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Rarely,Never,Never,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,Never,7,7,2,1,Improve
+396,23,3,1.00,No,Yes,No,Yes,No,,2,Sometimes,Never,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Sometimes,Never,Never,Never,Very frequently,Never,1,0,1,0,Improve
+397,21,1,1.00,No,No,No,No,No,160,11,Rarely,Rarely,Never,Never,Never,Sometimes,Rarely,Never,Never,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Never,4,3,4,5,Improve
+398,57,6,2.00,No,No,No,Yes,No,,5,Rarely,Sometimes,Never,Never,Rarely,Sometimes,Sometimes,Never,Never,Never,Never,Sometimes,Sometimes,Sometimes,Rarely,Never,2,0,0,0,Improve
+399,23,3,2.00,Yes,Yes,No,Yes,Yes,141,2,Rarely,Rarely,Never,Very frequently,Never,Rarely,Never,Never,Never,Very frequently,Very frequently,Very frequently,Never,Sometimes,Very frequently,Very frequently,0,5,7,0,No effect
+400,18,3,1.00,Yes,Yes,No,No,Yes,105,10,Sometimes,Rarely,Never,Never,Rarely,Never,Rarely,Never,Sometimes,Rarely,Never,Very frequently,Never,Never,Never,Very frequently,8,7,7,0,Improve
+401,26,3,14.00,Yes,No,No,Yes,Yes,158,9,Sometimes,Sometimes,Rarely,Very frequently,Never,Very frequently,Very frequently,Rarely,Rarely,Very frequently,Rarely,Sometimes,Very frequently,Very frequently,Very frequently,Rarely,5,10,8,0,No effect
+402,13,4,3.00,Yes,,Yes,No,No,80,13,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,8,7,9,2,Improve
+403,15,3,3.00,Yes,Yes,Yes,Yes,No,118,13,Very frequently,Never,Never,Never,Never,Never,Never,Rarely,Never,Sometimes,Never,Sometimes,Never,Never,Never,Sometimes,9,6,8,5,Improve
+404,57,4,2.00,Yes,Yes,Yes,Yes,No,125,2,Never,Never,Never,Never,Never,Rarely,Sometimes,Never,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Very frequently,Never,2,2,7,0,No effect
+405,12,3,0.50,Yes,Yes,Yes,Yes,Yes,109,13,Very frequently,Never,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Never,Sometimes,Never,Never,Never,Never,7,8,6,2,Improve
+406,26,3,6.00,Yes,No,No,No,Yes,156,8,Never,Never,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Rarely,Never,Rarely,10,10,8,2,No effect
+407,17,3,1.00,Yes,Yes,No,No,No,105,7,Never,Very frequently,Never,Rarely,Rarely,Never,Rarely,Never,Never,Never,Rarely,Rarely,Rarely,Never,Sometimes,Rarely,8,5,2,3,Improve
+408,17,3,2.00,Yes,Yes,No,Yes,Yes,,13,Very frequently,Never,Rarely,Never,Never,Never,Never,Rarely,Never,Rarely,Rarely,Sometimes,Rarely,Never,Sometimes,Sometimes,7,8,2,5,Improve
+409,69,2,4.00,Yes,Yes,Yes,Yes,Yes,72,13,Very frequently,Sometimes,Never,Sometimes,Sometimes,Rarely,Very frequently,Rarely,Rarely,Rarely,Never,Sometimes,Sometimes,Never,Very frequently,Never,1,1,2,0,Improve
+410,17,3,3.00,Yes,Yes,Yes,Yes,Yes,148,5,Very frequently,Never,Rarely,Never,Sometimes,Very frequently,Very frequently,Very frequently,Sometimes,Never,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Never,9,10,10,3,No effect
+411,32,3,12.00,Yes,Yes,Yes,Yes,Yes,200,4,Never,Never,Sometimes,Rarely,Never,Sometimes,Very frequently,Rarely,Never,Sometimes,Never,Rarely,Sometimes,Rarely,Never,Never,9,4,4,4,Improve
+412,22,4,3.00,No,Yes,No,Yes,No,113,13,Very frequently,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Never,8,2,4,0,No effect
+413,38,3,1.00,No,No,No,Yes,Yes,191,12,Rarely,Never,Never,Sometimes,Never,Never,Rarely,Never,Never,Never,Very frequently,Never,Never,Never,Sometimes,Rarely,1,1,5,1,Improve
+414,18,4,10.00,Yes,No,No,Yes,No,140,8,Never,Never,Very frequently,Sometimes,Never,Sometimes,Never,Never,Never,Sometimes,Never,Very frequently,Very frequently,Very frequently,Never,Never,10,9,9,8,Improve
+415,14,3,5.00,Yes,Yes,No,Yes,Yes,40,13,Very frequently,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Sometimes,Never,Sometimes,Sometimes,Rarely,Rarely,Very frequently,3,0,2,3,Improve
+416,14,6,0.50,Yes,Yes,No,Yes,Yes,173,3,Very frequently,Never,Never,Rarely,Never,Never,Rarely,Sometimes,Rarely,Never,Never,Very frequently,Never,Never,Never,Very frequently,4,0,4,0,Improve
+417,19,3,5.00,Yes,Yes,Yes,Yes,Yes,180,12,Rarely,Rarely,Rarely,Rarely,Never,Rarely,Rarely,Never,Rarely,Sometimes,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Sometimes,2,3,5,2,Improve
+418,20,4,3.00,Yes,Yes,Yes,Yes,No,100,13,Very frequently,Sometimes,Rarely,Sometimes,Rarely,Rarely,Very frequently,Rarely,Rarely,Never,Rarely,Sometimes,Sometimes,Rarely,Rarely,Rarely,2,3,3,0,Improve
+419,18,3,2.00,No,No,No,Yes,No,123,2,Never,Very frequently,Never,Rarely,Rarely,Rarely,Rarely,Never,Never,Never,Sometimes,Very frequently,Never,Sometimes,Sometimes,Sometimes,8,4,3,0,Improve
+420,30,3,13.00,,No,No,Yes,Yes,145,6,Sometimes,Never,Rarely,Sometimes,Never,Sometimes,Sometimes,Very frequently,Very frequently,Rarely,Rarely,Very frequently,Very frequently,Sometimes,Very frequently,Sometimes,10,10,10,7,Improve
+421,31,6,4.00,Yes,Yes,No,Yes,Yes,55,13,Very frequently,Rarely,Never,Rarely,Rarely,Never,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Never,Sometimes,Sometimes,8,8,9,3,Improve
+422,72,3,6.00,Yes,Yes,Yes,No,No,77,2,Never,Sometimes,Never,Never,Never,Never,Very frequently,Never,Sometimes,Never,Never,Rarely,Very frequently,Never,Very frequently,Never,0,1,0,2,Improve
+423,73,2,3.00,Yes,No,No,Yes,Yes,4,5,Sometimes,Very frequently,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Rarely,Very frequently,Never,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Never,5,4,0,1,Improve
+424,16,3,4.00,Yes,No,No,Yes,Yes,150,10,Rarely,Rarely,Sometimes,Sometimes,Rarely,Very frequently,Rarely,Sometimes,Rarely,Sometimes,Rarely,Very frequently,Rarely,Rarely,Rarely,Rarely,7,5,7,8,Improve
+425,19,4,3.00,No,Yes,No,Yes,Yes,73,11,Rarely,Never,Sometimes,Never,Never,Sometimes,Rarely,Never,Never,Rarely,Never,Sometimes,Rarely,Very frequently,Sometimes,Sometimes,3,3,0,0,Improve
+426,16,3,2.00,Yes,Yes,No,No,No,155,13,Very frequently,Rarely,Never,Rarely,Never,Rarely,Rarely,Never,Never,Rarely,Never,Very frequently,Never,Never,Rarely,Rarely,7,5,3,1,Improve
+427,12,3,2.00,Yes,Yes,Yes,Yes,Yes,,13,Very frequently,Rarely,Never,Never,Rarely,Sometimes,Rarely,Rarely,Never,Never,Never,Sometimes,Never,Rarely,Sometimes,Never,8,0,1,6,Improve
+428,39,3,1.00,Yes,No,No,Yes,Yes,89,9,Never,Rarely,Rarely,Sometimes,Never,Very frequently,Rarely,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Sometimes,Very frequently,Very frequently,Never,6,4,1,1,Improve
+429,15,3,6.00,Yes,Yes,No,Yes,Yes,110,6,Sometimes,Never,Rarely,Sometimes,Never,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Rarely,Very frequently,Sometimes,Rarely,Very frequently,Never,8,8,7,10,No effect
+430,14,3,9.00,Yes,No,No,Yes,Yes,140,5,Very frequently,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Very frequently,Rarely,Sometimes,Rarely,Very frequently,Very frequently,Very frequently,Rarely,Rarely,10,8,9,5,Improve
+431,21,3,1.00,No,No,No,No,No,135,7,Never,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,3,0,2,0,Improve
+432,38,1,1.00,Yes,No,No,No,No,125,3,Rarely,Never,Never,Never,Never,Rarely,Sometimes,Rarely,Rarely,Never,Rarely,Sometimes,Rarely,Rarely,Rarely,Very frequently,5,5,7,1,Worsen
+433,23,3,0.50,No,No,Yes,Yes,Yes,110,9,Sometimes,Sometimes,Rarely,Rarely,Rarely,Very frequently,Rarely,Very frequently,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Very frequently,Rarely,Sometimes,7,7,6,5,Improve
+434,16,6,1.00,No,No,No,Yes,No,140,8,Never,Never,Very frequently,Never,Never,Sometimes,Rarely,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,7,4,6,3,Improve
+435,21,1,1.50,Yes,Yes,No,No,No,105,14,Never,Sometimes,Never,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,3,3,1,0,No effect
+436,13,3,6.00,Yes,No,No,Yes,No,112,11,Never,Never,Never,Never,Never,Very frequently,Never,Rarely,Never,Rarely,Never,Rarely,Never,Very frequently,Never,Never,4,0,0,2,Worsen
+437,16,3,4.00,Yes,No,No,Yes,No,96,2,Rarely,Sometimes,Sometimes,Sometimes,Never,Sometimes,Rarely,Sometimes,Never,Very frequently,Very frequently,Very frequently,Never,Never,Very frequently,Sometimes,3,0,6,9,Improve
+438,18,3,6.00,Yes,No,Yes,Yes,No,,2,Sometimes,Rarely,Rarely,Very frequently,Never,Sometimes,Never,Sometimes,Never,Very frequently,Very frequently,Sometimes,Rarely,Sometimes,Very frequently,Very frequently,5,1,6,0,Improve
+439,21,3,4.00,Yes,No,No,Yes,Yes,155,12,Never,Never,Very frequently,Never,Never,Never,Never,Never,Never,Rarely,Sometimes,Never,Never,Never,Very frequently,Very frequently,10,6,8,0,Improve
+440,17,3,1.50,Yes,No,No,Yes,Yes,174,13,Very frequently,Rarely,Never,Rarely,Never,Never,Sometimes,Never,Never,Sometimes,Never,Very frequently,Rarely,Never,Never,Never,7,5,1,2,No effect
+441,24,1,2.00,Yes,No,No,Yes,Yes,93,2,Rarely,Sometimes,Never,Very frequently,Never,Sometimes,Sometimes,Never,Rarely,Sometimes,Never,Rarely,Rarely,Sometimes,Very frequently,Never,7,7,0,4,No effect
+442,14,1,2.00,Yes,No,No,Yes,No,78,10,Rarely,Never,Never,Sometimes,Never,Sometimes,Never,Rarely,Very frequently,Rarely,Rarely,Very frequently,Sometimes,Sometimes,Rarely,Never,6,0,0,0,Improve
+443,25,3,4.00,Yes,No,No,Yes,Yes,,2,Sometimes,Rarely,Rarely,Very frequently,Rarely,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Very frequently,6,2,3,2,Improve
+444,22,3,3.00,Yes,No,No,Yes,Yes,174,15,Rarely,Very frequently,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Very frequently,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,7,6,7,9,Improve
+445,20,6,4.00,Yes,No,No,Yes,Yes,120,2,Rarely,Never,Sometimes,Never,Never,Rarely,Never,Very frequently,Rarely,Rarely,Sometimes,Very frequently,Rarely,Rarely,Very frequently,Rarely,5,7,7,0,No effect
+446,23,3,2.00,Yes,No,No,No,No,75,10,Sometimes,Rarely,Rarely,Sometimes,Never,Very frequently,Sometimes,Never,Never,Never,Never,Very frequently,Very frequently,Very frequently,Sometimes,Sometimes,7,6,4,3,Improve
+447,61,2,2.00,Yes,No,No,Yes,No,94,2,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Never,Never,Sometimes,Sometimes,Rarely,Never,Sometimes,Never,2,2,2,0,Improve
+448,24,3,6.00,Yes,No,No,No,Yes,180,3,Sometimes,Never,Sometimes,Very frequently,Never,Never,Never,Rarely,Never,Rarely,Sometimes,Rarely,Never,Never,Very frequently,Very frequently,9,5,0,7,Improve
+449,34,3,,No,Yes,No,No,Yes,115,2,Rarely,Rarely,Never,Sometimes,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Very frequently,Never,3,7,8,0,Worsen
+450,49,3,1.00,No,No,No,Yes,No,128,10,Sometimes,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Very frequently,Never,Very frequently,Very frequently,Very frequently,Sometimes,Never,4,5,9,1,Improve
+451,33,6,4.00,Yes,Yes,No,Yes,Yes,112,2,Rarely,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Never,Very frequently,Rarely,Sometimes,Rarely,Rarely,Very frequently,Very frequently,1,0,7,0,Improve
+452,22,6,2.00,No,Yes,Yes,No,No,140,12,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Very frequently,Rarely,Rarely,Never,Very frequently,Very frequently,3,2,0,2,No effect
+453,38,3,3.00,Yes,No,No,Yes,Yes,143,12,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Very frequently,Never,Never,Rarely,Sometimes,Never,1,6,1,2,Improve
+454,23,4,4.00,No,No,No,Yes,No,72,9,Rarely,Rarely,Never,Rarely,Never,Very frequently,Rarely,Never,Never,Sometimes,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Rarely,8,10,4,0,No effect
+455,34,6,2.00,No,No,No,No,Yes,100,3,Rarely,Rarely,Rarely,Never,Never,Sometimes,Rarely,Rarely,Never,Rarely,Rarely,Never,Never,Sometimes,Rarely,Very frequently,8,10,10,0,No effect
+456,40,6,3.00,Yes,No,No,Yes,Yes,120,12,Never,Never,Never,Never,Never,Never,Sometimes,Never,Sometimes,Never,Very frequently,Rarely,Rarely,Never,Sometimes,Never,3,0,8,1,No effect
+457,27,3,1.00,No,No,No,Yes,No,,9,Sometimes,Never,Rarely,Never,Never,Very frequently,Rarely,Never,Never,Rarely,Never,Sometimes,Very frequently,Very frequently,Never,Never,3,4,1,0,Improve
+458,54,4,10.00,Yes,No,No,Yes,No,,2,Sometimes,Sometimes,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Rarely,Rarely,Sometimes,Never,Sometimes,Never,2,1,2,2,Improve
+459,16,3,10.00,No,No,No,Yes,No,105,2,Rarely,Very frequently,Never,Very frequently,Rarely,Rarely,Sometimes,Never,Never,Never,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Never,0,0,0,0,No effect
+460,23,6,10.00,Yes,No,No,No,Yes,119,3,Rarely,Never,Sometimes,Sometimes,Never,Rarely,Never,Sometimes,Never,Sometimes,Rarely,Sometimes,Never,Rarely,Sometimes,Very frequently,8,8,5,0,Improve
+461,35,3,4.00,No,No,No,Yes,No,,7,Never,Very frequently,Never,Rarely,Never,Never,Never,Never,Never,Never,Sometimes,Sometimes,Never,Never,Sometimes,Rarely,1,1,1,0,No effect
+462,22,4,4.00,Yes,No,No,Yes,Yes,137,14,Rarely,Sometimes,Very frequently,Very frequently,Never,Sometimes,Sometimes,Never,Rarely,Sometimes,Very frequently,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,8,7,6,2,Improve
+463,41,3,3.00,No,No,No,Yes,Yes,178,12,Very frequently,Rarely,Never,Rarely,Never,Never,Never,Sometimes,Never,Never,Very frequently,Rarely,Never,Rarely,Sometimes,Very frequently,6,5,4,0,No effect
+464,63,3,2.00,Yes,No,No,Yes,No,133,2,Very frequently,Sometimes,Rarely,Very frequently,Never,Rarely,Sometimes,Never,Rarely,Never,Never,Never,Rarely,Never,Very frequently,Never,5,4,6,2,Improve
+465,28,3,1.00,No,Yes,No,Yes,No,72,2,Rarely,Rarely,Never,Rarely,Never,Rarely,Never,Never,Never,Sometimes,Rarely,Sometimes,Never,Rarely,Sometimes,Never,3,1,0,2,No effect
+466,22,3,6.00,Yes,Yes,No,Yes,No,,7,Rarely,Very frequently,Sometimes,Very frequently,Rarely,Sometimes,Sometimes,Never,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,4,8,2,2,Improve
+467,58,4,1.00,Yes,No,No,Yes,No,133,2,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Never,Rarely,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Never,5,6,3,1,Improve
+468,58,4,1.00,Yes,Yes,Yes,Yes,No,80,13,Sometimes,Rarely,Never,Rarely,Sometimes,Rarely,Sometimes,Rarely,Rarely,Never,Never,Rarely,Never,Never,Never,Never,0,0,2,1,Improve
+469,67,6,4.00,Yes,No,No,No,No,146,2,Never,Sometimes,Never,Never,Never,Never,Sometimes,Never,Never,Never,Rarely,Never,Rarely,Never,Very frequently,Never,7,6,7,4,Improve
+470,70,6,2.00,Yes,No,No,No,No,88,7,Sometimes,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,8,5,6,1,Improve
+471,60,4,2.00,Yes,No,No,No,Yes,132,2,Sometimes,Sometimes,Never,Sometimes,Rarely,Never,Rarely,Never,Rarely,Never,Rarely,Sometimes,Sometimes,Rarely,Very frequently,Rarely,4,4,2,0,Improve
+472,15,3,2.00,Yes,Yes,Yes,Yes,No,102,10,Rarely,Rarely,Sometimes,Never,Sometimes,Rarely,Sometimes,Sometimes,Never,Never,Never,Very frequently,Sometimes,Never,Sometimes,Very frequently,9,8,10,9,Improve
+473,18,4,6.00,Yes,No,No,Yes,Yes,91,8,Very frequently,Rarely,Very frequently,Rarely,Sometimes,Very frequently,Sometimes,Never,Sometimes,Very frequently,Sometimes,Very frequently,Very frequently,Very frequently,Sometimes,Very frequently,5,5,7,0,Improve
+474,58,6,3.00,Yes,No,No,Yes,Yes,127,9,Sometimes,Never,Sometimes,Rarely,Sometimes,Very frequently,Very frequently,Never,Sometimes,Very frequently,Never,Rarely,Very frequently,Sometimes,Sometimes,Never,4,6,8,1,Improve
+475,28,6,1.00,Yes,No,No,Yes,Yes,82,15,Sometimes,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,4,8,5,0,Improve
+476,22,3,4.00,Yes,Yes,No,Yes,No,141,15,Rarely,Rarely,Never,Sometimes,Never,Rarely,Sometimes,Never,Never,Very frequently,Rarely,Sometimes,Rarely,Rarely,Very frequently,Never,9,10,6,7,Improve
+477,49,4,0.50,No,No,No,No,No,114,13,Very frequently,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Rarely,Rarely,Never,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Rarely,3,2,2,2,Improve
+478,20,4,8.00,Yes,No,No,Yes,Yes,148,2,Never,Rarely,Rarely,Sometimes,Never,Never,Rarely,Never,Never,Rarely,Sometimes,Rarely,Sometimes,Never,Very frequently,Sometimes,6,2,2,1,Improve
+479,55,4,15.00,Yes,No,No,No,No,156,2,Rarely,Never,Never,Very frequently,Never,Never,Sometimes,Never,Rarely,Never,Never,Rarely,Never,Never,Very frequently,Never,2,0,3,0,No effect
+480,48,3,1.50,Yes,Yes,No,No,No,185,12,Rarely,Never,Rarely,Never,Never,Never,Rarely,Never,Never,Never,Sometimes,Never,Rarely,Never,Rarely,Rarely,10,8,0,4,Improve
+481,14,3,2.00,Yes,Yes,No,Yes,Yes,114,6,Sometimes,Never,Rarely,Never,Never,Sometimes,Sometimes,Very frequently,Never,Sometimes,Never,Rarely,Rarely,Rarely,Never,Rarely,4,4,2,2,Improve
+482,18,3,3.00,Yes,Yes,No,Yes,Yes,120,10,Sometimes,Never,Sometimes,Rarely,Never,Very frequently,Sometimes,Very frequently,Very frequently,Sometimes,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Sometimes,7,8,6,2,Improve
+483,25,3,1.00,Yes,No,No,Yes,Yes,80,10,Very frequently,Rarely,Rarely,Rarely,Never,Sometimes,Sometimes,Never,Never,Rarely,Very frequently,Very frequently,Rarely,Sometimes,Sometimes,Sometimes,7,6,5,5,Improve
+484,71,6,0.25,Yes,No,No,No,Yes,,16,Sometimes,Rarely,Never,Rarely,Sometimes,Never,Never,Never,Sometimes,Never,Never,Rarely,Rarely,Never,Rarely,Never,1,0,0,0,Improve
+485,60,4,1.00,No,Yes,Yes,No,No,,16,Sometimes,Rarely,Never,Never,Very frequently,Rarely,Never,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Never,6,2,8,0,Improve
+486,18,6,1.00,Yes,No,Yes,No,No,116,3,Rarely,Rarely,Sometimes,Sometimes,Never,Rarely,Sometimes,Never,Never,Never,Sometimes,Never,Rarely,Sometimes,Sometimes,Very frequently,4,5,7,0,No effect
+487,19,3,5.00,Yes,No,No,No,Yes,99,9,Rarely,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Never,Rarely,Very frequently,Never,Rarely,Sometimes,Sometimes,Very frequently,Rarely,Sometimes,10,7,0,0,Improve
+488,74,6,1.00,No,No,No,No,No,129,10,Rarely,Very frequently,Never,Sometimes,Sometimes,Never,Rarely,Never,Sometimes,Never,Never,Very frequently,Sometimes,Never,Sometimes,Never,4,2,1,0,Improve
+489,36,2,1.00,Yes,No,No,No,No,131,9,Sometimes,Never,Never,Never,Never,Very frequently,Never,Never,Never,Never,Never,Very frequently,Sometimes,Sometimes,Sometimes,Never,7,6,2,3,Improve
+490,14,3,7.00,Yes,No,No,Yes,Yes,95,15,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,Very frequently,Never,Very frequently,Never,Sometimes,Never,Rarely,3,2,8,0,Improve
+491,20,3,3.00,No,Yes,Yes,Yes,Yes,80,9,Very frequently,Rarely,Rarely,Sometimes,Never,Very frequently,Sometimes,Never,Sometimes,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Very frequently,Rarely,10,7,4,3,Improve
+492,15,3,3.00,Yes,No,No,Yes,Yes,204,6,Rarely,Never,Rarely,Never,Never,Very frequently,Sometimes,Very frequently,Never,Never,Never,Rarely,Sometimes,Very frequently,Sometimes,Very frequently,4,0,0,0,No effect
+493,19,6,7.00,Yes,No,No,No,No,128,2,Sometimes,Rarely,Never,Rarely,Never,Never,Sometimes,Never,Never,Never,Rarely,Never,Never,Never,Very frequently,Sometimes,7,7,0,0,Improve
+494,29,3,8.00,Yes,No,No,No,Yes,140,8,Rarely,Sometimes,Very frequently,Sometimes,Never,Sometimes,Rarely,Never,Never,Rarely,Sometimes,Never,Never,Very frequently,Very frequently,Very frequently,6,7,4,1,Improve
+495,24,3,2.00,Yes,No,No,Yes,No,159,12,Never,Rarely,Very frequently,Sometimes,Very frequently,Never,Never,Never,Never,Rarely,Very frequently,Rarely,Never,Never,Sometimes,Rarely,7,6,2,7,Improve
+496,18,1,2.00,Yes,No,No,Yes,Yes,104,10,Rarely,Rarely,Rarely,Rarely,Rarely,Very frequently,Rarely,Rarely,Sometimes,Rarely,Sometimes,Very frequently,Very frequently,Very frequently,Very frequently,Never,6,5,8,0,Improve
+497,21,3,2.00,Yes,No,No,Yes,Yes,97,2,Sometimes,Never,Never,Sometimes,Never,Rarely,Rarely,Rarely,Never,Rarely,Never,Very frequently,Rarely,Rarely,Very frequently,Rarely,10,10,2,3,Improve
+498,19,3,2.00,Yes,No,No,Yes,Yes,80,6,Rarely,Never,Rarely,Never,Never,Sometimes,Sometimes,Very frequently,Never,Sometimes,Never,Sometimes,Very frequently,Rarely,Sometimes,Sometimes,7,6,5,1,Improve
+499,25,3,4.00,No,No,No,Yes,Yes,134,3,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Rarely,Very frequently,Never,Never,Very frequently,Sometimes,Never,Never,Very frequently,3,0,0,0,Improve
+500,28,3,8.00,Yes,No,No,Yes,Yes,,2,Rarely,Rarely,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Rarely,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,8,2,1,0,No effect
+501,27,6,4.00,Yes,No,No,Yes,No,135,11,Rarely,Never,Never,Never,Never,Sometimes,Rarely,Sometimes,Never,Sometimes,Never,Rarely,Never,Very frequently,Rarely,Rarely,7,6,6,5,Improve
+502,60,3,1.00,No,No,No,Yes,No,129,2,Sometimes,Rarely,Never,Sometimes,Never,Never,Sometimes,Never,Never,Never,Never,Rarely,Rarely,Never,Sometimes,Never,3,2,5,0,No effect
+503,25,4,5.00,No,No,No,No,Yes,,12,Rarely,Rarely,Never,Rarely,Never,Never,Never,Never,Never,Never,Very frequently,Sometimes,Never,Never,Sometimes,Rarely,8,2,1,0,Improve
+504,60,6,2.00,Yes,No,No,No,No,,2,Rarely,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Rarely,Sometimes,Never,Very frequently,Never,7,7,2,4,Improve
+505,43,6,1.00,No,No,No,No,No,110,7,Never,Very frequently,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Sometimes,Never,Never,Rarely,Never,5,1,1,1,Improve
+506,51,6,5.00,Yes,No,No,No,No,180,2,Sometimes,Rarely,Never,Sometimes,Never,Never,Rarely,Never,Never,Never,Sometimes,Rarely,Rarely,Never,Very frequently,Rarely,1,2,1,0,No effect
+507,63,4,8.00,Yes,No,No,Yes,No,70,2,Sometimes,Sometimes,Rarely,Rarely,Never,Never,Rarely,Never,Rarely,Rarely,Never,Sometimes,Rarely,Never,Sometimes,Never,2,1,2,2,Improve
+508,64,4,2.00,Yes,No,No,No,No,,13,Very frequently,Never,Rarely,Very frequently,Never,Rarely,Rarely,Never,Rarely,Rarely,Never,Very frequently,Rarely,Never,Rarely,Never,5,2,4,0,Improve
+509,22,3,2.00,Yes,No,No,No,No,,10,Sometimes,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Never,Rarely,Never,Very frequently,Rarely,Very frequently,Rarely,Sometimes,Sometimes,Rarely,7,2,1,0,Improve
+510,24,4,1.00,Yes,No,No,No,Yes,103,14,Sometimes,Never,Very frequently,Very frequently,Rarely,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Rarely,Sometimes,Rarely,Sometimes,Very frequently,Very frequently,10,10,7,8,Improve
+511,19,3,8.00,Yes,No,No,Yes,Yes,99,10,Rarely,Sometimes,Sometimes,Very frequently,Never,Very frequently,Never,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Sometimes,Very frequently,Very frequently,Rarely,7,2,1,6,Improve
+512,56,1,8.00,Yes,No,No,Yes,No,117,10,Sometimes,Rarely,Rarely,Sometimes,Never,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Never,6,4,1,0,Improve
+513,20,3,1.00,No,No,No,Yes,No,102,8,Rarely,Never,Very frequently,Never,Never,Sometimes,Never,Rarely,Rarely,Very frequently,Rarely,Very frequently,Never,Never,Never,Never,5,9,6,1,Improve
+514,19,6,1.00,Yes,Yes,No,No,No,127,3,Very frequently,Never,Never,Rarely,Rarely,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Never,Sometimes,Sometimes,Rarely,Rarely,Very frequently,7,5,7,0,Improve
+515,20,3,8.00,Yes,No,No,Yes,Yes,93,4,Rarely,Sometimes,Rarely,Very frequently,Never,Sometimes,Very frequently,Rarely,Sometimes,Very frequently,Never,Sometimes,Rarely,Sometimes,Sometimes,Rarely,7,6,7,4,Improve
+516,60,3,2.00,Yes,No,No,No,No,,2,Rarely,Rarely,Never,Rarely,Rarely,Never,Rarely,Never,Never,Never,Rarely,Sometimes,Sometimes,Never,Very frequently,Never,0,0,0,0,Improve
+517,65,1,6.00,Yes,No,No,No,Yes,146,5,Rarely,Rarely,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Never,Never,Sometimes,Very frequently,Never,Sometimes,Never,3,5,0,2,No effect
+518,28,3,3.00,No,Yes,Yes,Yes,Yes,,12,Very frequently,Never,Rarely,Sometimes,Rarely,Rarely,Very frequently,Rarely,Sometimes,Very frequently,Very frequently,Rarely,Sometimes,Never,Very frequently,Very frequently,8,8,5,2,Improve
+519,18,6,4.00,Yes,Yes,No,No,Yes,150,8,Very frequently,Never,Very frequently,Never,Never,Never,Rarely,Never,Never,Rarely,Never,Sometimes,Never,Rarely,Rarely,Sometimes,8,7,10,6,Improve
+520,42,3,2.00,Yes,No,No,No,Yes,85,2,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Sometimes,Rarely,Rarely,Sometimes,Rarely,2,4,5,2,Improve
+521,80,6,3.00,Yes,Yes,No,No,No,122,13,Very frequently,Rarely,Never,Rarely,Never,Never,Rarely,Rarely,Never,Rarely,Rarely,Sometimes,Never,Never,Never,Sometimes,7,3,9,2,Improve
+522,22,6,4.00,No,No,Yes,Yes,No,,10,Rarely,Sometimes,Very frequently,Sometimes,Never,Rarely,Never,Never,Never,Never,Rarely,Very frequently,Very frequently,Rarely,Sometimes,Never,8,7,4,4,Improve
+523,56,6,2.00,No,No,No,Yes,Yes,120,4,Sometimes,Never,Sometimes,Sometimes,Rarely,Never,Very frequently,Never,Rarely,Rarely,Rarely,Sometimes,Rarely,Never,Sometimes,Rarely,0,0,0,5,No effect
+524,20,4,1.00,Yes,No,No,No,Yes,120,10,Never,Never,Sometimes,Never,Never,Rarely,Sometimes,Very frequently,Rarely,Rarely,Never,Very frequently,Sometimes,Rarely,Rarely,Never,8,6,9,8,Improve
+525,15,3,1.00,Yes,No,No,Yes,Yes,150,3,Never,Rarely,Sometimes,Never,Never,Sometimes,Rarely,Never,Never,Very frequently,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Very frequently,4,2,3,2,Improve
+526,67,6,1.00,No,No,No,No,No,,2,Sometimes,Sometimes,Never,Sometimes,Sometimes,Sometimes,Sometimes,Never,Sometimes,Never,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Never,3,2,2,2,No effect
+527,57,3,2.00,Yes,Yes,No,No,No,174,16,Sometimes,Never,Never,Rarely,Very frequently,Never,Sometimes,Never,Rarely,Never,Never,Sometimes,Sometimes,Never,Rarely,Never,6,4,10,0,Improve
+528,22,1,7.00,Yes,No,No,Yes,Yes,112,10,Never,Never,Sometimes,Rarely,Never,Very frequently,Never,Very frequently,Sometimes,Never,Never,Very frequently,Very frequently,Very frequently,Sometimes,Rarely,8,8,10,0,Improve
+529,17,3,5.00,Yes,No,No,Yes,Yes,180,10,Never,Never,Sometimes,Never,Never,Sometimes,Never,Very frequently,Rarely,Rarely,Never,Very frequently,Very frequently,Sometimes,Rarely,Rarely,5,5,5,5,Improve
+530,19,3,3.00,Yes,No,No,No,No,121,2,Never,Very frequently,Never,Rarely,Sometimes,Never,Never,Never,Never,Never,Rarely,Very frequently,Never,Sometimes,Very frequently,Sometimes,10,8,6,2,No effect
+531,50,6,1.00,No,No,No,No,No,98,2,Sometimes,Sometimes,Never,Never,Never,Very frequently,Sometimes,Rarely,Rarely,Never,Rarely,Very frequently,Sometimes,Sometimes,Very frequently,Never,0,0,7,0,Improve
+532,24,3,6.00,Yes,Yes,Yes,Yes,Yes,118,2,Never,Rarely,Sometimes,Very frequently,Never,Rarely,Rarely,Sometimes,Never,Rarely,Very frequently,Sometimes,Never,Rarely,Very frequently,Sometimes,8,8,10,0,Improve
+533,67,1,2.00,No,No,No,Yes,No,,2,Sometimes,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Sometimes,Sometimes,Never,Never,Sometimes,Never,8,2,0,0,No effect
+534,18,6,3.00,Yes,Yes,Yes,Yes,No,135,12,Sometimes,Sometimes,Never,Rarely,Rarely,Rarely,Never,Never,Never,Never,Very frequently,Never,Rarely,Rarely,Rarely,Never,7,8,4,10,Improve
+535,20,3,1.50,Yes,No,No,No,No,,7,Rarely,Very frequently,Sometimes,Never,Never,Sometimes,Sometimes,Sometimes,Rarely,Never,Never,Sometimes,Never,Sometimes,Sometimes,Never,0,2,0,1,Improve
+536,15,3,4.00,Yes,Yes,No,Yes,No,105,10,Never,Rarely,Never,Never,Sometimes,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,3,5,4,0,Improve
+537,17,3,2.00,Yes,Yes,No,Yes,Yes,122,10,Rarely,Never,Never,Rarely,Never,Sometimes,Never,Very frequently,Rarely,Never,Never,Very frequently,Never,Sometimes,Never,Never,5,2,3,1,Improve
+538,32,4,2.00,Yes,No,No,Yes,No,,14,Never,Never,Sometimes,Sometimes,Never,Sometimes,Sometimes,Never,Rarely,Sometimes,Never,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,6,1,0,0,Improve
+539,18,3,2.00,No,No,No,Yes,Yes,136,11,Rarely,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Never,Rarely,Sometimes,Rarely,Very frequently,Rarely,Very frequently,6,3,4,2,Improve
+540,18,3,1.00,Yes,Yes,Yes,Yes,No,165,2,Sometimes,Never,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Rarely,Very frequently,Sometimes,Never,Rarely,Very frequently,Rarely,5,6,8,2,Improve
+541,18,3,3.00,Yes,No,No,Yes,Yes,130,6,Sometimes,Never,Never,Never,Never,Sometimes,Never,Very frequently,Never,Rarely,Never,Sometimes,Very frequently,Rarely,Sometimes,Rarely,8,4,7,5,Improve
+542,19,3,3.00,Yes,No,No,Yes,No,,10,Never,Never,Very frequently,Never,Never,Very frequently,Rarely,Rarely,Rarely,Rarely,Rarely,Very frequently,Sometimes,Very frequently,Rarely,Sometimes,1,1,2,3,Improve
+543,18,3,2.00,No,Yes,No,Yes,No,115,2,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Never,8,3,1,3,Improve
+544,17,6,6.00,Yes,No,Yes,Yes,No,140,11,Rarely,Never,Rarely,Never,Sometimes,Very frequently,Sometimes,Never,Never,Sometimes,Never,Sometimes,Sometimes,Very frequently,Rarely,Never,3,3,0,0,Improve
+545,34,3,3.00,Yes,No,No,No,Yes,95,13,Very frequently,Never,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Sometimes,Rarely,Never,Never,Sometimes,Sometimes,0,0,0,0,No effect
+546,18,4,3.00,Yes,No,No,No,No,150,10,Rarely,Rarely,Sometimes,Rarely,Never,Very frequently,Rarely,Rarely,Never,Rarely,Rarely,Very frequently,Rarely,Very frequently,Rarely,Sometimes,5,4,2,0,No effect
+547,18,3,2.00,Yes,No,No,Yes,No,97,5,Never,Never,Never,Never,Sometimes,Very frequently,Rarely,Never,Rarely,Rarely,Never,Sometimes,Very frequently,Very frequently,Rarely,Never,2,4,0,0,Improve
+548,22,6,2.00,Yes,No,No,No,No,,3,Sometimes,Rarely,Rarely,Never,Very frequently,Rarely,Sometimes,Rarely,Rarely,Rarely,Never,Rarely,Never,Never,Never,Very frequently,4,6,0,2,Improve
+549,18,3,2.00,Yes,No,Yes,Yes,No,,10,Sometimes,Rarely,Sometimes,Never,Never,Rarely,Sometimes,Rarely,Never,Sometimes,Never,Very frequently,Rarely,Never,Sometimes,Sometimes,5,7,2,0,Improve
+550,19,3,3.00,Yes,No,No,Yes,Yes,122,2,Sometimes,Rarely,Rarely,Sometimes,Rarely,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Sometimes,Very frequently,Never,4,0,7,0,No effect
+551,25,6,4.00,Yes,No,No,Yes,Yes,150,10,Rarely,Never,Sometimes,Never,Never,Very frequently,Never,Rarely,Rarely,Rarely,Sometimes,Very frequently,Rarely,Very frequently,Very frequently,Rarely,10,8,6,2,No effect
+552,17,3,2.00,Yes,Yes,Yes,Yes,No,,5,Very frequently,Rarely,Never,Rarely,Rarely,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Very frequently,Very frequently,Rarely,Sometimes,Never,3,3,1,0,Improve
+553,25,3,5.00,Yes,Yes,No,Yes,No,125,2,Sometimes,Sometimes,Rarely,Never,Never,Sometimes,Never,Rarely,Never,Rarely,Sometimes,Sometimes,Never,Sometimes,Very frequently,Sometimes,8,7,2,1,Improve
+554,22,1,0.50,No,No,No,No,No,113,9,Sometimes,Never,Never,Never,Never,Very frequently,Rarely,Never,Rarely,Never,Never,Sometimes,Sometimes,Very frequently,Never,Never,7,7,0,1,No effect
+555,18,3,2.00,Yes,No,No,No,No,96,5,Sometimes,Rarely,Never,Never,Never,Sometimes,Rarely,Never,Never,Very frequently,Rarely,Very frequently,Very frequently,Sometimes,Very frequently,Rarely,3,3,0,3,Improve
+556,16,3,5.00,Yes,Yes,Yes,Yes,Yes,167,4,Sometimes,Rarely,Never,Never,Rarely,Rarely,Very frequently,Very frequently,Rarely,Never,Never,Very frequently,Rarely,Very frequently,Sometimes,Never,7,7,8,4,Improve
+557,21,3,1.00,,,,Yes,,,6,Rarely,Rarely,Sometimes,Rarely,Never,Very frequently,Rarely,Very frequently,Rarely,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Very frequently,Rarely,4,5,2,5,No effect
+558,17,3,5.00,Yes,No,No,Yes,Yes,95,12,Never,Sometimes,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Very frequently,Rarely,Never,Never,Very frequently,Sometimes,4,1,0,0,Improve
+559,24,3,7.00,Yes,No,No,Yes,Yes,137,14,Sometimes,Rarely,Rarely,Very frequently,Never,Rarely,Rarely,Never,Rarely,Sometimes,Rarely,Very frequently,Rarely,Rarely,Very frequently,Very frequently,10,10,8,10,Improve
+560,19,3,10.00,Yes,No,No,Yes,Yes,110,5,Never,Rarely,Very frequently,Never,Never,Sometimes,Never,Very frequently,Never,Never,Never,Rarely,Very frequently,Rarely,Never,Never,7,2,1,5,Improve
+561,16,3,3.00,Yes,Yes,No,No,Yes,174,6,Rarely,Never,Sometimes,Never,Never,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Never,Very frequently,Rarely,Sometimes,Never,Never,10,2,7,8,Improve
+562,18,4,2.00,No,No,No,No,Yes,150,8,Sometimes,Rarely,Very frequently,Never,Rarely,Rarely,Rarely,Never,Never,Sometimes,Never,Very frequently,Rarely,Sometimes,Rarely,Very frequently,9,0,5,10,Improve
+563,18,3,3.00,No,Yes,Yes,Yes,No,210,12,Never,Never,Never,Rarely,Never,Sometimes,Very frequently,Never,Rarely,Never,Very frequently,Rarely,Sometimes,Sometimes,Sometimes,Rarely,9,6,8,5,Improve
+564,18,4,4.00,Yes,No,No,Yes,Yes,93,9,Never,Never,Rarely,Never,Never,Very frequently,Sometimes,Sometimes,Rarely,Sometimes,Never,Very frequently,Very frequently,Very frequently,Sometimes,Rarely,2,7,1,1,Improve
+565,19,3,5.00,No,Yes,Yes,Yes,Yes,90,2,Rarely,Never,Never,Rarely,Never,Sometimes,Very frequently,Never,Very frequently,Rarely,Sometimes,Rarely,Sometimes,Rarely,Very frequently,Rarely,10,8,7,0,Improve
+566,18,3,4.00,Yes,No,No,Yes,Yes,129,5,Rarely,Rarely,Rarely,Never,Never,Very frequently,Sometimes,Never,Never,Rarely,Never,Very frequently,Very frequently,Very frequently,Very frequently,Rarely,6,4,1,6,Improve
+567,16,3,3.00,Yes,No,No,Yes,No,112,10,Very frequently,Never,Never,Never,Never,Rarely,Rarely,Never,Never,Never,Never,Very frequently,Very frequently,Never,Sometimes,Never,3,4,6,8,Improve
+568,68,2,1.00,Yes,No,No,No,No,8,16,Very frequently,Never,Never,Sometimes,Very frequently,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,10,10,10,0,Improve
+569,22,3,5.00,Yes,No,No,Yes,Yes,138,8,Never,Never,Very frequently,Never,Never,Very frequently,Never,Never,Never,Very frequently,Never,Very frequently,Very frequently,Very frequently,Very frequently,Sometimes,1,0,0,1,No effect
+570,16,3,7.00,Yes,No,No,Yes,No,999999999,3,Never,Rarely,Sometimes,Rarely,Never,Rarely,Rarely,Never,Never,Never,Very frequently,Sometimes,Never,Very frequently,Rarely,Sometimes,4,8,8,4,No effect
+571,19,6,6.00,Yes,No,No,No,No,124,10,Sometimes,Rarely,Rarely,Rarely,Very frequently,Sometimes,Rarely,Sometimes,Very frequently,Rarely,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Sometimes,6,6,0,0,Improve
+572,21,3,1.00,No,No,No,Yes,Yes,81,5,Never,Never,Never,Never,Rarely,Very frequently,Never,Never,Never,Never,Never,Very frequently,Very frequently,Sometimes,Never,Never,3,0,0,0,Improve
+573,13,4,1.00,Yes,No,No,Yes,No,,3,Never,Never,Sometimes,Never,Never,Rarely,Sometimes,Never,Never,Sometimes,Rarely,Rarely,Rarely,Never,Sometimes,Very frequently,4,3,4,0,Improve
+574,53,2,4.00,Yes,No,No,Yes,Yes,153,5,Rarely,Sometimes,Rarely,Rarely,Rarely,Very frequently,Rarely,Sometimes,Rarely,Never,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Rarely,1,0,0,0,Improve
+575,26,6,1.00,No,No,No,No,No,192,10,Never,Rarely,Sometimes,Sometimes,Never,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Never,Very frequently,Rarely,Rarely,Sometimes,Never,6,4,0,0,Improve
+576,29,3,4.00,Yes,No,No,Yes,No,120,13,Very frequently,Never,Very frequently,Never,Never,Never,Sometimes,Never,Rarely,Rarely,Never,Sometimes,Never,Never,Rarely,Rarely,5,6,7,7,No effect
+577,18,3,3.00,Yes,,No,Yes,Yes,89,3,Sometimes,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Very frequently,Never,Rarely,Sometimes,Never,Never,Very frequently,7,0,3,1,No effect
+578,29,3,2.00,Yes,No,No,No,No,,10,Never,Never,Rarely,Rarely,Never,Very frequently,Never,Never,Never,Sometimes,Rarely,Very frequently,Never,Very frequently,Never,Very frequently,10,8,8,9,Improve
+579,14,3,3.00,Yes,No,No,Yes,No,76,2,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Never,Never,Rarely,Sometimes,Never,Never,Very frequently,Sometimes,2,6,3,0,Worsen
+580,27,3,1.00,Yes,No,No,Yes,Yes,119,10,Rarely,Rarely,Rarely,Never,Rarely,Sometimes,Rarely,Very frequently,Never,Sometimes,Never,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,8,3,3,3,Improve
+581,18,3,4.00,Yes,Yes,No,Yes,Yes,169,5,Rarely,Sometimes,Very frequently,Never,Rarely,Very frequently,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,Rarely,Sometimes,3,0,3,4,Improve
+582,26,3,8.00,No,No,No,No,Yes,172,2,Never,Sometimes,Sometimes,Very frequently,Never,Very frequently,Rarely,Very frequently,Never,Never,Sometimes,Sometimes,Very frequently,Very frequently,Very frequently,Very frequently,8,10,7,3,No effect
+583,59,6,1.00,No,Yes,No,No,No,79,2,Rarely,Never,Never,Rarely,Sometimes,Never,Rarely,Never,Rarely,Never,Never,Rarely,Rarely,Never,Very frequently,Never,1,0,0,1,Improve
+584,30,3,8.00,Yes,Yes,Yes,Yes,No,112,2,Sometimes,Sometimes,Never,Rarely,Never,Sometimes,Sometimes,Never,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Very frequently,Never,8,6,6,8,Improve
+585,27,3,1.00,Yes,No,No,Yes,Yes,130,10,Never,Rarely,Sometimes,Never,Never,Sometimes,Never,Rarely,Sometimes,Never,Never,Very frequently,Sometimes,Sometimes,Sometimes,Never,6,3,1,7,Improve
+586,18,1,1.00,No,Yes,No,Yes,Yes,116,11,Rarely,Never,Never,Never,Never,Sometimes,Never,Never,Rarely,Sometimes,Never,Sometimes,Never,Very frequently,Never,Sometimes,2,0,3,0,Improve
+587,23,6,10.00,Yes,Yes,Yes,No,Yes,165,12,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Very frequently,Never,Never,Never,Sometimes,Never,0,0,0,0,No effect
+588,18,3,10.00,Yes,Yes,Yes,Yes,No,110,2,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Very frequently,Sometimes,Sometimes,Very frequently,Never,10,10,6,6,Improve
+589,40,3,5.00,Yes,No,No,Yes,Yes,174,2,Sometimes,Sometimes,Sometimes,Sometimes,Never,Very frequently,Rarely,Rarely,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,Very frequently,Very frequently,Rarely,3,0,0,1,Improve
+590,24,3,10.00,Yes,No,No,Yes,Yes,180,2,Sometimes,Never,Never,Rarely,Never,Never,Never,Never,Never,Rarely,Sometimes,Sometimes,Never,Never,Very frequently,Sometimes,7,9,10,0,Improve
+591,23,3,2.00,Yes,Yes,No,Yes,Yes,171,13,Very frequently,Never,Rarely,Rarely,Never,Never,Sometimes,Never,Rarely,Sometimes,Never,Very frequently,Rarely,Never,Very frequently,Never,8,7,6,2,Improve
+592,56,6,6.00,Yes,No,No,No,No,,5,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,2,0,10,10,Improve
+593,29,6,2.00,Yes,No,No,Yes,No,70,5,Rarely,Never,Very frequently,Never,Never,Very frequently,Rarely,Rarely,Sometimes,Sometimes,Never,Very frequently,Very frequently,Rarely,Never,Sometimes,10,7,9,3,No effect
+594,15,3,4.00,Yes,No,No,Yes,Yes,140,12,Rarely,Never,Sometimes,Rarely,Never,Rarely,Never,Rarely,Never,Never,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,10,7,3,2,Improve
+595,16,6,3.00,Yes,No,No,No,Yes,120,10,Never,Never,Never,Never,Never,Very frequently,Never,Very frequently,Never,Never,Never,Very frequently,Sometimes,Never,Never,Never,6,0,0,0,Improve
+596,20,3,1.00,No,No,No,Yes,Yes,130,2,Sometimes,Sometimes,Rarely,Very frequently,Rarely,Rarely,Very frequently,Never,Never,Never,Never,Very frequently,Rarely,Rarely,Very frequently,Never,10,4,8,0,Improve
+597,21,4,2.00,Yes,Yes,No,No,Yes,,3,Sometimes,Never,Rarely,Sometimes,Rarely,Never,Rarely,Never,Sometimes,Sometimes,Rarely,Very frequently,Sometimes,Never,Very frequently,Very frequently,2,2,0,0,Improve
+598,22,3,6.00,Yes,No,No,Yes,No,63,14,Never,Rarely,Sometimes,Very frequently,Never,Rarely,Rarely,Never,Sometimes,Sometimes,Never,Rarely,Rarely,Rarely,Very frequently,Sometimes,8,7,7,3,Improve
+599,18,3,8.00,Yes,Yes,Yes,Yes,Yes,56,16,Rarely,Never,Rarely,Never,Very frequently,Sometimes,Sometimes,Never,Sometimes,Very frequently,Never,Sometimes,Very frequently,Sometimes,Never,Sometimes,3,0,2,2,Improve
+600,22,3,2.00,No,No,No,No,No,119,2,Rarely,Never,Never,Never,Never,Rarely,Rarely,Rarely,Never,Never,Very frequently,Very frequently,Never,Never,Very frequently,Sometimes,10,5,2,8,Improve
+601,21,3,8.00,Yes,No,No,Yes,Yes,162,15,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,Very frequently,6,5,9,8,Improve
+602,31,3,1.00,Yes,No,No,Yes,No,,2,Very frequently,Rarely,Sometimes,Rarely,Never,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Never,Very frequently,Very frequently,Very frequently,9,10,10,6,No effect
+603,32,3,8.00,Yes,No,No,Yes,No,101,2,Never,Never,Never,Rarely,Never,Sometimes,Never,Never,Never,Never,Sometimes,Rarely,Rarely,Sometimes,Very frequently,Sometimes,7,6,5,8,Improve
+604,20,4,4.00,Yes,Yes,No,Yes,No,180,12,Rarely,Sometimes,Never,Never,Never,Never,Rarely,Never,Never,Never,Very frequently,Never,Never,Never,Very frequently,Sometimes,5,2,1,6,Improve
+605,22,4,8.00,Yes,Yes,No,Yes,No,110,12,Sometimes,Never,Sometimes,Rarely,Rarely,Rarely,Sometimes,Never,Never,Never,Very frequently,Rarely,Rarely,Never,Very frequently,Very frequently,10,7,8,6,Improve
+606,49,6,8.00,Yes,Yes,Yes,No,No,68,13,Very frequently,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Rarely,Never,Never,Rarely,Never,4,8,9,1,Improve
+607,17,3,12.00,Yes,Yes,No,Yes,No,172,1,Very frequently,Never,Rarely,Rarely,Sometimes,Very frequently,Never,Rarely,Very frequently,Rarely,Sometimes,Rarely,Never,Very frequently,Very frequently,Sometimes,0,3,9,5,No effect
+608,42,3,2.00,Yes,No,No,Yes,Yes,85,12,Sometimes,Rarely,Never,Never,Rarely,Rarely,Never,Sometimes,Sometimes,Rarely,Very frequently,Very frequently,Sometimes,Never,Very frequently,Very frequently,7,8,5,3,Improve
+609,18,3,6.00,Yes,No,No,Yes,Yes,90,8,Rarely,Never,Very frequently,Never,Never,Sometimes,Rarely,Very frequently,Very frequently,Very frequently,Never,Very frequently,Very frequently,Very frequently,Rarely,Sometimes,0,2,1,5,Improve
+610,26,3,2.00,Yes,No,No,Yes,Yes,128,8,Rarely,Sometimes,Very frequently,Sometimes,Never,Sometimes,Rarely,Never,Sometimes,Rarely,Rarely,Sometimes,Rarely,Sometimes,Very frequently,Never,2,2,0,3,No effect
+611,18,3,4.00,Yes,Yes,No,No,Yes,135,5,Sometimes,Rarely,Sometimes,Never,Sometimes,Sometimes,Never,Very frequently,Very frequently,Rarely,Never,Sometimes,Very frequently,Very frequently,Never,Rarely,2,0,0,0,No effect
+612,17,3,10.00,Yes,No,Yes,Yes,Yes,150,6,Rarely,Sometimes,Rarely,Rarely,Never,Very frequently,Never,Very frequently,Rarely,Sometimes,Very frequently,Very frequently,Sometimes,Very frequently,Very frequently,Sometimes,10,3,0,4,Improve
+613,24,3,8.00,Yes,No,No,Yes,No,81,4,Very frequently,Never,Rarely,Never,Never,Very frequently,Very frequently,Never,Rarely,Very frequently,Never,Rarely,Sometimes,Sometimes,Very frequently,Rarely,2,2,4,0,No effect
+614,30,6,,No,No,No,No,No,,12,Rarely,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Rarely,Rarely,Rarely,10,10,10,9,Improve
+615,21,3,2.00,No,No,No,No,No,170,10,Rarely,Never,Never,Never,Rarely,Sometimes,Never,Never,Never,Sometimes,Sometimes,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,5,6,3,4,No effect
+616,23,3,6.00,Yes,No,No,Yes,Yes,92,14,Sometimes,Sometimes,Rarely,Sometimes,Never,Sometimes,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,3,7,7,4,No effect
+617,46,6,1.00,No,No,No,No,No,120,2,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Sometimes,Never,0,0,1,0,No effect
+618,30,1,3.00,Yes,No,No,Yes,Yes,121,8,Rarely,Never,Very frequently,Never,Rarely,Sometimes,Never,Very frequently,Never,Never,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Never,7,5,7,7,Improve
+619,18,3,2.00,Yes,Yes,No,Yes,No,90,9,Never,Never,Never,Never,Sometimes,Very frequently,Never,Never,Never,Sometimes,Never,Sometimes,Very frequently,Very frequently,Never,Never,5,4,3,7,Improve
+620,31,3,2.00,Yes,No,No,No,Yes,155,12,Rarely,Sometimes,Never,Very frequently,Never,Rarely,Rarely,Never,Never,Never,Very frequently,Very frequently,Very frequently,Rarely,Very frequently,Sometimes,7,4,8,8,Improve
+621,16,3,3.00,Yes,Yes,No,Yes,Yes,115,6,Rarely,Never,Rarely,Never,Never,Very frequently,Very frequently,Very frequently,Never,Sometimes,Never,Very frequently,Very frequently,Very frequently,Very frequently,Sometimes,2,7,0,0,Improve
+622,42,6,0.25,No,Yes,No,Yes,Yes,150,13,Very frequently,Rarely,Never,Never,Never,Never,Sometimes,Never,Rarely,Never,Rarely,Sometimes,Rarely,Rarely,Sometimes,Never,7,9,4,5,Improve
+623,21,3,1.00,Yes,No,No,Yes,Yes,,3,Very frequently,Very frequently,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Never,Never,Very frequently,Rarely,Sometimes,Never,Sometimes,Sometimes,Very frequently,0,6,0,4,Improve
+624,16,6,4.00,Yes,No,No,Yes,Yes,624,8,Sometimes,Never,Very frequently,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Sometimes,4,7,1,3,Improve
+625,19,6,,No,No,No,Yes,Yes,,13,Very frequently,Rarely,Sometimes,Rarely,Rarely,Sometimes,Rarely,Rarely,Rarely,Rarely,Never,Rarely,Rarely,Rarely,Rarely,Rarely,0,0,0,0,Improve
+626,34,4,2.00,No,No,No,Yes,No,136,12,Sometimes,Rarely,Never,Sometimes,Never,Rarely,Rarely,Rarely,Rarely,Never,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Never,5,9,9,6,Improve
+627,20,3,2.00,Yes,Yes,Yes,Yes,Yes,,11,Sometimes,Never,Rarely,Never,Never,Sometimes,Sometimes,Never,Never,Rarely,Never,Sometimes,Sometimes,Very frequently,Sometimes,Sometimes,7,5,1,3,Improve
+628,21,4,2.00,Yes,No,No,Yes,No,121,10,Sometimes,Never,Very frequently,Rarely,Never,Rarely,Rarely,Rarely,Sometimes,Rarely,Sometimes,Very frequently,Very frequently,Rarely,Sometimes,Sometimes,5,4,10,7,No effect
+629,21,6,0.10,Yes,Yes,No,No,Yes,,14,Sometimes,Never,Never,Very frequently,Sometimes,Rarely,Never,Never,Never,Never,Never,Rarely,Never,Rarely,Sometimes,Never,7,5,3,1,No effect
+630,27,4,3.00,Yes,No,No,No,No,113,10,Rarely,Rarely,Rarely,Rarely,Never,Very frequently,Rarely,Rarely,Rarely,Rarely,Rarely,Very frequently,Very frequently,Sometimes,Sometimes,Rarely,7,2,0,1,Improve
+631,56,6,2.00,Yes,No,No,No,Yes,220,2,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Very frequently,Never,Never,Rarely,Very frequently,Never,3,3,1,8,No effect
+632,18,3,6.00,Yes,No,No,Yes,Yes,80,14,Never,Very frequently,Very frequently,Very frequently,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,8,6,0,2,Improve
+633,21,3,12.00,Yes,No,No,Yes,Yes,160,2,Sometimes,Rarely,Very frequently,Rarely,Rarely,Sometimes,Sometimes,Rarely,Never,Sometimes,Very frequently,Sometimes,Rarely,Sometimes,Very frequently,Rarely,7,10,4,7,Worsen
+634,26,3,3.00,No,No,No,Yes,No,140,12,Rarely,Very frequently,Never,Very frequently,Rarely,Sometimes,Sometimes,Never,Never,Rarely,Very frequently,Rarely,Rarely,Sometimes,Very frequently,Rarely,1,3,10,0,No effect
+635,20,3,1.00,Yes,No,No,Yes,No,121,10,Rarely,Never,Never,Very frequently,Never,Rarely,Rarely,Rarely,Never,Sometimes,Rarely,Very frequently,Rarely,Rarely,Very frequently,Never,3,2,3,0,Improve
+636,37,3,2.00,Yes,No,No,Yes,No,100,2,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Never,8,10,10,2,Worsen
+637,21,1,1.00,Yes,No,No,No,No,105,2,Sometimes,Never,Rarely,Never,Never,Rarely,Rarely,Never,Never,Never,Rarely,Sometimes,Never,Never,Very frequently,Rarely,5,1,1,9,Improve
+638,26,3,5.00,Yes,Yes,No,Yes,Yes,92,14,Sometimes,Rarely,Rarely,Very frequently,Never,Very frequently,Very frequently,Never,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Very frequently,Very frequently,Rarely,4,7,6,0,No effect
+639,19,3,4.00,No,No,No,No,Yes,120,10,Never,Never,Sometimes,Never,Never,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Never,Very frequently,Sometimes,Sometimes,Sometimes,Sometimes,9,6,3,0,No effect
+640,22,3,4.00,Yes,No,No,Yes,No,93,2,Never,Rarely,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Sometimes,Very frequently,Rarely,Rarely,Very frequently,Very frequently,10,7,4,4,Improve
+641,43,6,,No,No,No,No,No,,2,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Sometimes,Rarely,Rarely,Sometimes,Never,1,2,2,0,No effect
+642,25,3,3.00,Yes,No,No,No,No,110,2,Never,Rarely,Never,Sometimes,Never,Never,Never,Never,Never,Sometimes,Never,Rarely,Never,Never,Very frequently,Sometimes,8,9,4,10,Improve
+643,33,3,2.00,Yes,No,No,Yes,Yes,134,12,Rarely,Never,Never,Sometimes,Never,Sometimes,Rarely,Never,Never,Never,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Sometimes,4,8,0,0,Improve
+644,24,6,12.00,Yes,Yes,Yes,Yes,No,136,2,Sometimes,Rarely,Never,Sometimes,Rarely,Rarely,Rarely,Never,Rarely,Never,Very frequently,Very frequently,Rarely,Rarely,Very frequently,Very frequently,7,10,0,8,Improve
+645,21,6,0.50,No,No,No,No,No,108,10,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,Sometimes,Never,Never,Never,Never,10,2,1,10,Worsen
+646,28,6,1.00,Yes,No,No,No,No,147,2,Rarely,Rarely,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Sometimes,Never,2,1,2,2,Improve
+647,23,4,3.00,Yes,No,No,Yes,Yes,93,5,Very frequently,Never,Never,Very frequently,Never,Very frequently,Very frequently,Never,Rarely,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Rarely,3,10,0,0,No effect
+648,20,1,12.00,No,No,No,Yes,Yes,98,2,Never,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Never,Never,Sometimes,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,7,10,2,0,Improve
+649,17,3,4.00,Yes,Yes,Yes,No,No,120,12,Never,Rarely,Very frequently,Never,Never,Never,Rarely,Never,Never,Rarely,Very frequently,Sometimes,Never,Never,Very frequently,Sometimes,4,2,0,0,Improve
+650,19,3,3.00,Yes,No,No,No,No,130,5,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Never,Never,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,4,2,5,3,Improve
+651,32,3,1.00,Yes,No,No,Yes,Yes,218,12,Sometimes,Sometimes,Sometimes,Sometimes,Never,Rarely,Never,Very frequently,Rarely,Never,Very frequently,Rarely,Rarely,Sometimes,Very frequently,Rarely,6,8,7,0,Improve
+652,18,4,4.00,No,No,No,Yes,Yes,123,14,Sometimes,Very frequently,Sometimes,Very frequently,Rarely,Sometimes,Sometimes,Never,Never,Sometimes,Very frequently,Very frequently,Rarely,Rarely,Very frequently,Very frequently,8,6,4,0,Improve
+653,20,6,2.00,Yes,Yes,Yes,Yes,No,135,2,Sometimes,Rarely,Never,Rarely,Never,Never,Rarely,Rarely,Never,Never,Never,Very frequently,Never,Never,Very frequently,Sometimes,2,2,0,0,No effect
+654,27,3,3.00,Yes,No,No,Yes,Yes,105,2,Rarely,Never,Very frequently,Rarely,Never,Rarely,Rarely,Never,Never,Very frequently,Very frequently,Rarely,Rarely,Rarely,Very frequently,Very frequently,8,7,9,3,Improve
+655,15,3,3.00,Yes,Yes,No,No,,132,2,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Very frequently,Never,Never,Never,Very frequently,Rarely,4,3,5,0,No effect
+656,26,3,1.00,Yes,No,No,Yes,Yes,,2,Rarely,Rarely,Sometimes,Sometimes,Never,Never,Never,Never,Rarely,Very frequently,Rarely,Very frequently,Rarely,Rarely,Very frequently,Sometimes,6,1,0,4,No effect
+657,24,3,2.00,Yes,No,No,Yes,Yes,115,10,Never,Never,Never,Never,Never,Sometimes,Rarely,Rarely,Never,Rarely,Never,Very frequently,Very frequently,Sometimes,Rarely,Rarely,6,6,3,6,Improve
+658,20,3,1.00,Yes,No,No,Yes,Yes,120,6,Sometimes,Never,Rarely,Never,Sometimes,Never,Rarely,Very frequently,Never,Sometimes,Never,Very frequently,Sometimes,Never,Rarely,Never,8,7,1,1,No effect
+659,21,4,0.50,Yes,No,No,Yes,Yes,,10,Never,Rarely,Never,Rarely,Never,Rarely,Rarely,Rarely,Never,Sometimes,Never,Very frequently,Rarely,Rarely,Sometimes,Rarely,5,3,4,1,Improve
+660,16,3,2.00,Yes,No,No,No,No,149,3,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Rarely,Never,Very frequently,6,2,4,3,Improve
+661,21,3,11.00,Yes,Yes,Yes,Yes,Yes,125,12,Rarely,Rarely,Sometimes,Rarely,Rarely,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Very frequently,Very frequently,Very frequently,5,6,6,0,Improve
+662,27,3,10.00,Yes,Yes,Yes,Yes,Yes,132,4,Very frequently,Never,Never,Very frequently,Rarely,Rarely,Very frequently,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,6,10,8,1,Improve
+663,17,3,5.00,Yes,Yes,No,Yes,No,110,2,Very frequently,Rarely,Rarely,Sometimes,Rarely,Very frequently,Very frequently,Never,Rarely,Very frequently,Sometimes,Sometimes,Very frequently,Very frequently,Very frequently,Sometimes,7,3,9,7,Improve
+664,21,3,1.50,Yes,Yes,No,Yes,Yes,110,13,Very frequently,Rarely,Very frequently,Very frequently,Sometimes,Sometimes,Very frequently,Never,Rarely,Sometimes,Rarely,Very frequently,Rarely,Sometimes,Sometimes,Sometimes,4,6,0,0,No effect
+665,20,3,2.00,Yes,No,No,Yes,Yes,148,2,Rarely,Rarely,Rarely,Rarely,Never,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Very frequently,Very frequently,Sometimes,Sometimes,Very frequently,Rarely,7,9,7,0,Improve
+666,17,3,2.00,Yes,No,No,Yes,Yes,116,14,Very frequently,Sometimes,Never,Very frequently,Sometimes,Rarely,Very frequently,Never,Sometimes,Sometimes,Never,Very frequently,Rarely,Never,Sometimes,Rarely,9,4,0,1,Improve
+667,17,3,3.00,Yes,Yes,No,Yes,No,120,2,Sometimes,Sometimes,Sometimes,Never,Never,Never,Never,Rarely,Never,Rarely,Very frequently,Very frequently,Never,Rarely,Very frequently,Never,1,5,6,4,No effect
+668,21,3,3.00,No,No,No,Yes,Yes,145,11,Sometimes,Never,Never,Rarely,Never,Very frequently,Never,Never,Never,Sometimes,Rarely,Sometimes,Sometimes,Very frequently,Rarely,Sometimes,9,7,7,5,Improve
+669,24,4,1.00,No,No,No,Yes,Yes,122,4,Rarely,Never,Sometimes,Rarely,Never,Never,Sometimes,Rarely,Never,Rarely,Rarely,Sometimes,Rarely,Never,Sometimes,Very frequently,3,2,1,0,No effect
+670,17,4,2.00,No,No,Yes,Yes,No,,2,Sometimes,Sometimes,Sometimes,Very frequently,Rarely,Sometimes,Sometimes,Never,Never,Never,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,Sometimes,5,10,2,7,No effect
+671,26,3,3.00,Yes,Yes,Yes,Yes,Yes,90,4,Rarely,Rarely,Rarely,Rarely,Never,Sometimes,Very frequently,Never,Sometimes,Rarely,Very frequently,Rarely,Sometimes,Rarely,Very frequently,Rarely,6,8,0,0,Improve
+672,36,4,3.00,Yes,No,No,No,Yes,105,7,Very frequently,Very frequently,Sometimes,Never,Never,Rarely,Never,Very frequently,Sometimes,Never,Never,Rarely,Sometimes,Never,Never,Never,1,0,1,0,Improve
+673,17,4,3.00,Yes,No,No,No,No,122,2,Rarely,Rarely,Never,Rarely,Never,Rarely,Rarely,Never,Never,Rarely,Very frequently,Sometimes,Never,Sometimes,Very frequently,Very frequently,6,3,6,0,Improve
+674,18,3,4.00,No,No,No,Yes,Yes,80,5,Rarely,Never,Rarely,Never,Sometimes,Very frequently,Never,Very frequently,Never,Rarely,Never,Very frequently,Very frequently,Very frequently,Never,Never,8,7,2,6,Improve
+675,16,3,5.00,Yes,Yes,Yes,Yes,Yes,129,12,Sometimes,Never,Never,Rarely,Never,Rarely,Sometimes,Never,Never,Rarely,Very frequently,Sometimes,Never,Sometimes,Very frequently,Sometimes,7,4,8,0,Improve
+676,18,3,1.00,No,No,No,No,Yes,100,6,Never,Never,Rarely,Never,Never,Very frequently,Never,Very frequently,Never,Sometimes,Never,Sometimes,Sometimes,Rarely,Rarely,Never,5,1,4,0,Improve
+677,27,3,8.00,Yes,No,No,Yes,No,132,12,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,Never,Never,Very frequently,Very frequently,Very frequently,Rarely,Sometimes,Never,2,6,9,1,No effect
+678,28,3,4.00,Yes,No,No,Yes,Yes,178,9,Rarely,Sometimes,Sometimes,Rarely,Never,Very frequently,Never,Never,Very frequently,Sometimes,Rarely,Very frequently,Rarely,Very frequently,Sometimes,Rarely,8,5,3,8,Improve
+679,48,6,5.00,Yes,No,Yes,Yes,Yes,,2,Very frequently,Sometimes,Sometimes,Very frequently,Never,Sometimes,Rarely,Never,Rarely,Never,Rarely,Rarely,Rarely,Rarely,Very frequently,Rarely,3,3,0,0,Improve
+680,18,1,5.00,Yes,Yes,No,Yes,Yes,73,1,Very frequently,Sometimes,Rarely,Never,Never,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,Never,Very frequently,Sometimes,Rarely,Sometimes,Never,10,6,0,0,Improve
+681,19,3,3.00,Yes,No,No,No,Yes,115,11,Never,Never,Rarely,Rarely,Never,Sometimes,Never,Rarely,Never,Very frequently,Sometimes,Very frequently,Sometimes,Very frequently,Sometimes,Sometimes,7,5,3,3,Improve
+682,18,1,2.00,Yes,No,No,Yes,No,80,5,Never,Never,Never,Never,Never,Sometimes,Never,Very frequently,Never,Never,Never,Very frequently,Very frequently,Very frequently,Never,Never,7,5,5,5,Improve
+683,21,4,4.00,Yes,No,No,Yes,Yes,137,2,Sometimes,Very frequently,Rarely,Very frequently,Never,Sometimes,Never,Never,Never,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Very frequently,Rarely,4,8,2,3,Improve
+684,18,3,7.00,Yes,No,No,Yes,Yes,,9,Very frequently,Rarely,Never,Never,Rarely,Very frequently,Very frequently,Rarely,Never,Sometimes,Never,Sometimes,Sometimes,Sometimes,Rarely,Rarely,3,1,0,3,Improve
+685,21,6,1.00,Yes,Yes,No,No,No,92,13,Very frequently,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,3,0,0,5,Improve
+686,18,3,2.00,Yes,No,No,Yes,Yes,,11,Rarely,Never,Rarely,Never,Never,Sometimes,Rarely,Rarely,Never,Sometimes,Never,Sometimes,Rarely,Very frequently,Never,Rarely,5,8,7,4,Improve
+687,18,6,1.00,Yes,No,No,No,No,120,13,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Never,Rarely,Rarely,Rarely,Rarely,Rarely,2,0,0,5,No effect
+688,18,6,1.00,No,Yes,No,No,No,117,13,Very frequently,Never,Sometimes,Never,Never,Sometimes,Rarely,Never,Never,Never,Never,Sometimes,Never,Rarely,Never,Rarely,7,0,0,0,No effect
+689,18,3,4.00,Yes,No,No,No,No,,5,Never,Rarely,Never,Never,Never,Very frequently,Never,Never,Never,Very frequently,Never,Sometimes,Very frequently,Sometimes,Never,Never,8,0,0,2,No effect
+690,20,3,6.00,Yes,No,No,Yes,Yes,89,5,Rarely,Never,Never,Rarely,Never,Sometimes,Never,Sometimes,Sometimes,Sometimes,Never,Very frequently,Very frequently,Very frequently,Never,Rarely,4,1,1,0,Improve
+691,19,3,3.00,Yes,No,No,Yes,No,115,9,Sometimes,Never,Rarely,Never,Never,Very frequently,Rarely,Rarely,Never,Sometimes,Never,Very frequently,Very frequently,Very frequently,Never,Rarely,3,8,0,2,Improve
+692,17,3,4.00,Yes,No,No,Yes,No,144,9,Sometimes,Never,Never,Never,Never,Very frequently,Never,Never,Never,Very frequently,Never,Sometimes,Never,Very frequently,Never,Never,7,0,2,2,Improve
+693,23,3,4.00,Yes,No,No,Yes,Yes,105,3,Rarely,Rarely,Very frequently,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Very frequently,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Very frequently,10,8,10,0,Improve
+694,18,4,1.00,Yes,Yes,Yes,Yes,No,114,10,Never,Rarely,Never,Sometimes,Rarely,Rarely,Never,Sometimes,Never,Sometimes,Never,Very frequently,Rarely,Sometimes,Sometimes,Never,7,1,1,1,Improve
+695,19,3,2.00,Yes,Yes,No,Yes,Yes,145,10,Rarely,Never,Sometimes,Never,Never,Never,Never,Sometimes,Never,Never,Rarely,Very frequently,Never,Rarely,Sometimes,Sometimes,5,9,1,7,No effect
+696,89,3,24.00,Yes,Yes,Yes,No,No,143,11,Never,Never,Rarely,Rarely,Never,Very frequently,Sometimes,Never,Never,Rarely,Rarely,Rarely,Sometimes,Very frequently,Rarely,Never,0,0,0,0,No effect
+697,20,3,5.00,Yes,Yes,Yes,Yes,Yes,128,5,Very frequently,Sometimes,Never,Sometimes,Never,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,Never,Very frequently,Very frequently,Very frequently,Very frequently,Sometimes,10,6,3,8,Improve
+698,16,3,3.00,No,Yes,No,Yes,Yes,90,2,Rarely,Never,Never,Rarely,Never,Sometimes,Sometimes,Never,Sometimes,Never,Never,Never,Sometimes,Sometimes,Very frequently,Never,7,3,3,5,Improve
+699,17,3,4.00,Yes,Yes,Yes,Yes,Yes,110,7,Sometimes,Very frequently,Never,Never,Never,Rarely,Sometimes,Very frequently,Rarely,Sometimes,Never,Very frequently,Rarely,Rarely,Sometimes,Never,2,0,0,2,Improve
+700,16,3,9.00,Yes,No,No,No,Yes,130,12,Rarely,Never,Never,Rarely,Never,Never,Never,Rarely,Rarely,Never,Very frequently,Sometimes,Rarely,Rarely,Very frequently,Never,10,10,10,8,Improve
+701,20,4,1.00,Yes,No,No,No,Yes,,10,Sometimes,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Never,Never,Rarely,Rarely,Very frequently,Rarely,Sometimes,Rarely,Very frequently,8,9,6,5,Worsen
+702,30,4,1.00,Yes,Yes,No,Yes,Yes,115,2,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Never,Sometimes,Sometimes,Very frequently,Rarely,Rarely,Very frequently,Sometimes,9,7,8,4,Improve
+703,37,3,2.00,Yes,No,No,Yes,No,186,14,Sometimes,Sometimes,Never,Sometimes,Never,Rarely,Sometimes,Never,Never,Never,Rarely,Sometimes,Rarely,Rarely,Sometimes,Sometimes,6,4,5,0,Improve
+704,44,4,1.50,No,No,No,No,No,99,14,Rarely,Very frequently,Never,Very frequently,Rarely,Sometimes,Never,Never,Never,Never,Never,Rarely,Rarely,Sometimes,Sometimes,Never,8,5,9,4,Improve
+705,21,3,2.00,Yes,Yes,No,Yes,Yes,150,12,Never,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Never,Very frequently,Rarely,Never,Sometimes,Very frequently,Rarely,3,7,0,0,Improve
+706,19,3,4.00,Yes,Yes,No,Yes,No,149,10,Sometimes,Sometimes,Never,Rarely,Never,Never,Never,Never,Never,Sometimes,Never,Very frequently,Never,Never,Never,Never,9,1,0,9,Improve
+707,23,3,1.00,Yes,Yes,No,Yes,Yes,,2,Rarely,Rarely,Sometimes,Sometimes,Never,Sometimes,Rarely,Rarely,Never,Sometimes,Sometimes,Very frequently,Sometimes,Sometimes,Very frequently,Very frequently,8,6,1,4,Improve
+708,26,3,1.00,No,No,No,Yes,No,120,7,Sometimes,Very frequently,Sometimes,Rarely,Never,Rarely,Never,Never,Never,Never,Rarely,Sometimes,Never,Never,Sometimes,Rarely,4,1,1,6,Improve
+709,18,3,3.00,Yes,No,No,Yes,Yes,140,3,Sometimes,Never,Never,Never,Never,Rarely,Sometimes,Never,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Very frequently,6,5,3,1,No effect
+710,35,3,4.00,Yes,Yes,Yes,Yes,No,90,9,Sometimes,Rarely,Rarely,Sometimes,Never,Very frequently,Very frequently,Never,Sometimes,Very frequently,Rarely,Very frequently,Very frequently,Very frequently,Sometimes,Very frequently,7,8,6,5,Improve
+711,16,3,8.00,Yes,Yes,Yes,Yes,No,120,2,Very frequently,Never,Rarely,Sometimes,Never,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Never,Very frequently,Sometimes,8,9,5,10,Improve
+712,19,3,5.00,Yes,No,No,Yes,Yes,210,12,Never,Never,Very frequently,Never,Never,Rarely,Never,Never,Never,Never,Very frequently,Rarely,Never,Rarely,Very frequently,Sometimes,8,6,7,0,Improve
+713,23,6,3.00,Yes,No,No,No,No,,2,Never,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,Rarely,Never,Sometimes,Rarely,Never,Very frequently,Never,10,5,2,0,Improve
+714,17,4,8.00,Yes,No,No,Yes,Yes,95,10,Rarely,Never,Very frequently,Never,Never,Sometimes,Rarely,Never,Never,Very frequently,Never,Very frequently,Never,Rarely,Rarely,Very frequently,5,2,4,7,No effect
+715,29,1,1.00,No,No,No,Yes,No,163,7,Sometimes,Very frequently,Never,Sometimes,Sometimes,Sometimes,Rarely,Never,Rarely,Never,Rarely,Sometimes,Rarely,Rarely,Very frequently,Never,9,3,2,0,No effect
+716,21,3,4.00,Yes,Yes,Yes,No,No,97,10,Rarely,Sometimes,Never,Sometimes,Sometimes,Rarely,Sometimes,Never,Never,Never,Never,Sometimes,Sometimes,Rarely,Sometimes,Never,4,6,3,4,Improve
+717,17,3,1.00,No,No,No,Yes,Yes,137,12,Sometimes,Never,Never,Rarely,Never,Rarely,Rarely,Rarely,Sometimes,Rarely,Very frequently,Sometimes,Never,Rarely,Very frequently,Rarely,9,8,4,0,Improve
+718,23,3,2.00,No,No,No,Yes,Yes,,2,Rarely,Never,Rarely,Rarely,Never,Sometimes,Never,Rarely,Rarely,Rarely,Very frequently,Sometimes,Sometimes,Sometimes,Very frequently,Never,5,7,10,2,No effect
+719,17,3,1.00,Yes,Yes,No,Yes,Yes,70,12,Rarely,Never,Rarely,Sometimes,Never,Never,Never,Never,Very frequently,Very frequently,Very frequently,Sometimes,Never,Never,Very frequently,Very frequently,8,3,9,2,No effect
+720,22,3,3.00,Yes,No,No,Yes,Yes,150,3,Rarely,Rarely,Sometimes,Sometimes,Never,Rarely,Sometimes,Rarely,Rarely,Rarely,Sometimes,Very frequently,Rarely,Rarely,Sometimes,Very frequently,10,10,6,8,Improve
+721,17,3,5.00,Yes,No,No,Yes,No,168,9,Rarely,Sometimes,Very frequently,Never,Sometimes,Very frequently,Never,Sometimes,Never,Sometimes,Rarely,Very frequently,Very frequently,Very frequently,Rarely,Rarely,7,7,5,5,Improve
+722,19,3,5.00,Yes,Yes,No,Yes,Yes,163,10,Very frequently,Sometimes,Rarely,Never,Rarely,Rarely,Rarely,Very frequently,Sometimes,Very frequently,Rarely,Very frequently,Rarely,Rarely,Sometimes,Rarely,10,8,1,0,Improve
+723,19,3,4.00,Yes,No,No,Yes,Yes,140,10,Sometimes,Rarely,Sometimes,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Sometimes,Very frequently,Sometimes,Sometimes,Sometimes,Sometimes,8,6,2,0,Improve
+724,16,3,6.00,Yes,No,No,Yes,Yes,105,10,Rarely,Rarely,Sometimes,Rarely,Never,Very frequently,Sometimes,Very frequently,Very frequently,Rarely,Never,Very frequently,Very frequently,Very frequently,Never,Never,10,7,6,10,Improve
+725,19,3,6.00,Yes,No,No,Yes,Yes,78,10,Rarely,Rarely,Rarely,Never,Never,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Never,Very frequently,Rarely,Rarely,Rarely,Sometimes,6,6,8,0,Improve
+726,13,3,1.00,Yes,No,No,Yes,No,128,3,Rarely,Sometimes,Never,Rarely,Never,Very frequently,Rarely,Rarely,Rarely,Very frequently,Very frequently,Very frequently,Never,Sometimes,Sometimes,Very frequently,10,10,8,4,Worsen
+727,18,1,18.00,Yes,No,No,Yes,No,90,8,Sometimes,Rarely,Very frequently,Never,Rarely,Sometimes,Sometimes,Never,Never,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,9,8,5,10,Improve
+728,26,4,1.00,Yes,No,No,Yes,Yes,136,12,Sometimes,Rarely,Sometimes,Very frequently,Never,Never,Rarely,Never,Never,Rarely,Very frequently,Rarely,Never,Never,Never,Rarely,0,0,0,0,No effect
+729,14,6,7.00,Yes,Yes,No,Yes,No,108,7,Rarely,Very frequently,Sometimes,Sometimes,Very frequently,Sometimes,Never,Never,Never,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Very frequently,Rarely,7,3,1,2,Improve
+730,21,6,0.50,No,No,No,Yes,No,95,10,Never,Rarely,Sometimes,Never,Never,Sometimes,Rarely,Sometimes,Never,Very frequently,Never,Very frequently,Sometimes,Sometimes,Very frequently,Never,6,2,2,0,Improve
+731,21,3,2.00,Yes,No,No,Yes,Yes,147,5,Sometimes,Never,Sometimes,Rarely,Never,Never,Sometimes,Very frequently,Never,Sometimes,Rarely,Sometimes,Very frequently,Sometimes,Sometimes,Sometimes,7,6,4,6,Improve
+732,17,3,2.00,Yes,Yes,No,Yes,Yes,120,2,Very frequently,Rarely,Never,Sometimes,Never,Sometimes,Rarely,Never,Sometimes,Rarely,Rarely,Very frequently,Never,Rarely,Very frequently,Never,7,6,0,9,Improve
+733,18,3,1.00,Yes,Yes,No,Yes,Yes,160,10,Rarely,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Never,Very frequently,Never,Never,Sometimes,Sometimes,3,2,2,5,Improve
+734,19,6,6.00,Yes,No,Yes,Yes,No,120,11,Rarely,Sometimes,Sometimes,Rarely,Rarely,Very frequently,Rarely,Rarely,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Rarely,2,2,2,2,Improve
+735,19,3,5.00,Yes,Yes,No,No,No,170,13,Very frequently,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,2,3,2,1,Improve
+736,29,4,2.00,Yes,No,No,Yes,Yes,98,9,Sometimes,Rarely,Very frequently,Sometimes,Rarely,Very frequently,Very frequently,Sometimes,Never,Rarely,Never,Sometimes,Very frequently,Very frequently,Very frequently,Rarely,2,2,2,5,Improve

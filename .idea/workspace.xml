@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4384f06-9bb8-4053-8e75-e6522d25fe8f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/DE - 101 Guide.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module01/DE - 101 Lab 1.1/Excel Dashboard sample.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module01/DE - 101 Lab 1.1/Sample - Superstore - Dashboard.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module01/DE - 101 Lab 1.1/Sample - Superstore.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module01/DE - 101 Lab 1.1/build_steps_dashboard.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module01/DE - 101 Lab 1.1/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module01/DE - 101 Module01.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module01/Homework01/DASHBOARD Superstore.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module01/Homework01/HOME_module01.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module01/Homework01/jpg/SchemeArch.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module01/Homework01/jpg/image021.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module01/Homework01/jpg/image023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module02/DE - 101 Lab 2.1/from_stg_to_dw.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module02/DE - 101 Lab 2.1/orders.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module02/DE - 101 Lab 2.1/people.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module02/DE - 101 Lab 2.1/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module02/DE - 101 Lab 2.1/returns.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module02/DE - 101 Lab 2.1/stg.orders.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module02/DE - 101 Module02.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module02/Homework02/HOME_module02.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module03/CapstoneProject/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module03/DE - 101 Lab 3.1/3_11_PowerBI/DataLearn.pbix" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module03/DE - 101 Lab 3.1/3_11_PowerBI/DataLearnDatasetHW.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module03/DE - 101 Lab 3.1/3_11_PowerBI/img/3_11_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module03/DE - 101 Lab 3.1/3_11_PowerBI/img/3_11_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module03/DE - 101 Lab 3.1/3_11_PowerBI/img/3_11_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module03/DE - 101 Lab 3.1/3_11_PowerBI/img/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module03/DE - 101 Lab 3.1/3_11_PowerBI/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module03/DE - 101 Lab 3.1/Vmware network example.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module03/DE - 101 Lab 3.1/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module03/DE - 101 Module03.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.4/Pentaho Job.kjb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.4/dim_tables.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.4/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.4/staging orders.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_01_Code/hello_world.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_02_Code/code_02/tutorial Avoiding errors while converting the estimated time.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_02_Code/code_02/tutorial Creating a simple transformation.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_02_Code/code_02/tutorial Generating a range of dates and inspecting.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_03_Code/kettle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_03_Code/pdi_files/input/areachart.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_03_Code/pdi_files/input/customer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_03_Code/pdi_files/input/europe_201209.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_03_Code/pdi_files/input/europe_201210.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_03_Code/pdi_files/input/tomcat-users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_03_Code/pdi_files/input/usa_201209.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_03_Code/pdi_files/input/usa_201210.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_03_Code/pdi_labs/1. Reading results of football matches from files.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_03_Code/pdi_labs/2. Reading results of football matches from files - regular expressions.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_03_Code/pdi_labs/3. Sending the results of matches to a plain file.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_03_Code/pdi_labs/4. Reading and writing files with flexibility.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_03_Code/pdi_labs/5. Getting data from an XML file with information about countries.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_03_Code/pdi_labs/Database Conntection.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_03_Code/pdi_labs/Pentaho Job.kjb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_03_Code/pdi_labs/dim_tables.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_03_Code/pdi_labs/generate_csv_file.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_03_Code/pdi_labs/resources/countries.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_03_Code/pdi_labs/staging orders.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_03_Code/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_04_Code/code_04/kettle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_04_Code/code_04/pdi_files/input/contestants.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_04_Code/code_04/pdi_files/input/matches.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_04_Code/code_04/pdi_files/input/text/smcng10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_04_Code/code_04/pdi_labs/1. Sorting information about matches.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_04_Code/code_04/pdi_labs/2. Calculating football matches statistics by grouping data.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_04_Code/code_04/pdi_labs/3. Counting frequent words by filtering.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_04_Code/code_04/pdi_labs/4. Finding out  which language people speak.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_04_Code/code_04/pdi_labs/5. Fixing words before counting them.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_04_Code/code_04/pdi_labs/resources/countries.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_04_Code/code_04/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_05_Code/kettle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_05_Code/pdi_files/input/Pentaho+BI+Platform+Tracking.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_05_Code/pdi_files/input/progress_b_bouchard.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_05_Code/pdi_files/input/progress_other_programmers.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_05_Code/pdi_labs/1.pdi_new_features.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_05_Code/pdi_labs/2.pdi_new_features_distribute.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_05_Code/pdi_labs/3.pdi_new_features_assigments.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_05_Code/pdi_labs/4.pdi_new_features_assigments_with_switch.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_05_Code/pdi_labs/5.gathering_progress.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_05_Code/pdi_labs/6.gathering_progress_with_append_stream.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_05_Code/pdi_labs/7.Treating errors in the estimated time field to avoid discarding rows.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_05_Code/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_06_Code/code_06/kettle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_06_Code/code_06/pdi_files/input/houses.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_06_Code/code_06/pdi_files/input/text/smcng10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_06_Code/code_06/pdi_labs/java_words.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_06_Code/code_06/pdi_labs/java_words_advanced.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_06_Code/code_06/pdi_labs/javascript_advanced.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_06_Code/code_06/pdi_labs/javascript_words.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_06_Code/code_06/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_07_Code/code_07/kettle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_07_Code/code_07/pdi_files/input/europe_201209.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_07_Code/code_07/pdi_files/input/europe_201210.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_07_Code/code_07/pdi_files/input/houses.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_07_Code/code_07/pdi_files/input/houses_modified.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_07_Code/code_07/pdi_files/input/movies.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_07_Code/code_07/pdi_files/input/usa_201209.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_07_Code/code_07/pdi_files/input/usa_201210.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_07_Code/code_07/pdi_labs/1. Enhancing a films file by converting rows to columns.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_07_Code/code_07/pdi_labs/2. Aggregating matches data.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_07_Code/code_07/pdi_labs/3. Enhancing the matches files by normalizing the dataset.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_07_Code/code_07/pdi_labs/4. Creating a Time Dimension dataset.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_07_Code/code_07/pdi_labs/5. Parameterizing the start and end date of the Time Dimension dataset.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_07_Code/code_07/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_08_Code/code_08/kettle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_08_Code/code_08/pdi_files/input/LUX_discontinued.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_08_Code/code_08/pdi_files/input/manufacturers.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_08_Code/code_08/pdi_files/input/more_product_lists/PuzzlesCLEMENTONI.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_08_Code/code_08/pdi_files/input/more_product_lists/educa jigsaw puzzles.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_08_Code/code_08/pdi_files/input/more_product_lists/gibson_catalog.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_08_Code/code_08/pdi_files/input/more_product_lists/jumbo_puzzles_2009.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_08_Code/code_08/pdi_files/input/more_product_lists/productlist_RAV.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_08_Code/code_08/pdi_files/input/productlist_LUX_200908.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_08_Code/code_08/pdi_files/input/productlist_LUX_200909.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_08_Code/code_08/pdi_labs/1. Getting data about shipped orders.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_08_Code/code_08/pdi_labs/2. Getting orders in a range of dates by using parameters.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_08_Code/code_08/pdi_labs/3. Getting orders in a range of dates by using variables.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_08_Code/code_08/pdi_labs/4. Loading a table with a list of manufacturers.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_08_Code/code_08/pdi_labs/5. Inserting new products or updating existent ones.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_08_Code/code_08/pdi_labs/6. Deleting data about discontinued items.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_08_Code/code_08/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_08_Code/code_08/scripts/films.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_08_Code/code_08/scripts/js.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_08_Code/code_08/scripts/js_dw.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_09_Code/code_09/kettle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_09_Code/code_09/pdi_files/input/orders.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_09_Code/code_09/pdi_files/input/regions.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_09_Code/code_09/pdi_files/input/regions2008.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_09_Code/code_09/pdi_labs/1. Using a Database lookup step to create a list of products to buy - ver.II.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_09_Code/code_09/pdi_labs/1. Using a Database lookup step to create a list of products to buy.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_09_Code/code_09/pdi_labs/2. Using a Database join step to create a list of suggested products to buy.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_09_Code/code_09/pdi_labs/3. Loading a region dimension with a Combination lookup-update step.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_09_Code/code_09/pdi_labs/4. Keeping history of product changes with the Dimension lookup-update step.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_09_Code/code_09/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_09_Code/code_09/scripts/js.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_09_Code/code_09/scripts/js_data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_09_Code/code_09/scripts/js_dw.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_09_Code/code_09/scripts/update_jumbo_products.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_09_Code/code_09/shared.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_10_Code/code_10/kettle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_10_Code/code_10/pdi_labs/1. Creating a folder with a job.kjb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_10_Code/code_10/pdi_labs/2. Creating a folder with a job - second version.kjb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_10_Code/code_10/pdi_labs/3. Generating a date range.kjb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_10_Code/code_10/pdi_labs/4. hello_world_param.kjb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_10_Code/code_10/pdi_labs/5. hello_world_fixedvalues.kjb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_10_Code/code_10/pdi_labs/transformations/generating_date_range.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_10_Code/code_10/pdi_labs/transformations/hello_world_file.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_10_Code/code_10/pdi_labs/transformations/hello_world_param.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_10_Code/code_10/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_11_Code/kettle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_11_Code/pdi_files/input/exam1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_11_Code/pdi_files/input/exam2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_11_Code/pdi_files/input/exam3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_11_Code/pdi_files/input/exam4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_11_Code/pdi_files/input/exam5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_11_Code/pdi_labs/1. statistics.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_11_Code/pdi_labs/1. statistics_2.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_11_Code/pdi_labs/2. process_flow.kjb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_11_Code/pdi_labs/3. process_for_each_student.kjb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_11_Code/pdi_labs/4. validate_and_process.kjb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_11_Code/pdi_labs/get_filename.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_11_Code/pdi_labs/hello_student.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_11_Code/pdi_labs/map_statistics.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_11_Code/pdi_labs/prepare_data.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_11_Code/pdi_labs/process_data.ktr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Lab 4.5/PentahoDIBeginnersGuide/5040OS_11_Code/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module04/DE - 101 Module04.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/EC2 in VPC.MD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/00.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - EC2-in-VPC/images/Diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Lambda Function Using the AWS Console/img/AuthorFromScratch.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Lambda Function Using the AWS Console/img/BilledDuration.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Lambda Function Using the AWS Console/img/ChangeDefaultExecutionRole.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Lambda Function Using the AWS Console/img/ClickMonitor.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Lambda Function Using the AWS Console/img/ClickTest.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Lambda Function Using the AWS Console/img/CodeSnippet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Lambda Function Using the AWS Console/img/CreateFunction.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Lambda Function Using the AWS Console/img/CreateLambdaIndex.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Lambda Function Using the AWS Console/img/CreateTest.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Lambda Function Using the AWS Console/img/Deploy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Lambda Function Using the AWS Console/img/FunctionName.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Lambda Function Using the AWS Console/img/SelectLogStream.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Lambda Function Using the AWS Console/img/ServiceSelect.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Lambda Function Using the AWS Console/img/ViewLogs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Lambda Function Using the AWS Console/img/resultTest.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Lambda Function Using the AWS Console/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Python Workshop/aws-python-workshop.MD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Python Workshop/images/00.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Python Workshop/images/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Python Workshop/images/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Python Workshop/images/03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Python Workshop/txt.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Static web-site using S3/Static web-site using S3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Static web-site using S3/images/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Static web-site using S3/images/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Static web-site using S3/images/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Static web-site using S3/images/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Static web-site using S3/images/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Static web-site using S3/images/14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Static web-site using S3/images/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Static web-site using S3/images/17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Static web-site using S3/images/18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Static web-site using S3/images/19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Static web-site using S3/images/20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Static web-site using S3/images/21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Static web-site using S3/images/22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Static web-site using S3/images/23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Static web-site using S3/images/24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Static web-site using S3/images/25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Static web-site using S3/images/26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Static web-site using S3/images/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Static web-site using S3/images/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Static web-site using S3/images/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Static web-site using S3/images/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Static web-site using S3/images/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Static web-site using S3/images/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Static web-site using S3/images/9999.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Static web-site using S3/images/S3staticsiteSchema.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Static web-site using S3/site/error.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/AWS - Static web-site using S3/site/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/Azure - Create and Manage Azure Blob Storage/Azure Blob Storage.MD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/Azure - Create and Manage Azure Blob Storage/images/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/Azure - Create and Manage Azure Blob Storage/images/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/Azure - Create and Manage Azure Blob Storage/images/03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/Azure - Create and Manage Azure Blob Storage/images/04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/Azure - Create and Manage Azure Blob Storage/images/05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/Azure - Create and Manage Azure Blob Storage/images/06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/Azure - Create and Manage Azure Blob Storage/images/07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/Azure - Create and Manage Azure Blob Storage/images/08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/Azure - Create and Manage Azure Blob Storage/images/09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/Azure - Create and Manage Azure Blob Storage/images/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/Azure - Create and Manage Azure Blob Storage/images/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/Azure - Create and Manage Azure Blob Storage/images/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/Azure - Create and Manage Azure Blob Storage/images/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/Azure - Create and Manage Azure Blob Storage/images/diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/Azure - Create and Manage Azure Blob Storage/images/test.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/Azure - Introduction to Azure Active Directory/azure-ad-intro.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/Azure - Introduction to Azure Active Directory/images/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/Azure - Introduction to Azure Active Directory/images/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/Azure - Introduction to Azure Active Directory/images/03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/Azure - Introduction to Azure Active Directory/images/test.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Labs/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module05/DE - 101 Module05.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Lab 6.3 - Snowflake DW/cities.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Lab 6.3 - Snowflake DW/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Lab 6.3 - Snowflake DW/sales.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Lab 6.3 - Snowflake DW/unload_superstore_single.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/Generating_Datasets.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/Redshift_lab.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/img/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/img/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/img/03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/img/04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/img/05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/img/06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/img/07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/img/08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/img/09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/img/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/img/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/img/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/img/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/img/14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/img/15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/img/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/img/17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/img/18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/img/19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/img/20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/img/21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/img/22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/img/23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/img/24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/img/25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/img/26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/img/27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/img/28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/img/29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/manifest/info.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/manifest/lineitem.manifest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/AWS - Redshift/manifest/orders.manifest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/Azure-Synapse.MD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/files/info.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/files/superstore.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/00.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/42.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Azure - Synapse Analytics/img/55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/00.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/147.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/148.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/149.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/200.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/201.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/202.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/203.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/204.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/205.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/206.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/207.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/208.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/42.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/img/info.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Snowflake/snowflake-lab.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Teradata/INSERT_ORDERS.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Teradata/Teradata Lab.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Teradata/img/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Teradata/img/02.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Teradata/img/02.2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Teradata/img/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Teradata/img/03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Teradata/img/04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Teradata/img/05.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Teradata/img/05.2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Teradata/img/05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Teradata/img/06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Teradata/img/07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Teradata/img/08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Teradata/img/09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Teradata/img/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Teradata/img/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Teradata/img/Diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Teradata/import_bteq.btq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Teradata/orders.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Labs/Teradata/returns.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/DE - 101 Module06.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module06/azure_dw_labs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module07/DE - 101 Lab 7.1/DE - 101 Labs/LearningSpark2.0.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module07/DE - 101 Lab 7.1/DE - 101 Labs/Notebooks.dbc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module07/DE - 101 Lab 7.1/DE - 101 Labs/installing-spark.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module07/DE - 101 Lab 7.1/DE - 101 Labs/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module07/DE - 101 Lab 7.1/DE - 101 Module07.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module07/DE - 101 Lab 7.1/img/1.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module07/DE - 101 Lab 7.1/img/10.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module07/DE - 101 Lab 7.1/img/2.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module07/DE - 101 Lab 7.1/img/3.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module07/DE - 101 Lab 7.1/img/4.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module07/DE - 101 Lab 7.1/img/5.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module07/DE - 101 Lab 7.1/img/6.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module07/DE - 101 Lab 7.1/img/7.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module07/DE - 101 Lab 7.1/img/8.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module07/DE - 101 Lab 7.1/img/9.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE-101 Modules/Module12/DE - 101 Module12.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Git-101.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HALLTAPE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JH-101/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning resources.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to/ How to install DBeaver.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to/How to Jupyter Notebook.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to/How to create AWS Account.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to/How to get git.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to/How to install AWS Command Line Interface.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to/How to install DBeaver.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to/How to install PostgreSQL.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to/How to install Redash.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to/How to install drawio.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to/how-to-spark.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to/how-to-tabelau-desktop.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to/how_to_amazon_rds.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to/img/how_to_amazon_rds/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to/img/how_to_amazon_rds/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to/img/how_to_amazon_rds/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to/img/how_to_amazon_rds/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to/img/how_to_amazon_rds/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to/img/how_to_amazon_rds/14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to/img/how_to_amazon_rds/15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to/img/how_to_amazon_rds/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to/img/how_to_amazon_rds/17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to/img/how_to_amazon_rds/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to/img/how_to_amazon_rds/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to/img/how_to_amazon_rds/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to/img/how_to_amazon_rds/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to/img/how_to_amazon_rds/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to/img/how_to_amazon_rds/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to/img/how_to_amazon_rds/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to/img/how_to_amazon_rds/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to/img/how_to_amazon_rds/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Add JH-101 slack channel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/DE-101-Badges.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/DataLearnCover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/de-101-05-cloudcomputing.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/de101-module01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/de101-module02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/de101-module03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/de101-module04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/de101-module06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/linkedin05cloud.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/linkedin06cloud.PNG.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/slack add channel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview how to meme.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview-tests/1. Snyk-assignment.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview-tests/1.1 Snyk - solution.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview-tests/2.1 Jobber - solution.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview-tests/3. Fathom - live code preparation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview-tests/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2LKDOjtiJGO2roz6eCsSgpiG4Im" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenDatabaseViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/halltape/Desktop/CODE/2. Data_engineering&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ],
+    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/&quot;: [
+      &quot;MySQL&quot;
+    ]
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>
