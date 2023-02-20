@@ -22,7 +22,7 @@
 
 7. Подключился к AWS Lightsail и создал БД на MySQL. В DataGrip создал подключение и наполнил все таблицы, включая RAW исходник Listen.csv.
 
-8. Подключился к Yandex.DataLens. Дальше создал [dashboard](https://github.com/halltape/data-engineering/tree/master/DE-101%20Modules/Module02/Homework02/Listen_DataSet/dashboard.pdf).
+8. Подключился к Yandex.DataLens. Дальше создал [dashboard](https://github.com/halltape/data-engineering/blob/develop/DE-101%20Modules/Module02/Homework02/Listen_DataSet/dashboard.pdf).
 
 ## Найденные ошибки:
 1. Не проверил на максимальные значения столбец BPM. Там были значения 99999999 и 624, что нереально. Поменял 99999999 на пустое значение, а 624 перевел в 124(EDM жанр).
