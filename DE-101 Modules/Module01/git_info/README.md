@@ -60,12 +60,12 @@ pe@Evgeniis-MacBook-Pro.local
 ### Подключим свой Github с помощью SSH
 Заходим в настройки **SSH and GPG keys**. Нажимаем New SSH key
 
-![git_ssh](/img/git_ssh.png)
+![ssh](https://github.com/halltape/data-engineering/blob/git_info/DE-101%20Modules/Module01/git_info/img/git_ssh.png)
 
 **Вставляем скопированный ssh-keygen**
 
-![git_ssh2](/img/git_ssh2.png)
-![git_ssh3](/img/git_ssh3.png)
+![ssh2](https://github.com/halltape/data-engineering/blob/git_info/DE-101%20Modules/Module01/git_info/img/git_ssh2.png)
+![ssh3](https://github.com/halltape/data-engineering/blob/git_info/DE-101%20Modules/Module01/git_info/img/git_ssh3.png)
 
 Супер! Теперь мы можем скачивать все, что угодно с GitHub!
 
@@ -107,7 +107,7 @@ Music mysql Documents Pictures
 
 ![git_fork](/img/git_fork2.png)
 
-Команда ниже начнет скачивание репозитория с github **в то место,
+**Команда ниже начнет скачивание репозитория с github в то место,
 где вы находитесь, согласно terminal.**
 **Скачать репозиторий к себе на ПК**
 > git clone ```git@github.com:halltape/data-engineering.git```
