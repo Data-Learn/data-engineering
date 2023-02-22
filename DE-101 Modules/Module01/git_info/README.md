@@ -72,7 +72,7 @@ pe@Evgeniis-MacBook-Pro.local
 *** 
 Но прежде, чем скачать репозиторий к себе на ПК, следует сделать его копию у себя на Github. Это будет лично ваша копия, с которой вы можете делать все что угодно (изменять, удалять, добавлять и т.д.)
 
-![git_fork](/img/git_fork.png)
+![fork](https://github.com/halltape/data-engineering/blob/git_info/DE-101%20Modules/Module01/git_info/img/git_fork.png)
 * * * 
 ### В terminal (командная строка) заходим в папку, куда мы хотим скачать наш репозиторий
 
@@ -105,7 +105,7 @@ Music mysql Documents Pictures
 
 **Копируем ссылку на репозиторий. На рисунке ниже:**
 
-![git_fork](/img/git_fork2.png)
+![fork2](https://github.com/halltape/data-engineering/blob/git_info/DE-101%20Modules/Module01/git_info/img/git_fork2.png)
 
 **Команда ниже начнет скачивание репозитория с github в то место,
 где вы находитесь, согласно terminal.**
