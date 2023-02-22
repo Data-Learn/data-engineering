@@ -1,0 +1,7 @@
+streaming_id,streaming_name,total_tracks_mlns,active_users_mlns,paying_users_mlns,launch
+1,Apple Music,100,88,88,2015
+2,Pandora,30,58,6,2005
+3,Spotify,100,422,182,2008
+4,YouTube Music,100,80,80,2015
+5,I do not use a streaming service,0,0,0,0
+6,Other streaming service,0,0,0,0
