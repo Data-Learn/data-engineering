@@ -83,7 +83,7 @@ Apache Spark является самый популярным инструмен
 - [Что такое Apache Spark?](https://learn.microsoft.com/ru-ru/dotnet/spark/what-is-spark)
 - [Apache Spark Installation on Windows](https://sparkbyexamples.com/spark/apache-spark-installation-on-windows/)
 - [Install PySpark in Jupyter on Mac using Homebrew](https://sparkbyexamples.com/pyspark/install-pyspark-in-jupyter-on-mac-using-homebrew/)
-- [https://sparkbyexamples.com/pyspark/install-pyspark-in-jupyter-on-mac-using-homebrew/](https://sparkbyexamples.com/spark/install-apache-spark-on-mac/)
+- [Get Started with PySpark and Jupyter Notebook in 3 Minutes](https://sparkbyexamples.com/spark/install-apache-spark-on-mac/)
 - [Beginners Guide to PySpark](https://towardsdatascience.com/beginners-guide-to-pyspark-bbe3b553b79f#:~:text=Beginners%20Guide%20to%20PySpark%201%20Setting%20Environment%20in,Values%20...%208%20Querying%20Data%20...%20More%20items)
 
 ### Лабораторная Работа
