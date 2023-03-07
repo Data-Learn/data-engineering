@@ -71,7 +71,8 @@ Apache Spark является самый популярным инструмен
 - Посмотрим как запустить Spark на Windows
 - Посмотрим на Spark UI
 - Узнаем про основные компоненты Spark
-- Начнем использовать PySpark
+- Начнем использовать `PySpark`
+- Начнем использовать `spark-submit`
 
 **Видео лекция - теория** - [Начало работы с Apache Spark](https://youtu.be/FiaZnMMOV-A). 
 
@@ -86,7 +87,7 @@ Apache Spark является самый популярным инструмен
 - [Beginners Guide to PySpark](https://towardsdatascience.com/beginners-guide-to-pyspark-bbe3b553b79f#:~:text=Beginners%20Guide%20to%20PySpark%201%20Setting%20Environment%20in,Values%20...%208%20Querying%20Data%20...%20More%20items)
 
 ### Лабораторная Работа
-`spark-submit`
+
 1. Ваша задача установить Apache Spark на ваш компьютер и запустить `PySpark`. Этого может хватить вам для изучения спарка, практически до конца модуля. Так как команды везде очень похожи, а вот интерфейс и конфигурация разные. 
 2. Вам нужно взять программу про M&Ms из нашего [репозитория](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module07/DE%20-%20101%20Lab%207.2/mnmcount.py) и также взть файл с данными в том же репозитории в папке `data`.
 3. Запустить спарк программу используя `spark-submit` и передать в качестве аргумента месторасположения файла с данными.
