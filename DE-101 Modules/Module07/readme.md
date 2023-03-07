@@ -8,11 +8,11 @@
 
 **Видео лекция - теория** - [Введение](https://youtu.be/3qhcMVsVc5A). 
 
-## Модуль 7.2 Начало работы в Spark
+## Модуль 7.2 Что такое Apache Spark
 
 Apache Spark является самый популярным инструментом среди инженеров данных, аналитиков и инженеров машинного обучения. Его главная задача это обработка данных. С помощью Spark можно подключаться к любому источнику данных, читать большие данные и обрабатывать их в оперативной памяти с использованием распределенного вычисления (distributed computing). 
 
-**Видео лекция - теория** - [Начало работы в Spark](https://youtu.be/Tl9YzC-dQLI). 
+**Видео лекция - теория** - [Что такое Apache Spark](https://youtu.be/Tl9YzC-dQLI). 
 
 В этом видео:
 - Узнаем история Apache Spark
@@ -38,7 +38,7 @@ Apache Spark является самый популярным инструмен
 - Коллекции и классы
 
 ### Дополнительные материалы для изучения
-- [Книга Learnin Spark V2](https://pages.databricks.com/rs/094-YMS-629/images/LearningSpark2.0.pdf)
+- [Книга Learnin Spark V2 PDF](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module07/LearningSpark2.0.pdf)
 - [Welcome to Spark… on Java: Интервью с Евгением Борисовым](https://habr.com/ru/company/jugru/blog/311146/)
 - [Знакомство с Apache Spark](https://habr.com/ru/company/piter/blog/276675/)
 - [Spark local mode: обработка больших файлов на обычном ноутбуке](https://habr.com/ru/post/274705/)
@@ -55,21 +55,54 @@ Apache Spark является самый популярным инструмен
 
 ### Лабораторная Работа
 Для лабораторной работы вам нужно:
-	- Создать Databricks Community Edition
-    - Испортировать Notebooks с примерами для `Just Enougth Python for Spark` - [Репозиторий с кодом](https://github.com/databricks-academy/just-enough-python-for-spark)
+	- Создать Databricks Community Edition. Если какие-то проблемы с Databricks, можно все делать на локальном спарке. В следующем уроке покажу, как можно его установить.
+    - Испортировать Notebooks с примерами для `Just Enougth Python for Spark` - [Репозиторий с кодом](https://github.com/Data-Learn/data-engineering/tree/master/DE-101%20Modules/Module07/DE%20-%20101%20Lab%207.1)
     - Выполнить задачки в папке `Labs`
 
-Так же вы можете использовать Google Collab или локальный Spark.
+Так же вы можете использовать Google Collab или локальный Spark. Для решения Notebooks может подойти Jupyter Notebooks.
 
-## Модуль 7.3 Знакомство с Spark API
+## Модуль 7.3 Начало работы с Apache Spark
 
-## Модуль 7.4 Знакомство с Spark SQL и DataFrame
+Продолжаем наше изучение Apache Spark. В этом уроке мы частично повторим детали из прошлого урок и заодно скачаем и установим Apache Spark на Windows 11. Если вы захотите устновить на Linux/MacOs, то вам будет ещё проще.
 
-## Модуль 7.5 Подключение Spark к внешним приложениям
+В этом уроке:
 
-## Модуль 7.6 Оптимизация Spark
+- Скачаем и запустим Apache Spark
+- Посмотрим как запустить Spark на Windows
+- Посмотрим на Spark UI
+- Узнаем про основные компоненты Spark
+- Начнем использовать PySpark
+- Начнем использовать 
 
-## Модуль 7.7 Знакомство с Spark API
+**Видео лекция - теория** - [Начало работы с Apache Spark](https://youtu.be/FiaZnMMOV-A). 
+
+**Видео лекция - практика** - [Запуск программы в Apache Spark](https://youtu.be/FiaZnMMOV-A?t=1944)
+
+### Дополнительные материалы для изучения
+
+- [Что такое Apache Spark?](https://learn.microsoft.com/ru-ru/dotnet/spark/what-is-spark)
+- [Apache Spark Installation on Windows](https://sparkbyexamples.com/spark/apache-spark-installation-on-windows/)
+- [Install PySpark in Jupyter on Mac using Homebrew](https://sparkbyexamples.com/pyspark/install-pyspark-in-jupyter-on-mac-using-homebrew/)
+- [https://sparkbyexamples.com/pyspark/install-pyspark-in-jupyter-on-mac-using-homebrew/](https://sparkbyexamples.com/spark/install-apache-spark-on-mac/)
+- [Beginners Guide to PySpark](https://towardsdatascience.com/beginners-guide-to-pyspark-bbe3b553b79f#:~:text=Beginners%20Guide%20to%20PySpark%201%20Setting%20Environment%20in,Values%20...%208%20Querying%20Data%20...%20More%20items)
+
+### Лабораторная Работа
+`spark-submit`
+1. Ваша задача установить Apache Spark на ваш компьютер и запустить `PySpark`. Этого может хватить вам для изучения спарка, практически до конца модуля. Так как команды везде очень похожи, а вот интерфейс и конфигурация разные. 
+2. Вам нужно взять программу про M&Ms из нашего [репозитория](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module07/DE%20-%20101%20Lab%207.2/mnmcount.py) и также взть файл с данными в том же репозитории в папке `data`.
+3. Запустить спарк программу используя `spark-submit` и передать в качестве аргумента месторасположения файла с данными.
+4. Вам необходимо взять тот же код про M&Ms, но теперь нужно будет его выполнить в интерактивном режиме. Я это сделал на примере Databricks, если есть доступ к нему, сделайте там, если нет, используйте командную строку или попробуйте вот этот рецепт [Get Started with PySpark and Jupyter Notebook in 3 Minutes](https://medium.com/sicara/get-started-pyspark-jupyter-guide-tutorial-ae2fe84f594f#:~:text=There%20are%20two%20ways%20to%20get%20PySpark%20available,Jupyter%20Notebook%20and%20load%20PySpark%20using%20findSpark%20package)
+## Модуль 7.4 Знакомство с Spark API
+
+## Модуль 7.5 Знакомство с Spark SQL и DataFrame
+
+## Модуль 7.6 Подключение Spark к внешним приложениям
+
+## Модуль 7.7 Оптимизация Spark
+
+## Модуль 7.8 Знакомство с AWS Glue
+
+## Модуль 7.9 Знакомство с Synapse Spark
 
 
 
