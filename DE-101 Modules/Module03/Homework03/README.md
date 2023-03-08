@@ -10,11 +10,11 @@
 
 - Amazon RDS
 
-[amazon_rds]()
+![amazon_rds](https://github.com/halltape/data-engineering/blob/develop/DE-101%20Modules/Module03/Homework03/png/amazon_rds.png)
 
 - Apache Superset
 
-[superset_interface]()
+![superset_interface](https://github.com/halltape/data-engineering/blob/develop/DE-101%20Modules/Module03/Homework03/png/superset_interface.png)
 
 ***
 
@@ -28,11 +28,11 @@
 
 - Yandex DataLens Dashboard
 
-[yandex_dashboard]()
+![yandex_dashboard](https://github.com/halltape/data-engineering/blob/develop/DE-101%20Modules/Module03/Homework03/png/yandex_dashboard.png)
 
 
 - Apache Superset Dashboard
 
-[superset_dashboard]()
+![superset_dashboard](https://github.com/halltape/data-engineering/blob/develop/DE-101%20Modules/Module03/Homework03/png/superset_dashboard.png)
 
 ***
