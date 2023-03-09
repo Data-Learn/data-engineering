@@ -43,7 +43,7 @@
 
 ***Решение***
 
-Создал подключение в **Amazon RDS**, дальше подключился к **MySQL** через **DataGrip**. Подгрузил туда все таблицы в формате **.csv**. Написал несколько запросов. Важный момент: Цены в таблице listings в формате **text**. Цены я складывал, так как мне нужна была общая стоимость аренды. Я не менял тип данных в датасете, а лишь временно форматировал их в запросе, отчего запросы стали просто огромными. При этом увеличилась и скорость обраотки до 17 секунд. В будущем учту это. Визуализация осуществлялась в **Yandex DataLens**. Очень быстрый и понятный инструмент, хотя и уступающий **Apache Superset**. 
+Создал подключение в **Amazon RDS**, дальше подключился к **MySQL** через **DataGrip**. Подгрузил туда все таблицы в формате **.csv**. Написал несколько запросов. Важный момент: Цены в таблице listings в формате **text**. Цены я складывал, так как мне нужна была общая стоимость аренды. Я не менял тип данных в датасете, а лишь временно форматировал их в запросе, отчего запросы стали просто [огромными](https://github.com/halltape/data-engineering/blob/develop/DE-101%20Modules/Module03/Homework03/airbnb_sql/airbnb.sql). При этом увеличилась и скорость обраотки до 17 секунд. В будущем учту это. Визуализация осуществлялась в **Yandex DataLens**. Очень быстрый и понятный инструмент, хотя и уступающий **Apache Superset**. 
 
 
 - Yandex DataLens Dashboard (Airbnb London)
@@ -52,6 +52,4 @@
 
 - GeoJSON (Airbnb London)
 
-![map](https://github.com/halltape/data-engineering/blob/develop/DE-101%20Modules/Module03/Homework03/png/yandex_dashboard.png)
-
-test
+![map](https://github.com/halltape/data-engineering/blob/develop/DE-101%20Modules/Module03/Homework03/png/map_london.png)
