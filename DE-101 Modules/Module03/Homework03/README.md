@@ -48,7 +48,7 @@
 
 - Yandex DataLens Dashboard (Airbnb London)
 
-![airbnb_london](https://github.com/halltape/data-engineering/blob/develop/DE-101%20Modules/Module03/Homework03/png/yandex_dashboard.png)
+![airbnb_london](https://github.com/halltape/data-engineering/blob/develop/DE-101%20Modules/Module03/Homework03/png/airbnb_london_aws.png)
 
 - GeoJSON (Airbnb London)
 
