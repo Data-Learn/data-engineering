@@ -1,33 +1,44 @@
-version: '3'
+version: '3.7'
 
 services:
-  spark:
-    image: apache/spark:3.3.2
-    ports:
-      - "8080:8080"
-      - "8888:8888"
+  spark-master:
+    image: bitnami/spark:3.2.0
     environment:
-      - SPARK_MASTER_HOST=spark
-      - SPARK_MASTER_PORT=7077
-      - SPARK_LOCAL_IP=127.0.0.1
-      - ENABLE_INIT_DAEMON=false
-    volumes:
-      - ./notebooks:/opt/notebooks
-    networks:
-      - spark
-
-  jupyter:
-    image: jupyter/all-spark-notebook
+      - SPARK_MODE=master
+      - SPARK_RPC_AUTHENTICATION_ENABLED=no
+      - SPARK_RPC_ENCRYPTION_ENABLED=no
+      - SPARK_LOCAL_STORAGE_ENCRYPTION_ENABLED=no
+      - SPARK_SSL_ENABLED=no
     ports:
-      - "8888:8888"
+      - '4040:4040'
+      - '7077:7077'
+      - '8080:8080'
+
+  spark-worker:
+    image: bitnami/spark:3.2.0
+    environment:
+      - SPARK_MODE=worker
+      - SPARK_MASTER_URL=spark://spark-master:7077
+      - SPARK_WORKER_MEMORY=1g
+      - SPARK_WORKER_CORES=1
+      - SPARK_RPC_AUTHENTICATION_ENABLED=no
+      - SPARK_RPC_ENCRYPTION_ENABLED=no
+      - SPARK_LOCAL_STORAGE_ENCRYPTION_ENABLED=no
+      - SPARK_SSL_ENABLED=no
+    depends_on:
+      - spark-master
+
+  jupyter-notebook:
+    image: jupyter/pyspark-notebook:latest
+    environment:
+      - PYSPARK_PYTHON=/opt/conda/bin/python
+      - PYSPARK_DRIVER_PYTHON=jupyter
+      - PYSPARK_DRIVER_PYTHON_OPTS='notebook --ip=0.0.0.0 --port=8888 --no-browser --allow-root --NotebookApp.token= --notebook-dir=/home/jovyan/work'
+    ports:
+      - '8888:8888'
     volumes:
       - ./notebooks:/home/jovyan/work
-    environment:
-      - SPARK_URL=spark://spark:7077
     depends_on:
-      - spark
-    networks:
-      - spark
-
-networks:
-  spark:
+      - spark-master
+      - spark-worker
+    command: start.sh jupyter lab

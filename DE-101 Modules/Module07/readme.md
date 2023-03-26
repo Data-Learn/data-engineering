@@ -94,6 +94,102 @@ Apache Spark является самый популярным инструмен
 4. Вам необходимо взять тот же код про M&Ms, но теперь нужно будет его выполнить в интерактивном режиме. Я это сделал на примере Databricks, если есть доступ к нему, сделайте там, если нет, используйте командную строку или попробуйте вот этот рецепт [Get Started with PySpark and Jupyter Notebook in 3 Minutes](https://medium.com/sicara/get-started-pyspark-jupyter-guide-tutorial-ae2fe84f594f#:~:text=There%20are%20two%20ways%20to%20get%20PySpark%20available,Jupyter%20Notebook%20and%20load%20PySpark%20using%20findSpark%20package)
 ## Модуль 7.4 Знакомство с Spark API
 
+В этом модуле мы познакомимся еще ближе с Apache Spark. 
+
+В этом видео вы узнаете про:
+- что такое RDD (Resilient Distributed Datasets)
+- что такое DataFrame
+- посмотрим на пример синтаксиса Scala vs Python
+- типы данных Spark
+- схему(schema) dataframe
+- колонки (colums) и вычисляемы (expressions) поля dataframe
+- основные операции при работе с dataframe (Reader, Wrtiter)
+- примеры чтения разных источников и файлов (API, база данных, JSON, Parquet, CSV, TXT)
+- различные операции для трансформации, фильтрации и агрегации данных в Spark DataFrame (прям как в SQL)
+- Spark SQL, Catalyst Optimizer
+- план запроса Spark
+- примеры advance Spark функций и ноутбуков в Databticks
+
+**Видео лекция - теория** - [Знакомство с Spark API](https://youtu.be/FiaZnMMOV-A). 
+
+В качестве лаборатнорной работы мы будем анализировать данные по пожраной службе Сан-Франциско. Я покажу, как можно прочитать файл и выполнить просты запросы на PySpark.
+
+**Видео лекция - практика Apache Spark CLI** - [Запросы PySpark](https://youtu.be/FiaZnMMOV-A?t=1944)
+
+Так же мы посмотрим на курс от Databricks про Apache Spark Developer. Мы посмотрим лишь, часть, которая относится к этой лекции:
+- Reader & Writer
+- DataFrame & Column
+- Aggregations
+- Datetime functions
+- Complex Types
+- Additional Spark Functions
+
+**Видео лекция - практика Databricks** - [Обзор курса Databrick - Programming with Apache Spark](https://youtu.be/FiaZnMMOV-A?t=1944)
+
+### Дополнительные материалы для изучения
+Новых материало особо нет. В этом уроке мы практикуемся с запросами на `PySpark`.
+
+Есть целый курс `Apache Spark Programming` в 2х вариантах:
+- `HTML` - вы можете посмотреть на пример кода
+- Databricks Notebooks - вы можете загрузить ноутбуки в Databricks Community Edition
+
+Так же я создал небольшой `docker-compose.yml` - как шаблон для запуска:
+- Spark 3.2.0
+- Jupyter notebooks
+
+Чтобы запустить - `docker-compose up` и Jupyter будет доступен по адресу `http://localhost:8888`
+
+### Лабораторная Работа
+
+В качестве лабораторной работу, вам нужно будет ответить на вопросы про пожарную службу Сан-Франциско используя файлик с данными [sf-fire-calls.csv](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module07/DE%20-%20101%20Lab%207.4/examples/sf-fire-calls.csv)
+
+Вопросы находятся в файлике [sf_fire.py](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module07/DE%20-%20101%20Lab%207.4/examples/sf_fire.py):
+
+```
+# Q-1) How many distinct types of calls were made to the Fire Department?
+# To be sure, let's not count "null" strings in that column.
+
+# Q-2) What are distinct types of calls were made to the Fire Department?
+# These are all the distinct type of call to the SF Fire Department
+
+# Q-3) Find out all response or delayed times greater than 5 mins?
+# Rename the column Delay - > ReponseDelayedinMins
+# Returns a new DataFrame
+# Find out all calls where the response time to the fire site was delayed for more than 5 mins
+
+
+# Q-3) Find out all response or delayed times greater than 5 mins?
+# Rename the column Delay - > ReponseDelayedinMins
+# Returns a new DataFrame
+# Find out all calls where the response time to the fire site was delayed for more than 5 mins
+
+# Q-4a) What zip codes accounted for most common calls?
+# Let's investigate what zip codes in San Francisco accounted for most fire calls and what type where they.
+# Filter out by CallType
+# Group them by CallType and Zip code
+# Count them and display them in descending order
+# It seems like the most common calls were all related to Medical Incident, and the two zip codes are 94102 and 94103.
+
+# Q-4b) What San Francisco neighborhoods are in the zip codes 94102 and 94103
+# Let's find out the neighborhoods associated with these two zip codes. In all likelihood, these are some of the contested neighborhood with high reported crimes.
+
+# Q-5) What was the sum of all calls, average, min and max of the response times for calls?
+# Let's use the built-in Spark SQL functions to compute the sum, avg, min, and max of few columns:
+# Number of Total Alarms
+# What were the min and max the delay in response time before the Fire Dept arrived at the scene of the call
+
+# ** Q-6b) What week of the year in 2018 had the most fire calls?**
+# Note: Week 1 is the New Years' week and week 25 is the July 4 the week. Loads of fireworks, so it makes sense the higher number of calls.
+
+# ** Q-7) What neighborhoods in San Francisco had the worst response time in 2018?**
+# It appears that if you living in Presidio Heights, the Fire Dept arrived in less than 3 mins, while Mission Bay took more than 6 mins.
+
+# ** Q-8a) How can we use Parquet files or SQL table to store data and read it back?**
+
+# ** Q-8c) How can read data from Parquet file?**
+# Note we don't have to specify the schema here since it's stored as part of the Parquet metadata
+```
+
 ## Модуль 7.5 Знакомство с Spark SQL и DataFrame
 
 ## Модуль 7.6 Подключение Spark к внешним приложениям
