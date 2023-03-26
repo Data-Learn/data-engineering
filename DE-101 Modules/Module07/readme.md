@@ -110,11 +110,11 @@ Apache Spark является самый популярным инструмен
 - план запроса Spark
 - примеры advance Spark функций и ноутбуков в Databticks
 
-**Видео лекция - теория** - [Знакомство с Spark API](https://youtu.be/FiaZnMMOV-A). 
+**Видео лекция - теория** - [Знакомство с Spark API](https://youtu.be/gg1uip_i2KY). 
 
 В качестве лаборатнорной работы мы будем анализировать данные по пожраной службе Сан-Франциско. Я покажу, как можно прочитать файл и выполнить просты запросы на PySpark.
 
-**Видео лекция - практика Apache Spark CLI** - [Запросы PySpark](https://youtu.be/FiaZnMMOV-A?t=1944)
+**Видео лекция - практика Apache Spark CLI** - [Запросы PySpark](https://youtu.be/gg1uip_i2KY?t=2297)
 
 Так же мы посмотрим на курс от Databricks про Apache Spark Developer. Мы посмотрим лишь, часть, которая относится к этой лекции:
 - Reader & Writer
@@ -124,7 +124,7 @@ Apache Spark является самый популярным инструмен
 - Complex Types
 - Additional Spark Functions
 
-**Видео лекция - практика Databricks** - [Обзор курса Databrick - Programming with Apache Spark](https://youtu.be/FiaZnMMOV-A?t=1944)
+**Видео лекция - практика Databricks** - [Обзор курса Databrick - Programming with Apache Spark](https://youtu.be/gg1uip_i2KY?t=3567)
 
 ### Дополнительные материалы для изучения
 Новых материало особо нет. В этом уроке мы практикуемся с запросами на `PySpark`.
