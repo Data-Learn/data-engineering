@@ -212,7 +212,7 @@ Apache Spark является самый популярным инструмен
 
 **Видео лекция - теория** - [Знакомство с Spark API](https://youtu.be/MHt_s0-q_PM). 
 
-В качестве лаборатнорной работы вам нужно будет выполнить все [запросы](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module07/DE%20-%20101%20Lab%207.5/examples/ из примеров в CLI и Databricks.
+В качестве лаборатнорной работы вам нужно будет выполнить все [запросы](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module07/DE%20-%20101%20Lab%207.5/examples/) из примеров в CLI и Databricks.
 
 
 ### Дополнительные материалы для изучения
