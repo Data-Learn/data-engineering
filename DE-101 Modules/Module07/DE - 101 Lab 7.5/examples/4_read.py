@@ -13,11 +13,11 @@ df = spark.read.format("parquet").load(file)
 # read
 file = "/summary-data/csv/*"
 schema = "DEST_COUNTRY_NAME STRING, ORIGIN_COUNTRY_NAME STRING, count INT"
-df = (spark.read.format("csv") \
-  .option("header", "true") \ 
-  .schema(schema) \
-  .option("mode", "FAILFAST")  # Exit if any errors \
-  .option("nullValue", "")     # Replace any null data field with quotes \
+df = (spark.read.format("csv") 
+  .option("header", "true")  
+  .schema(schema) 
+  .option("mode", "FAILFAST")  # Exit if any errors 
+  .option("nullValue", "")     # Replace any null data field with quotes 
   .load(file))
 
 # write

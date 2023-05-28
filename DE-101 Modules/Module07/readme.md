@@ -192,6 +192,38 @@ Apache Spark является самый популярным инструмен
 
 ## Модуль 7.5 Знакомство с Spark SQL и DataFrame
 
+Мы уже познакомились с Spark и писали запросы с помощью PySpark, так сказать Python  flavor. А теперь мы посморим на Spark SQL
+
+В этом видео вы узнаете про:
+
+- Методы SparkSession для работы с SQL 
+- Как создавать таблицы и вьюхи
+- Виды таблиц - Managed vs Unmanaged
+- Примеры SQL запросов в PySpark
+- Кеш в Spark
+- Рельтат SQL запроса в DataFrame и наоборот
+- Пример работы с различными файлами в Spark - Parquet, CSV, JSON, AVRO, ORC
+- Пример использования Spark для бинарных файлов и изображений
+- Функции и операции Spark
+- UNION, JOIN для DataFrame
+- Window Functions
+- UDF
+- Партиционирование данных и оптимизация с командами coalesce, repartition.
+
+**Видео лекция - теория** - [Знакомство с Spark API](https://youtu.be/MHt_s0-q_PM). 
+
+В качестве лаборатнорной работы вам нужно будет выполнить все [запросы](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module07/DE%20-%20101%20Lab%207.5/examples/ из примеров в CLI и Databricks.
+
+
+### Дополнительные материалы для изучения
+
+- [Практика использования Spark SQL, или Как не наступить на грабли](https://habr.com/ru/companies/sberbank/articles/496310/)
+- [https://habr.com/ru/companies/neoflex/articles/578654/](https://habr.com/ru/companies/sberbank/articles/496310/)
+- [Spark SQL, DataFrames and Datasets Guide](https://spark.apache.org/docs/3.2.0/sql-programming-guide.html)
+- [Spark SQL Explained with Examples](https://sparkbyexamples.com/spark/spark-sql-explained/)
+- [Databricks: Working with SQL at Scale - Spark SQL Tutorial](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3137082781873852/3704545280501166/1264763342038607/latest.html)
+- [Databricks: Functions](https://docs.databricks.com/sql/language-manual/sql-ref-functions.html)
+- [Databricks: WindowFunctions](https://docs.databricks.com/sql/language-manual/sql-ref-window-functions.html)
 
 
 ## Модуль 7.6 Подключение Spark к внешним приложениям

@@ -4,7 +4,7 @@ tripdelaysFilePath = "departuredelays.csv"
 airportsFilePath = "airport-codes-na.txt"
   
 # Obtain airports data set
-airports = (spark.read \
+airports = (spark.read 
   .format("csv")
   .options(header="true", inferSchema="true", sep="\t")
   .load(airportsFilePath))
@@ -12,20 +12,20 @@ airports = (spark.read \
 airports.createOrReplaceTempView("airports")
 
 # Obtain departure delays data set
-departureDelays = (spark.read \
-  .format("csv") \
-  .options(header="true") \
+departureDelays = (spark.read 
+  .format("csv") 
+  .options(header="true") 
   .load(tripdelaysFilePath))
 
-departureDelays = (departureDelays \
-  .withColumn("delay", expr("CAST(delay as INT) as delay")) \
+departureDelays = (departureDelays 
+  .withColumn("delay", expr("CAST(delay as INT) as delay")) 
   .withColumn("distance", expr("CAST(distance as INT) as distance")))
 
 departureDelays.createOrReplaceTempView("departureDelays")
 
 # Create temporary small table
-foo = (departureDelays \
-  .filter(expr("""origin == 'SEA' and destination == 'SFO' and \
+foo = (departureDelays 
+  .filter(expr("""origin == 'SEA' and destination == 'SFO' and 
     date like '01010%' and delay > 0"""))) 
 
 foo.createOrReplaceTempView("foo")
