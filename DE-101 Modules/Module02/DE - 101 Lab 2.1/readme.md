@@ -114,7 +114,86 @@ DE-101/Module2/
 
 ![image](https://github.com/NikTomski/data-engineering/assets/142725457/8884729e-2c6b-4312-aac2-2e78d7417d2e)
 
-## Загрузка данных в БД
+## Загрузка данных в БД (Windows, DBeaver, Postgres)
+
+1. Запускаем DBeaver
+
+![image](https://github.com/NikTomski/data-engineering/assets/142725457/0ba4b5b4-58ec-4c45-b402-18e942d5ceb3)
+
+2. Нажимаем на иконку вилки с плюсом
+
+![image](https://github.com/NikTomski/data-engineering/assets/142725457/8aea74ef-406b-4d01-80e5-bc9c1fcf2e75)
+
+3. В открывшемся окне выбираем postrgres
+
+![image](https://github.com/NikTomski/data-engineering/assets/142725457/336871ca-74de-450a-8efc-9abf72a998af)
+
+4. Вводим пароль, указанный при установке postgress в поле Password, можно проверить подключение, нажав на кнопку "Test Connection...".
+Если все в порядке, то нажимаем кнопку "Finish"
+
+![image](https://github.com/NikTomski/data-engineering/assets/142725457/129cb0f0-8b2b-4728-bd77-2ffd0ea54ebd)
+
+5. Раскрываем список с БД
+
+![image](https://github.com/NikTomski/data-engineering/assets/142725457/0b289e2a-7791-4d05-b660-5a4fb6e6e52d)
+
+6. Нажимаем на кнопку "SQL", чтобы создался файл скрипта для запросов
+
+![image](https://github.com/NikTomski/data-engineering/assets/142725457/8106e541-c7c0-47d3-929d-151fc9333d55)
+
+7. Нажимаем кнопку "File", выбираем "Open File..."
+
+![image](https://github.com/NikTomski/data-engineering/assets/142725457/5aa8f77c-cc02-44db-866c-a74e54126f55)
+
+8. Ищем и выбираем файлы БД (orders.sql, people.sql, returns.sql), нажимаем "Открыть"
+
+![image](https://github.com/NikTomski/data-engineering/assets/142725457/94236d44-55fe-4ae2-8ecc-d39e128cd825)
+
+9. Из файла orders.sql копируем код скрипта в наш ранее созданный файл скрипта и нажимаем кнопку с изображением листа и стрелки (Execute SQL script).
+Дожидаемся создания таблицы Orders
+
+![image](https://github.com/NikTomski/data-engineering/assets/142725457/32c5e38f-2a2d-4143-be00-0107de09c1ff)
+
+10. Из файла people.sql копируем код скрипта в наш ранее созданный файл скрипта и нажимаем кнопку с изображением листа и стрелки (Execute SQL script).
+Дожидаемся создания таблицы People
+
+![image](https://github.com/NikTomski/data-engineering/assets/142725457/c7dcd518-60f7-4e93-8df3-2182c9dd716a)
+
+11. В файле returns.sql нужно заменить атрибуты Person и Region на Returned и Order_Id соответсвенно и заменить их типы:
+    1) Выделяем слово Person и нажимаем сочетание клавиш Ctrl + F
+
+    ![image](https://github.com/NikTomski/data-engineering/assets/142725457/03582ab3-ac5e-4bbf-acfe-0b297da13c9c)
+
+    2) В открывшемся окне в поле "Replace with:" пишем Returned, нажимаем на кнопку "Replace All", смотрим, чтобы заменились все значения
+
+    ![image](https://github.com/NikTomski/data-engineering/assets/142725457/e8a572ff-ca41-48ae-93b6-d8a865e6cffc)
+
+    ![image](https://github.com/NikTomski/data-engineering/assets/142725457/47ce3b08-3a51-4801-9ed7-fdd6cc9920d5)
+
+    2.1) Повторяем шаг 2 соотвественнно со словами Region и Order_Id
+
+    ![image](https://github.com/NikTomski/data-engineering/assets/142725457/3de42f25-8f3c-4aac-8c89-b29ad1878795)
+
+    ![image](https://github.com/NikTomski/data-engineering/assets/142725457/e5864e93-d299-4cdf-bc90-f61b6caa7c37)
+
+    3) Заменяем тип данных у Returned c VARCHAR(17) на BOOLEAN, убираем PRIMARY KEY
+
+    ![image](https://github.com/NikTomski/data-engineering/assets/142725457/9c5f4f01-6046-487d-bc0b-f61436c47f50)
+
+    4) Заменяем число символов в типе данных у Order_Id с 7 на 14
+
+    ![image](https://github.com/NikTomski/data-engineering/assets/142725457/c6fa9a6d-42c0-464d-9bd8-9a6b9d962408)
+
+12. Из файла returns.sql копируем код скрипта в наш ранее созданный файл скрипта и нажимаем кнопку с изображением листа и стрелки (Execute SQL script).
+Дожидаемся создания таблицы Returns
+
+![image](https://github.com/NikTomski/data-engineering/assets/142725457/02336800-dc56-477a-8d9b-e0fec4648a4c)
+
+13. Чтобы увидеть созданные таблицы, нужно нажать ПКМ по БД и выбрать "Обновить", а затем раскрыть список до папки Tables
+
+![image](https://github.com/NikTomski/data-engineering/assets/142725457/bb157cc7-6e46-4018-8621-aa35ff61a618)
+
+![image](https://github.com/NikTomski/data-engineering/assets/142725457/42a8eeb7-38bf-4fa6-8d30-9032791615ff)
 
 ## SQL запросы
 
