@@ -159,7 +159,7 @@ DE-101/Module2/
 
 ![image](https://github.com/NikTomski/data-engineering/assets/142725457/c7dcd518-60f7-4e93-8df3-2182c9dd716a)
 
-11. В файле returns.sql нужно заменить атрибуты Person и Region на Returned и Order_Id соответсвенно и заменить их типы:
+11. В файле returns.sql нужно заменить атрибуты Person и Region на Returned и Order_Id соответственно и заменить их типы:
     1) Выделяем слово Person и нажимаем сочетание клавиш Ctrl + F
 
     ![image](https://github.com/NikTomski/data-engineering/assets/142725457/03582ab3-ac5e-4bbf-acfe-0b297da13c9c)
@@ -170,7 +170,7 @@ DE-101/Module2/
 
     ![image](https://github.com/NikTomski/data-engineering/assets/142725457/47ce3b08-3a51-4801-9ed7-fdd6cc9920d5)
 
-    2.1) Повторяем шаг 2 соотвественнно со словами Region и Order_Id
+    2.1) Повторяем шаг 2 соответственнно со словами Region и Order_Id
 
     ![image](https://github.com/NikTomski/data-engineering/assets/142725457/3de42f25-8f3c-4aac-8c89-b29ad1878795)
 
