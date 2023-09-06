@@ -160,29 +160,29 @@ DE-101/Module2/
 ![image](https://github.com/NikTomski/data-engineering/assets/142725457/c7dcd518-60f7-4e93-8df3-2182c9dd716a)
 
 11. В файле returns.sql нужно заменить атрибуты Person и Region на Returned и Order_Id соответственно и заменить их типы:
-    1) Выделяем слово Person и нажимаем сочетание клавиш Ctrl + F
+1) Выделяем слово Person и нажимаем сочетание клавиш Ctrl + F
 
-    ![image](https://github.com/NikTomski/data-engineering/assets/142725457/03582ab3-ac5e-4bbf-acfe-0b297da13c9c)
+![image](https://github.com/NikTomski/data-engineering/assets/142725457/03582ab3-ac5e-4bbf-acfe-0b297da13c9c)
 
-    2) В открывшемся окне в поле "Replace with:" пишем Returned, нажимаем на кнопку "Replace All", смотрим, чтобы заменились все значения
+2) В открывшемся окне в поле "Replace with:" пишем Returned, нажимаем на кнопку "Replace All", смотрим, чтобы заменились все значения
 
-    ![image](https://github.com/NikTomski/data-engineering/assets/142725457/e8a572ff-ca41-48ae-93b6-d8a865e6cffc)
+![image](https://github.com/NikTomski/data-engineering/assets/142725457/e8a572ff-ca41-48ae-93b6-d8a865e6cffc)
 
-    ![image](https://github.com/NikTomski/data-engineering/assets/142725457/47ce3b08-3a51-4801-9ed7-fdd6cc9920d5)
+![image](https://github.com/NikTomski/data-engineering/assets/142725457/47ce3b08-3a51-4801-9ed7-fdd6cc9920d5)
 
-    2.1) Повторяем шаг 2 соответственнно со словами Region и Order_Id
+2.1) Повторяем шаг 2 соответственнно со словами Region и Order_Id
 
-    ![image](https://github.com/NikTomski/data-engineering/assets/142725457/3de42f25-8f3c-4aac-8c89-b29ad1878795)
+![image](https://github.com/NikTomski/data-engineering/assets/142725457/3de42f25-8f3c-4aac-8c89-b29ad1878795)
 
-    ![image](https://github.com/NikTomski/data-engineering/assets/142725457/e5864e93-d299-4cdf-bc90-f61b6caa7c37)
+![image](https://github.com/NikTomski/data-engineering/assets/142725457/e5864e93-d299-4cdf-bc90-f61b6caa7c37)
 
-    3) Заменяем тип данных у Returned c VARCHAR(17) на BOOLEAN, убираем PRIMARY KEY
+3) Заменяем число символов в типе данных у Returned c 17 на 3, убираем PRIMARY KEY
 
-    ![image](https://github.com/NikTomski/data-engineering/assets/142725457/9c5f4f01-6046-487d-bc0b-f61436c47f50)
+![image](https://github.com/NikTomski/data-engineering/assets/142725457/69edf4b3-bba8-4193-bf23-93de6b1a15e7)
 
-    4) Заменяем число символов в типе данных у Order_Id с 7 на 14
+4) Заменяем число символов в типе данных у Order_Id с 7 на 14
 
-    ![image](https://github.com/NikTomski/data-engineering/assets/142725457/c6fa9a6d-42c0-464d-9bd8-9a6b9d962408)
+![image](https://github.com/NikTomski/data-engineering/assets/142725457/94304e92-d3d1-42e9-b38a-3782854ef76a)
 
 12. Из файла returns.sql копируем код скрипта в наш ранее созданный файл скрипта и нажимаем кнопку с изображением листа и стрелки (Execute SQL script).
 Дожидаемся создания таблицы Returns
