@@ -313,6 +313,14 @@ GROUP BY region
 
 ## Нарисовать модель данных в SQLdbm
 
+Концептуальная модель данных
+
+![image](https://github.com/NikTomski/data-engineering/assets/142725457/4391a9aa-caeb-4c16-a6d5-e7c3a2573d4f)
+
+Физическая (логическая) модель данных
+
+![image](https://github.com/NikTomski/data-engineering/assets/142725457/42c11494-948f-4aa5-ba9d-d4590caced53)
+
 ## Нарисовать графики в Google Sheets
 
 ## Нарисовать графики в KlipFolio
