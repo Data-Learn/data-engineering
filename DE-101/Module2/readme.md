@@ -324,3 +324,8 @@ GROUP BY region
 ## Нарисовать графики в Google Sheets
 
 ## Нарисовать графики в KlipFolio
+
+## Дашборд в Yandex DataLens (https://datalens.yandex/7m4jdxdtpip8w)
+
+![image](https://github.com/NikTomski/data-engineering/assets/142725457/f85c2533-3eb4-423a-8943-09f942a7bda7)
+
