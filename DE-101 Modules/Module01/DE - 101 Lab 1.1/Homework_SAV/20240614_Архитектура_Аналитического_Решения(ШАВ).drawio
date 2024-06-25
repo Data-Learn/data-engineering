@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2024-06-14T03:25:03.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.5.4" etag="3OVRUnh38PQYxzk9HQHw" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-25T02:01:19.762Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="kZXV94MUCKCoUZBRTwHJ" version="24.5.5" type="github">
   <diagram name="Страница — 1" id="Z0kHqJ1dCbN4fKSeqbJ4">
-    <mxGraphModel>
+    <mxGraphModel dx="1500" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VQpvgcEVDO6ZWq1V-wag-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="800" as="sourcePoint" />
+            <mxPoint x="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VQpvgcEVDO6ZWq1V-wag-4" value="Source Layer - слой источников данных" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQpvgcEVDO6ZWq1V-wag-9" value="&lt;div&gt;Storage Layer - слой хранения данных&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="405" y="10" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQpvgcEVDO6ZWq1V-wag-10" value="Business Layer - слой для доступа к данным бизнес пользователей" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="800" y="10" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQpvgcEVDO6ZWq1V-wag-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="800" as="sourcePoint" />
+            <mxPoint x="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
