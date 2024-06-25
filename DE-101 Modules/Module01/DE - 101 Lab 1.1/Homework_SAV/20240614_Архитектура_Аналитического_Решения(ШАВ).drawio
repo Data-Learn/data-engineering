@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T03:33:24.929Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="GIsPIPdCPOhV3zvuaOSI" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-25T03:34:17.939Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="47RH5LNhYt20lTLRR_-m" version="24.5.5" type="github">
   <diagram name="Страница — 1" id="Z0kHqJ1dCbN4fKSeqbJ4">
     <mxGraphModel dx="1500" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="VQpvgcEVDO6ZWq1V-wag-13" value="&lt;span style=&quot;color: rgb(55, 55, 55); font-family: Jost, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Excel&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="140" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VQpvgcEVDO6ZWq1V-wag-15" value="&lt;b style=&quot;box-sizing: inherit; font-weight: 600; color: rgb(55, 55, 55); font-family: Jost, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Power BI&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="200" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
