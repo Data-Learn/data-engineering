@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-07-09T06:15:35.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ai3wvDOvi8BgtMGvg_fg" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-09T06:24:43.017Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="YvLoGXfm87FEbvuG8fAN" version="24.6.4" type="github">
   <diagram name="Страница — 1" id="Z0kHqJ1dCbN4fKSeqbJ4">
-    <mxGraphModel dx="2370" dy="1243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1580" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VQpvgcEVDO6ZWq1V-wag-1" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="VQpvgcEVDO6ZWq1V-wag-1" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="800" as="sourcePoint" />
             <mxPoint x="390" as="targetPoint" />
@@ -19,7 +19,7 @@
         <mxCell id="VQpvgcEVDO6ZWq1V-wag-10" value="Business Layer - слой для доступа к данным бизнес пользователей" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="800" y="10" width="360" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VQpvgcEVDO6ZWq1V-wag-11" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="VQpvgcEVDO6ZWq1V-wag-11" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="780" y="800" as="sourcePoint" />
             <mxPoint x="780" as="targetPoint" />
@@ -96,9 +96,6 @@
         <mxCell id="U9vFmx3U4htexn2KVSMJ-40" value="Excel-&lt;div&gt;сводные таблицы,&amp;nbsp;&lt;div&gt;дашборд&lt;/div&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.services.excel_services;" vertex="1" parent="1">
           <mxGeometry x="816" y="115.5" width="54.49" height="44.5" as="geometry" />
         </mxCell>
-        <mxCell id="U9vFmx3U4htexn2KVSMJ-41" value="&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;ЭТОГО ПОКА НЕТ В КОМПАНИИ&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;SQL&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="800" y="430" width="240" height="240" as="geometry" />
-        </mxCell>
         <mxCell id="U9vFmx3U4htexn2KVSMJ-46" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="300" y="480" width="75" height="118" as="geometry" />
         </mxCell>
@@ -152,7 +149,7 @@
             <mxPoint x="594" y="148" as="sourcePoint" />
             <mxPoint x="826" y="335" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="480" y="210" />
+              <mxPoint x="410" y="207" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -161,7 +158,7 @@
             <mxPoint x="370" y="281" as="sourcePoint" />
             <mxPoint x="530" y="140" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="480" y="260" />
+              <mxPoint x="410" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -170,11 +167,11 @@
             <mxPoint x="340" y="558.62" as="sourcePoint" />
             <mxPoint x="530" y="140" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="480" y="350" />
+              <mxPoint x="410" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="U9vFmx3U4htexn2KVSMJ-59" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="U9vFmx3U4htexn2KVSMJ-21">
+        <mxCell id="U9vFmx3U4htexn2KVSMJ-59" value="ETL :)" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="U9vFmx3U4htexn2KVSMJ-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="568.62" as="sourcePoint" />
             <mxPoint x="530" y="140" as="targetPoint" />
@@ -185,6 +182,9 @@
             <mxPoint x="585" y="139" as="sourcePoint" />
             <mxPoint x="816" y="134.76" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="U9vFmx3U4htexn2KVSMJ-61" value="SQL&lt;div&gt;&lt;span style=&quot;text-wrap: wrap; color: rgb(255, 0, 0);&quot;&gt;ЭТОГО ПОКА НЕТ В КОМПАНИИ&lt;/span&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.monitoring_sql_reporting_services;" vertex="1" parent="1">
+          <mxGeometry x="818.49" y="463" width="50" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
