@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-09T03:57:31.574Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="CojwCFIAKd3ypxSwbkFA" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-09T03:57:54.665Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="tkSDjokG8WoybgusJPQM" version="24.6.4" type="github">
   <diagram name="Страница — 1" id="Z0kHqJ1dCbN4fKSeqbJ4">
     <mxGraphModel dx="1734" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -127,6 +127,11 @@
         <mxCell id="U9vFmx3U4htexn2KVSMJ-32" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1110" y="440" width="30" height="60" as="geometry" />
         </mxCell>
+        <UserObject label="https://www.youtube.com/watch?v=_M8yxr2Inyo&amp;ab_channel=DataLearn" link="https://www.youtube.com/watch?v=_M8yxr2Inyo&amp;ab_channel=DataLearn" id="U9vFmx3U4htexn2KVSMJ-33">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="690" y="580" width="420" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
