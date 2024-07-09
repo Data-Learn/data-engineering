@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-09T06:24:43.017Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="YvLoGXfm87FEbvuG8fAN" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-09T06:26:36.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="4zE4XQvFVsDwBsZGWeOF" version="24.6.4" type="github">
   <diagram name="Страница — 1" id="Z0kHqJ1dCbN4fKSeqbJ4">
     <mxGraphModel dx="1580" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
             <mxPoint x="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U9vFmx3U4htexn2KVSMJ-1" value="DWH&lt;div&gt;Staging&lt;br&gt;&lt;div&gt;(1st priority)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;ЭТОГО ПОКА НЕТ В КОМПАНИИ&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="U9vFmx3U4htexn2KVSMJ-1" value="DWH&lt;div&gt;Staging&lt;/div&gt;&lt;div&gt;Business Layer&lt;br&gt;&lt;div&gt;(1st priority)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;ЭТОГО ПОКА НЕТ В КОМПАНИИ&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="520" y="342" width="120" height="180" as="geometry" />
         </mxCell>
         <mxCell id="U9vFmx3U4htexn2KVSMJ-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
