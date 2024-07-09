@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-09T06:14:48.658Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="sFSqF3T5aRP8l66OMsT2" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-09T06:15:35.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ai3wvDOvi8BgtMGvg_fg" version="24.6.4" type="github">
   <diagram name="Страница — 1" id="Z0kHqJ1dCbN4fKSeqbJ4">
-    <mxGraphModel dx="1673" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2370" dy="1243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,15 +31,6 @@
         <mxCell id="U9vFmx3U4htexn2KVSMJ-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="272" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U9vFmx3U4htexn2KVSMJ-6" value="Yandex/Google&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry y="120" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="U9vFmx3U4htexn2KVSMJ-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="U9vFmx3U4htexn2KVSMJ-6" target="U9vFmx3U4htexn2KVSMJ-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="474" y="352" as="sourcePoint" />
-            <mxPoint x="524" y="302" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="U9vFmx3U4htexn2KVSMJ-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="U9vFmx3U4htexn2KVSMJ-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="474" y="352" as="sourcePoint" />
@@ -66,9 +57,6 @@
             <mxPoint x="150" y="119" as="sourcePoint" />
             <mxPoint x="180" y="119.37" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="U9vFmx3U4htexn2KVSMJ-22" value="OLTP - Online Transactional Processing - обработка транзакций." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="5" y="40" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U9vFmx3U4htexn2KVSMJ-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="U9vFmx3U4htexn2KVSMJ-9" target="U9vFmx3U4htexn2KVSMJ-38">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
