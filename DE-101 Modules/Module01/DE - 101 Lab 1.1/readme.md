@@ -1,4 +1,15 @@
-# Задание для модуля 1
+# Задачи модуля 1 выполнены и загружены в репозиторий
+
+**[Постоянная ссылка на репозиторий с домашним заданием модуля 1:](https://github.com/SuperAer/data-engineering/tree/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1/Homework_SAV)**
+```
+https://github.com/SuperAer/data-engineering/tree/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1/Homework_SAV
+```
+
+**[Ссылка на описание (README) выполненного задания модуля 1:](https://github.com/SuperAer/data-engineering/blob/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1/Homework_SAV/README.md)**
+```
+https://github.com/SuperAer/data-engineering/blob/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1/Homework_SAV/README.md
+```
+
 
 ```
 Результаты домашней работы загружайте к себе в git репозиторий. Создайте папки
