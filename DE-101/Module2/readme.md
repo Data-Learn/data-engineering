@@ -313,6 +313,19 @@ GROUP BY region
 
 ## Нарисовать модель данных в SQLdbm
 
+Концептуальная модель данных
+
+![image](https://github.com/NikTomski/data-engineering/assets/142725457/4391a9aa-caeb-4c16-a6d5-e7c3a2573d4f)
+
+Физическая (логическая) модель данных
+
+![image](https://github.com/NikTomski/data-engineering/assets/142725457/42c11494-948f-4aa5-ba9d-d4590caced53)
+
 ## Нарисовать графики в Google Sheets
 
 ## Нарисовать графики в KlipFolio
+
+## Дашборд в Yandex DataLens (https://datalens.yandex/7m4jdxdtpip8w)
+
+![image](https://github.com/NikTomski/data-engineering/assets/142725457/f85c2533-3eb4-423a-8943-09f942a7bda7)
+
